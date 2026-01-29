@@ -1,0 +1,1815 @@
+{
+  "baseUrl": "https://msig.9root.ai/workflow-runs/",
+
+  "dailyEmails": [
+    { "date": "2026-01-22", "count": 118 },
+    { "date": "2026-01-23", "count": 190 },
+    { "date": "2026-01-24", "count": 16 },
+    { "date": "2026-01-25", "count": 8 },
+    { "date": "2026-01-26", "count": 160 },
+    { "date": "2026-01-27", "count": 146 }
+  ],
+
+  "alerts": [
+    {
+      "datetime": "2026-01-22T03:27:00",
+      "runId": "01KFJGEZ37G32YBQ3CXS9C10EH",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Third-party vehicle (Range Rover) rear-ended another vehicle, which then struck claimant's truck, indicating potential fault of external driver and opportunity for workers' comp carrier to pursue subrogation against the at-fault motorist or their insurer.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-22T04:00:00",
+      "runId": "01KFJJBW13M7S6SX8QRTA32A74",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Loss description attributes collision to a speeding Range Rover rear-ending another vehicle, suggesting clear third-party fault and a potential opportunity for recovery against that driver/owner or their insurer.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-22T06:59:00",
+      "runId": "01KFJWKBV7JT7CRM4EJWH1T5HQ",
+      "category": "Construction Defects",
+      "signal": "Construction: Latent Defect",
+      "rationale": "HOA sues over townhome project involving stucco/Plastering work, and Builders tenders defense across multiple GL policy periods, indicating potential multi-year construction defect exposure requiring coverage analysis.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-22T07:13:00",
+      "runId": "01KFJXBAXNGBXK8DQPE862CRSR",
+      "category": "Litigation & Legal",
+      "signal": "Statute of Limitations (SOL)",
+      "rationale": "Attached denial letter explicitly states the property damage statute of limitations and its exact expiration date for this loss, indicating a key legal filing deadline that must be tracked to avoid late or defaulted claims.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-22T07:51:00",
+      "runId": "01KFJZKJXJZNPGR20A7SJVAHQS",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Accident description states the insured vehicle was struck from behind by another vehicle, clearly indicating potential third-party fault and an opportunity to pursue subrogation recovery.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-22T08:04:00",
+      "runId": "01KFK09QXG2VEPNN5R7TAY2VAV",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Tender letter from Sedgwick for The Home Depot alleges injuries from an LG gas range and requests LG defend and indemnify, indicating third-party product fault and potential recovery exposure.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-22T08:13:00",
+      "runId": "01KFK0T7MQXVMMVSCBKPW77V54",
+      "category": "Construction Defects",
+      "signal": "Construction: Latent Defect",
+      "rationale": "HOA lawsuit over townhome construction against plastering contractor with multiple GL policy periods suggests complex construction defect allegations requiring multi-year coverage analysis and defense tender coordination.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-22T08:28:00",
+      "runId": "01KFK1PPCSXXDQ9GFX9Z4JF13F",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Email notes police report indicates the 'other party' may be at fault for the 11/25/25 accident, suggesting a potential subrogation opportunity.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-22T08:36:00",
+      "runId": "01KFK2413P1FZ3SBRYYYGWC02P",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Attorney subrogation notice on law firm letterhead states the office represents State Farm as subrogee of Alvin Kim, confirming legal counsel involvement on the claim.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-22T08:51:00",
+      "runId": "01KFK2YZ5VZNAT426M7VSFXCMJ",
+      "category": "Litigation & Legal",
+      "signal": "Evidence Preservation",
+      "rationale": "Shareholder demand letter states 'litigation is imminent' and requests the company implement document holds, which is a directive to preserve evidence and records for anticipated litigation.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-22T09:02:00",
+      "runId": "01KFK39ADW98NHCSSV0A7ERY4Q",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Letter of Representation from claimant's counsel plus internal email referencing 'Pursuant to the LOR' show claimant is now represented, so Attorney Representation flag applies to prevent improper direct contact.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-22T09:14:00",
+      "runId": "01KFK49DCRABSTNXQATQ0J099H",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "FNOL notes 'Subrogation Potential: Subrogation' with narrative stating the other vehicle lost control and struck the insured's stopped car. Police report shows citation issued to the other driver, indicating clear third-party fault and recovery opportunity.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-22T09:15:00",
+      "runId": "01KFK4BCZC334ZWSNV55W8SBNZ",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Letter from Franklin Mutual states it will seek reimbursement from responsible parties for fire damage and invites LG to a joint site exam, clearly indicating a potential subrogation claim against the product manufacturer.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-22T09:30:00",
+      "runId": "01KFK56AS1XHAWX3PP24E6NKWM",
+      "category": "Claim Severity & Complexity",
+      "signal": "Fatality or Catastrophic Injury",
+      "rationale": "Complaint alleges silicosis-related toxic exposure causing death and a wrongful death action, with very large claimed damages and punitive damages reserved—meeting the 'fatality' high-severity criteria requiring immediate senior review.",
+      "criticality": "critical"
+    },
+    {
+      "datetime": "2026-01-22T09:37:00",
+      "runId": "01KFK5N0WWP5N8PFTQ2WPGCCRW",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Claim reported and discussed with a contact using a law firm email domain, indicating claimant is represented by legal counsel.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-22T09:56:00",
+      "runId": "01KFK6PM21XWTGWNX8S6CAVQY4",
+      "category": "Claim Severity & Complexity",
+      "signal": "Class Action",
+      "rationale": "Litigation demand and supporting documents describe ongoing securities fraud class actions against Fiserv's directors and officers, including multiple federal class actions. Presence of 'Securities Fraud Class Actions' and 'class action' language triggers the Critical Flagging high-severity alert.",
+      "criticality": "critical"
+    },
+    {
+      "datetime": "2026-01-22T09:58:00",
+      "runId": "01KFK6T4S159TN2WAGEM9FQXAC",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Email states the property owner has retained an attorney regarding the fire loss, indicating first notice of legal representation for the claimant and need to avoid direct contact.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-22T10:11:00",
+      "runId": "01KFK7GVV9GYS0X8RWK9PT10KW",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "FNOL notes other driver lost control and struck a stopped insured vehicle, and flags 'Subrogation Potential: Subrogation,' indicating potential recovery from the at-fault party's insurer.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-22T10:18:00",
+      "runId": "01KFK7Y4DDJ5QZ9S1MMA9BHE02",
+      "category": "Claim Severity & Complexity",
+      "signal": "Fatality or Catastrophic Injury",
+      "rationale": "Text and loss advice show a wrongful-death healthcare claim for a 20-year-old patient ('deceased,' injury type 'Death'), triggering the high-severity 'Fatality' criterion requiring immediate senior oversight.",
+      "criticality": "critical"
+    },
+    {
+      "datetime": "2026-01-22T10:21:00",
+      "runId": "01KFK82A6KYSX18TE6MHMRZN9F",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Freight claim packet attributes cargo damage to carrier/warehouse ('we hold you fully liable') with OS&D and damage forms, clearly indicating third-party fault and potential recovery opportunity.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-22T10:42:00",
+      "runId": "01KFK9AE2B606GW7AF1S5EBVPM",
+      "category": "Environmental & Toxic Tort",
+      "signal": "Environmental: PFAS / AFFF",
+      "rationale": "Complaint alleges community exposure to carcinogenic chemicals (1,3-butadiene and benzene) from petrochemical facilities in Port Neches causing leukemia, fitting environmental toxic tort / mass-chemical contamination risk similar to PFAS/AFFF cases.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-22T10:56:00",
+      "runId": "01KFKA5PJXCWYR12NQBCQ6T24Y",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Accident description attributes collision to another speeding vehicle entering the intersection abruptly, suggesting potential third-party fault and an opportunity for subrogation recovery.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-22T11:00:00",
+      "runId": "01KFKAA5CXH9XHDM73Y368C4ZG",
+      "category": "Claim Severity & Complexity",
+      "signal": "Fatality or Catastrophic Injury",
+      "rationale": "Email and loss advice report a wrongful-death medical malpractice claim for a 20-year-old who died from meningitis/encephalitis, explicitly indicating a fatality, which fits the Critical Flagging trigger for immediate senior attention.",
+      "criticality": "critical"
+    },
+    {
+      "datetime": "2026-01-22T11:01:00",
+      "runId": "01KFKADR1GHBS11TG45QDE9W0W",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Injury arose from another driver's van running a red light and striking claimant's vehicle, indicating clear third-party fault and subrogation potential.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-22T11:06:00",
+      "runId": "01KFKAPGAAT5TCJ5WMDYASF5E2",
+      "category": "Litigation & Legal",
+      "signal": "Statute of Limitations (SOL)",
+      "rationale": "Affidavit from Overdrive's counsel states they are applying to add Pioneer as a third party before expiration of the limitation period, signaling an imminent SOL deadline risk.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-22T11:25:00",
+      "runId": "01KFKBRWXV56RS2S5TH0V6DPH6",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Email from law firm domain concerning Ronald Powers workers' compensation informal conference shows claimant is represented by counsel, so direct contact with claimant could violate representation rules.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-22T11:28:00",
+      "runId": "01KFKBZ5T0Z0C494XZ4QE5SEJ8",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Accident description shows claimant injured while passenger; another vehicle (Range Rover) rear-ended the SUV that was pushed into insured's trailer, indicating potential third-party fault and subrogation opportunity.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-22T11:29:00",
+      "runId": "01KFKC1DQG7YQ6HK6M80C5X857",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Accident description shows another vehicle rear-ended the SUV, pushing it into the insured's truck, indicating clear third-party fault and potential recovery opportunity.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-22T11:30:00",
+      "runId": "01KFKC3ZGCNM0CGGX7T5CEC1NX",
+      "category": "Multi-Claimant Exposure",
+      "signal": "Multi-Claimant Linkage",
+      "rationale": "Putative ERISA class action 'Fredrick, et al.' on behalf of all similarly situated participants alleges unlawful tobacco surcharge, indicating many claimants tied to the same benefits practice.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-22T11:45:00",
+      "runId": "01KFKCXW58H8WQC5HBRPHYY9KK",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Email originates from Winder Law Firm, with sender identified as a legal assistant and standard attorney–client confidentiality notice, indicating the claimant is represented by counsel and that direct contact should now go through the law firm.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-22T11:52:00",
+      "runId": "01KFKDC9SB26EJN94KPXNPPX7A",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Incoming claim communication is from a law firm email address, with signature identifying sender as a legal assistant at Winder Law Firm, indicating the claimant is represented by counsel.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-22T13:46:00",
+      "runId": "01KFKKVSPVRXMWGSVC7HPPDXP3",
+      "category": "Subrogation & Recovery",
+      "signal": "Excess Carrier Notification",
+      "rationale": "Notice to multiple excess layers for potential $40–50M product liability verdict, with current reserves $3M and MSIG as Layer 1 excess; email and attached 'Notice to Carriers – Case Summary' show formal excess claim notification.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-22T15:02:00",
+      "runId": "01KFKR6R7YRD183110YP8M3XV5",
+      "category": "Litigation Tactics",
+      "signal": "Judicial Hellhole / Venue",
+      "rationale": "Trial is in the 173rd Judicial District Court in Henderson County, Texas, a plaintiff-friendly Texas venue, with a paraplegia product-liability case evaluated at $40–50M and layered excess coverage implicated.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-22T19:48:00",
+      "runId": "01KFM8M10RA71PRZ0ECXVXNVP0",
+      "category": "Claim Severity & Complexity",
+      "signal": "Medical Severity Escalation",
+      "rationale": "Faxed RFA and operative report document recent shoulder surgery (arthroscopic rotator cuff repair, biceps tenodesis, multiple procedures and DME) for claimant Jimmy Cardona, representing a major increase in medical treatment severity and likely reserves compared to initial injury information.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-22T19:53:00",
+      "runId": "01KFM8VFQ5ZQQCY2MN4DP47E9V",
+      "category": "Litigation & Legal",
+      "signal": "Evidence Preservation",
+      "rationale": "Claimant's attorney letter formally demands preservation of all video and related records of the 9/14/25 incident and threatens a spoliation of evidence action if data is not maintained, matching the Evidence Preservation risk criteria.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-22T20:15:00",
+      "runId": "01KFMA03X5AZEBHTZJRD3K7G20",
+      "category": "Litigation & Legal",
+      "signal": "Evidence Preservation",
+      "rationale": "Attorney demand letter instructs insureds to preserve all video footage, incident reports, and relevant documentation related to the incident, which is a clear preservation-of-evidence request.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-22T20:42:00",
+      "runId": "01KFMBN2389WF8RGGXN4W86Z3V",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Claim is being reported and followed up by Winder Law Firm, with a legal assistant using a law-firm email domain, indicating the claimant is represented by counsel and direct contact with the insured should be avoided.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-22T20:42:00",
+      "runId": "01KFMBNK96MEG561996G9SHVTS",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Cargo claim packet holds FedEx Freight Economy fully liable for damage and assigns subrogation rights to MSIG, indicating third-party carrier fault and opportunity for recovery.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-22T20:52:00",
+      "runId": "01KFMC0J0THEKQBH6W930N9A5P",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Container delivered tampered with a different seal and one damaged carton at Yusen warehouse suggests potential third-party responsibility and possible subrogation opportunity.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-22T21:15:00",
+      "runId": "01KFMDK3PHPB878YMMAWEQ5RE1",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Wording and documentation assert carrier Celtic International is 'fully liable' for cargo damage and assign subrogation rights to MSI, indicating a clear opportunity for recovery from a third party.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-22T21:16:00",
+      "runId": "01KFMDM61CFQV4YD0WBXB3NDZS",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Progressive's Intercompany Reimbursement Notification asserts your insured 'would have been liable' and requests PIP reimbursement under NY Insurance Law §§5105/5221, signaling clear third-party fault and a subrogation opportunity.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-23T00:30:00",
+      "runId": "01KFMRPPCY248H0JREG4HQWGQX",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Workers' comp medical report lists 'Law Offices of Antony E. Gluck' for the claimant, indicating the claimant is represented by legal counsel.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-23T00:32:00",
+      "runId": "01KFMRTY57BM6W3D1E5HNWBDCM",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Medical report CCs 'Law Offices of Antony E. Gluck,' indicating the injured worker is represented by counsel in this workers' compensation claim and direct contact should be avoided.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-23T04:23:00",
+      "runId": "01KFN626Z3AKD2B7MN5R00Q7X0",
+      "category": "Claim Severity & Complexity",
+      "signal": "Medical Severity Escalation",
+      "rationale": "Incoming dermatology records show ongoing joint pain, patch testing, and potential metal allergy related to an orthopedic implant, indicating evolving medical complexity that could increase reserves and claim exposure.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-23T04:46:00",
+      "runId": "01KFN7CJ03S4R33366202AVW2Y",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Email from plaintiff law firm; sender identifies as Attorney; advises complaint filed and served and discusses default and retaining counsel, confirming formal legal representation against the insured.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-23T05:42:00",
+      "runId": "01KFNAJDEVSHC8Y50BV4T0G960",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "FNOL driver comments state the other vehicle was 'illegally parked in front of a do not park lane,' indicating potential third-party fault and possible subrogation opportunity despite 'No Subrogation' marked in the form.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-23T06:43:00",
+      "runId": "01KFNE1SYVY7MZQTG3XW6J04SQ",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Police report attributes unsafe lane change (CVC 21658(a)) and sideswipe collision to Party #1 (Toyota driver), not MS Transverse's insured Freightliner driver, indicating third-party fault and potential subrogation opportunity.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-23T06:53:00",
+      "runId": "01KFNEJBW8KT826M0N8GTQSPBE",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Email is from Winder Law Firm on behalf of claimant, including law firm domain and legal assistant signature, indicating claimant is represented by counsel and direct contact with claimant/insured must be handled accordingly.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-23T08:07:00",
+      "runId": "01KFNJT7ZEP3RVZ7ZQF9TRS7RM",
+      "category": "Litigation Tactics",
+      "signal": "Punitive Damage Setup",
+      "rationale": "Silicosis toxic-injury complaint alleges long-term knowledge and concealment of hazardous artificial stone dust, detailed history of silicosis risk, and fraudulent concealment, building a narrative of willful disregard for worker safety consistent with a punitive damages setup.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-23T08:08:00",
+      "runId": "01KFNJXAHH9K36S5QW8KAF26BX",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Plaintiff email signed by 'Attorney' with complaint attached, is first notice that claimant is represented and that default judgment is being pursued.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-23T08:08:00",
+      "runId": "01KFNJXHMH7JMR4F0MDJSXYVW6",
+      "category": "Claim Severity & Complexity",
+      "signal": "Fatality or Catastrophic Injury",
+      "rationale": "Complaint alleges silicosis toxic injuries with decades of exposure and at least one deceased worker (successor in interest to deceased husband), indicating a high-severity toxic tort/wrongful death exposure requiring immediate senior oversight.",
+      "criticality": "critical"
+    },
+    {
+      "datetime": "2026-01-23T08:08:00",
+      "runId": "01KFNJXDN4XJT4MJ0FQTK4SA0Q",
+      "category": "Litigation Tactics",
+      "signal": "Punitive Damage Setup",
+      "rationale": "Complaint repeatedly alleges malicious conduct, conscious disregard for safety, fraudulent concealment of known silica hazards, and seeks punitive and exemplary damages based on long-known silicosis risks from artificial stone products.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-23T08:35:00",
+      "runId": "01KFNMG3GBHN8934V30AYGD0T3",
+      "category": "Subrogation & Recovery",
+      "signal": "Excess Carrier Notification",
+      "rationale": "Email shows potential exposure up to $40–50M and discussion about setting up a claim on excess policy CSUSA2304409 because our $10M share of the $50M xs $50M layer may be implicated, indicating an excess carrier notification situation.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-23T08:35:00",
+      "runId": "01KFNMF8ERT13SPXZ3CZXSQ4JE",
+      "category": "Coverage Issues",
+      "signal": "Policy Gap / Silent Exposure",
+      "rationale": "Claim involves vehicle/driver insured under a different TOPPAN entity; MSIG auto policy BVR8403049 does not cover this New Jersey vehicle. Broker confirmed no coverage and another carrier is responsible, indicating a potential coverage gap/silent exposure.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-23T08:38:00",
+      "runId": "01KFNMKD3V5KRS8M2G0ZKW0G2X",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Claim documents describe FedEx misdelivery to the wrong address and a partial $100 carrier payment, signaling third-party carrier fault and a potential opportunity for recovery of the remaining $1,287.04 loss.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-23T08:43:00",
+      "runId": "01KFNMWPYPCQ4YJXZR3QNT0JY9",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Loss description notes damage caused by loose gravel from a truck ahead, indicating potential third-party fault and a subrogation opportunity against the truck owner/insurer.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-23T08:45:00",
+      "runId": "01KFNN2PR6XS0DTMXSRBCRZFS4",
+      "category": "Coverage Issues",
+      "signal": "Policy Gap / Silent Exposure",
+      "rationale": "Loss occurred at 8187 Montara Peak #2, which is not listed on the policy. The email specifically asks if this location is covered, signaling a potential coverage gap/silent exposure for the collapse loss at that site.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-23T08:49:00",
+      "runId": "01KFNN7S3ZVSCMZD17Q9YN4K4J",
+      "category": "Claim Severity & Complexity",
+      "signal": "Fatality or Catastrophic Injury",
+      "rationale": "Silicosis toxic-injury lawsuit with decades-long exposure period plus mention of deceased claimant and minor children indicates severe, high-value exposure requiring immediate senior review.",
+      "criticality": "critical"
+    },
+    {
+      "datetime": "2026-01-23T09:09:00",
+      "runId": "01KFNPCDTFQH1Z6AQ1BG3YY74N",
+      "category": "Claim Severity & Complexity",
+      "signal": "Fatality or Catastrophic Injury",
+      "rationale": "New silicosis toxic-injury lawsuit with long-term exposure allegations and a deceased claimant's successor indicates a severe, high-exposure loss requiring immediate senior intervention.",
+      "criticality": "critical"
+    },
+    {
+      "datetime": "2026-01-23T09:31:00",
+      "runId": "01KFNQNKJ5MJ8SVFADV1AQCDB2",
+      "category": "Coverage Issues",
+      "signal": "Policy Gap / Silent Exposure",
+      "rationale": "Loss occurred after apparent policy expiration, prompting verification of renewal and potential coverage gap analysis.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-23T09:41:00",
+      "runId": "01KFNR847SVWBKD0XNBAWR581F",
+      "category": "Litigation Tactics",
+      "signal": "Punitive Damage Setup",
+      "rationale": "Complaint pleads multiple wantonness and negligent entrustment counts, alleges complete disregard for safety and serious driving errors, aiming to support punitive damages beyond standard negligence.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-23T10:09:00",
+      "runId": "01KFNSV2GA1033Y061CNRHK95Q",
+      "category": "Professional Liability",
+      "signal": "Professional Liability: E&O",
+      "rationale": "Shareholder complaints allege negligent misrepresentation and concealment in a merger Prospectus by American Water's board, triggering a professional liability / errors & omissions exposure under the D&O program.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-23T10:43:00",
+      "runId": "01KFNVT93JSJ3ZQRD6S7M719B5",
+      "category": "Coverage Issues",
+      "signal": "Policy Gap / Silent Exposure",
+      "rationale": "Email discusses damage to both a company vehicle and company house where property coverage ended 1/1/26, creating a potential coverage gap/silent exposure question for the home portion of the loss.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-23T10:53:00",
+      "runId": "01KFNWDDEY1R04RWVSD0A59252",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Email originates from a law firm legal assistant, using a law firm domain and signature, indicating the claimant is represented by counsel and direct contact with claimant should be avoided.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-23T11:02:00",
+      "runId": "01KFNWWKJGV5T6XZYMVK1KQ6T4",
+      "category": "Litigation Tactics",
+      "signal": "Punitive Damage Setup",
+      "rationale": "Federal complaint repeatedly alleges civil rights violations, bad faith, malice, and intent to injure, and explicitly demands punitive damages to punish and deter defendants, creating potential exposure beyond standard compensatory limits.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-23T11:03:00",
+      "runId": "01KFNWZ2D8758BEF5ZKAV9PJRV",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Correspondence is from Winder Law Firm, sent by a legal assistant regarding a new auto claim, indicating the claimant is represented by counsel and that future communications should be directed to the attorney's office rather than the insured.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-23T11:31:00",
+      "runId": "01KFNYJ9X6CJA2N911TKXF4Y86",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Email originates from KJ Injury & Accident Lawyers regarding claim #AA220386, indicating the claimant is represented by legal counsel and direct contact protocols must change.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-23T11:39:00",
+      "runId": "01KFNYZQ5TVZ2SZ47RSQK7GFTX",
+      "category": "Coverage Issues",
+      "signal": "Policy Gap / Silent Exposure",
+      "rationale": "Claim dates fall just after listed policy expiration while renewal is not yet issued/entered, indicating a potential coverage gap exposure until renewal is confirmed in the system.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-23T12:14:00",
+      "runId": "01KFP0ZM333F1XNN1DESSXNSZ4",
+      "category": "Coverage Issues",
+      "signal": "Policy Gap / Silent Exposure",
+      "rationale": "Loss occurred at 2150 W 195th St, Torrance, CA, which is not listed on WC policy WCP8522628; underwriting is being asked to add the location post-loss, indicating a potential coverage gap for this workers' compensation claim.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-23T13:08:00",
+      "runId": "01KFP421QD1XXG3Q6AHVJNTHHP",
+      "category": "Multi-Claimant Exposure",
+      "signal": "Multi-Claimant Linkage",
+      "rationale": "Multiple shareholder demand letters and separate New York complaints (Stewart, Kent) all challenge the same Confluent–IBM merger and proxy disclosures, indicating several claimants asserting related claims arising from a single corporate transaction.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-23T13:46:00",
+      "runId": "01KFP6A11HTDP8D2R3CMP65KJE",
+      "category": "Claim Severity & Complexity",
+      "signal": "Catastrophic Property Loss",
+      "rationale": "Extensive fire damage reported at JFK airport terminal under large builders risk policy with many carriers involved, indicating a potentially high-severity property loss requiring immediate senior oversight.",
+      "criticality": "critical"
+    },
+    {
+      "datetime": "2026-01-23T14:14:00",
+      "runId": "01KFP7WRKPWK2MACMD3EBG8ZS5",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "The email states that the third party is 100% at fault and disobeyed a traffic signal, which is an early mention of third-party fault consistent with subrogation indicator criteria.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-23T14:36:00",
+      "runId": "01KFP93SEFFK9H0FZF9Z60C5EQ",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Email describes a parked vehicle struck by another car, indicating clear third-party fault and a potential subrogation recovery opportunity.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-23T15:11:00",
+      "runId": "01KFPAW955PVXHGG25WJJEEFZR",
+      "category": "Claim Severity & Complexity",
+      "signal": "Class Action",
+      "rationale": "Email and attached complaint report the 'Klarna Group plc Securities Class Action,' a high-severity securities class action naming BofA Securities as an underwriter defendant, matching the Critical Flagging example that triggers on the presence of a Class Action.",
+      "criticality": "critical"
+    },
+    {
+      "datetime": "2026-01-23T15:11:00",
+      "runId": "01KFPB3F03JY3N1JVAP239WM6P",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Email and attached subpoena are from and reference multiple attorneys, instructing carriers to direct correspondence through counsel.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-23T15:12:00",
+      "runId": "01KFPB4WF8BGB4MRM3603CWV6C",
+      "category": "Claim Severity & Complexity",
+      "signal": "Class Action",
+      "rationale": "December D&O/EPL claims report lists multiple class actions and mass-claim matters (e.g., PAGA class action, BUS pre-lit class action, Dignity Health suits with 100+ claims), signaling high-severity exposure.",
+      "criticality": "critical"
+    },
+    {
+      "datetime": "2026-01-23T15:12:00",
+      "runId": "01KFPB54DRDVE2FQ4G5S83Y379",
+      "category": "Multi-Claimant Exposure",
+      "signal": "Multi-Claimant Linkage",
+      "rationale": "Multiple matters on the D&O/EPL claims report involve class or multi-claimant litigation (PAGA class action, class pre-lit, Dignity Health matters with 100+ claims), indicating multiple claimants linked to common disputes with Kaiser.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-23T15:19:00",
+      "runId": "01KFPB9HF315TNKRHVKAH1C1GH",
+      "category": "Claim Severity & Complexity",
+      "signal": "Class Action",
+      "rationale": "FNOL and attached complaint show a putative securities class action against Klarna and underwriters, explicitly labeled a 'securities class action,' which fits the Critical Flagging definition for high-severity events including class actions.",
+      "criticality": "critical"
+    },
+    {
+      "datetime": "2026-01-23T15:25:00",
+      "runId": "01KFPBXMDTVXMZA0ZF6G65BTDJ",
+      "category": "Litigation Tactics",
+      "signal": "Punitive Damage Setup",
+      "rationale": "Complaints allege willful and wanton conduct in conscious disregard of safety, detail a pattern of violent incidents, and explicitly seek punitive damages, indicating an attempt to support punitive recovery beyond standard negligence.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-23T15:31:00",
+      "runId": "01KFPC851D85P4D31RDJC8JZCE",
+      "category": "Claim Severity & Complexity",
+      "signal": "Class Action",
+      "rationale": "Email and attachments report a securities class action complaint against BofA Securities arising from Klarna's IPO, explicitly labeled 'Securities Class Action,' which qualifies as a high-severity class action event requiring senior attention.",
+      "criticality": "critical"
+    },
+    {
+      "datetime": "2026-01-23T15:41:00",
+      "runId": "01KFPCTRZBR3XP92VBGG3A8XTA",
+      "category": "Claim Severity & Complexity",
+      "signal": "Catastrophic Injury",
+      "rationale": "Complaint alleges a shooting at the insured's premises causing catastrophic, permanent injuries and lifetime medical care needs, indicating a high-severity loss.",
+      "criticality": "critical"
+    },
+    {
+      "datetime": "2026-01-23T15:57:00",
+      "runId": "01KFPDQ1FQVEJZ98WCHN944H9X",
+      "category": "Litigation Tactics",
+      "signal": "Punitive Damage Setup",
+      "rationale": "Underlying asbestos mesothelioma complaint expressly pleads a separate punitive damages cause of action, alleging malicious, wanton, reckless conduct and conscious indifference, signalling exposure beyond compensatory damages and policy limits.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-23T15:57:00",
+      "runId": "01KFPDS2WJNE4AFJMH3ZFM9EZG",
+      "category": "Claim Severity & Complexity",
+      "signal": "Class Action",
+      "rationale": "Email reports a securities class action against the insured, explicitly using 'Class Action' language, which is listed as a trigger event for Critical Flagging requiring senior review.",
+      "criticality": "critical"
+    },
+    {
+      "datetime": "2026-01-23T16:00:00",
+      "runId": "01KFPDW4NHN33YF9MVPNGEJQVE",
+      "category": "Claim Severity & Complexity",
+      "signal": "Class Action",
+      "rationale": "Securities class action complaint against Oracle and underwriter BofA, with 'Class Action Complaint' caption and 'on behalf of all others similarly situated,' triggers high-severity class action exposure requiring senior management attention.",
+      "criticality": "critical"
+    },
+    {
+      "datetime": "2026-01-23T16:09:00",
+      "runId": "01KFPEDGFZJM34R6N6ZPQ0RDQC",
+      "category": "Claim Severity & Complexity",
+      "signal": "Class Action",
+      "rationale": "Email and complaint give first notice of 'Oracle Corporation Securities Class Action' and include a 'CLASS ACTION COMPLAINT', matching the Critical Flagging definition example where inbound mail contains the words 'Class Action', indicating a high-severity, multi-claimant securities lawsuit.",
+      "criticality": "critical"
+    },
+    {
+      "datetime": "2026-01-23T16:10:00",
+      "runId": "01KFPE63SZF6D0JZ1VPK4J3Q7N",
+      "category": "Claim Severity & Complexity",
+      "signal": "Medical Severity Escalation",
+      "rationale": "Worker sustained leg fracture and required hospital admission with overnight stay, indicating higher-than-routine medical severity and likely reserve impact on this workers' compensation claim.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-23T16:17:00",
+      "runId": "01KFPE5BC7H02YTWESN9Z6XWQZ",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Subrogation demand from Fleet Response on behalf of Sherwin-Williams for $18,952.75, including accident description blaming Buchanan's driver for damaging a floor scrubber while hauling cargo. Indicates third-party fault and recovery opportunity.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-23T16:51:00",
+      "runId": "01KFPGTDNHWB1GG9XG3CSFARYA",
+      "category": "Claim Severity & Complexity",
+      "signal": "Cyber/Data Breach",
+      "rationale": "Notice of circumstance for alleged sale of 28 million Affirm records on the dark web represents a high-severity cyber/privacy incident requiring immediate senior intervention.",
+      "criticality": "critical"
+    },
+    {
+      "datetime": "2026-01-23T17:02:00",
+      "runId": "01KFPHGD788G2S7XMFA1Z11JRB",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Email attributes loss to Nippon Express dropping a pallet and includes a Notice of Claim to Yusen Logistics, indicating identifiable third-party fault and a potential recovery opportunity.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-23T17:05:00",
+      "runId": "01KFPHN6FNVY5G9K8E0X52K4W1",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Email reports damaged totes allegedly dropped by Nippon Express team members and includes a Notice of Claim to Nippon Express, indicating third-party fault and a potential recovery opportunity.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-23T17:07:00",
+      "runId": "01KFPHCRJM7ET4P6AGE8H3AD8H",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "WCAB Application and accompanying letters show Dario Castellanos is represented by Abramson Labor Group and attorney Tzvi Schwarzbaum (Esq.), including signed Notice of Representation and attorney correspondence to Earthrise/Mitsui regarding the workers' compensation claim.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-23T17:09:00",
+      "runId": "01KFPHWFESNNF8SR9G57CPCAV5",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Email states Nippon Express team members dropped a pallet and totes causing damage, indicating third-party fault and a subrogation opportunity.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-23T17:19:00",
+      "runId": "01KFPJG0BHXB26RM6JM329DBDZ",
+      "category": "Subrogation & Recovery",
+      "signal": "Excess Carrier Notification",
+      "rationale": "Email is titled 'Excess Insurer Notice' and simultaneously notifies a large tower of excess E&O/cyber carriers about the Verizon outage claim.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-23T21:33:00",
+      "runId": "01KFQ0ZKWJ3PVRKR084JFJJJJ6",
+      "category": "Claim Severity & Complexity",
+      "signal": "Medical Severity Escalation",
+      "rationale": "Work comp claim describes right leg broken in three places and ER treatment, indicating significant injury severity and likely higher medical and indemnity exposure.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-23T23:37:00",
+      "runId": "01KFQ81T7B00CF0M9C9SBZQG20",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Email and incident reports state tenant's coffee filtration system caused the water damage and tenant has been advised to report the matter to its own insurance carrier, indicating clear third-party fault and recovery potential.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-24T01:21:00",
+      "runId": "01KFQE2337GAP3G3NHX325YHDS",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Email notes negligent third party and that subrogation is applicable for this work-related vehicle collision, indicating a recovery opportunity.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-24T07:37:00",
+      "runId": "01KFR3J2MRT289AK4P0E24016S",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Loss description and intake details emphasize another vehicle striking the insured's trailer and identify the third-party driver and their insurer, indicating potential recovery opportunities against a potentially at-fault party.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-24T15:30:00",
+      "runId": "01KFRYKMBH7196V2XSVCFAS6F7",
+      "category": "Multi-Claimant Exposure",
+      "signal": "Multi-Claimant Linkage",
+      "rationale": "Notice letter lists over 200 lawsuits against Home Depot in coordinated Silicosis Litigation arising from similar product exposures, indicating many related claims tied to a common root cause.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-25T03:20:00",
+      "runId": "01KFT7094TDD3CKD4KFT924CPW",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Claim documents and email come from The Law Offices of Bob Nehoray, showing the worker is represented by counsel in a WC application against CalPortland Company; attorney name, firm letterhead, and fee disclosure confirm legal representation.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-25T19:02:00",
+      "runId": "01KFVX497BW15BDZHZPGMXT95R",
+      "category": "Claim Severity & Complexity",
+      "signal": "Extreme Allegations",
+      "rationale": "Email and court filing allege killings, attempted murders, terrorism, and large-scale governmental misconduct, indicating an extreme, high-severity situation requiring immediate senior review and potential security/legal escalation.",
+      "criticality": "critical"
+    },
+    {
+      "datetime": "2026-01-26T04:04:00",
+      "runId": "01KFWW66Y8EBRAR01R7PS9197Y",
+      "category": "Claim Severity & Complexity",
+      "signal": "Extreme Allegations",
+      "rationale": "Highly escalated whistleblower allegations of international terrorism, killings, nuclear weapons and government conspiracy, addressed to courts, regulators and media, indicate an extreme-severity situation requiring immediate senior review and potential crisis management.",
+      "criticality": "critical"
+    },
+    {
+      "datetime": "2026-01-26T06:05:00",
+      "runId": "01KFX33XBHCE4EES7HFW1C17KW",
+      "category": "Coverage Issues",
+      "signal": "Policy Gap / Silent Exposure",
+      "rationale": "Email thread shows uncertainty whether the loss location was covered for the 1/12/23 incident, with a request to rush-add it to the 12/10/22–12/10/23 policy term, indicating a potential coverage gap.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-26T06:23:00",
+      "runId": "01KFX43ENEK5YFJ1RZCAKVY8JG",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Workers' Compensation Board notice lists law firms as parties of interest, indicating claimant has legal counsel and triggering the Attorney Representation risk flag.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-26T06:54:00",
+      "runId": "01KFX5WPY1HFTSDZQ66SZXD4W5",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Email indicates the claim was reported by an attorney calling on behalf of the Mitsui insured, signaling initial legal counsel involvement.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-26T06:59:00",
+      "runId": "01KFX66163HRZWR59GMAKF1E4B",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Email from external law firm includes a letter of representation and requests PIP claim details, indicating claimant is now represented by counsel and direct contact with the insured must be avoided.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-26T07:36:00",
+      "runId": "01KFX88642BJJQPH9A6KNZVDXR",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Police report and citation show Unit 1 failed to yield and is at fault, while Hertz (rental vehicle for Unit 2) is seeking recovery, indicating a clear subrogation opportunity against the MS Transverse–insured party.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-26T07:52:00",
+      "runId": "01KFX963MCTQSAF4CS2PTS5N9M",
+      "category": "Claim Severity & Complexity",
+      "signal": "Class Action",
+      "rationale": "December D&O/EPL claims report includes multiple class actions and high-volume hospital reimbursement disputes, triggering the high-severity 'Critical Flagging' criterion.",
+      "criticality": "critical"
+    },
+    {
+      "datetime": "2026-01-26T08:05:00",
+      "runId": "01KFX9Y3EPFD66KNE8ZBR9XV48",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "FNOL notes claimant's attorney, indicating the injured worker is represented by counsel, so direct contact with the employee must be avoided and communications routed through the attorney.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-26T08:06:00",
+      "runId": "01KFXA0PVS4MS392VMF17CT0GF",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Claim file already lists claimant's attorney with contact details and docket number, indicating the worker is represented and direct contact with the claimant could risk improper communications.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-26T08:07:00",
+      "runId": "01KFXA2WD47RY6NFS5G27EHE2B",
+      "category": "Subrogation & Recovery",
+      "signal": "Excess Carrier Notification",
+      "rationale": "Email is an excess insurer notice listing excess policy MSIG CYE1000029 among many, following Verizon's January 14, 2026 outage, and requests claim acknowledgment and ongoing correspondence—indicating notification of potential exposure to excess carriers above the primary cyber/E&O layer.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-26T08:26:00",
+      "runId": "01KFXB4RFPPG847KYVZ5SP8JYV",
+      "category": "Professional Liability",
+      "signal": "Professional Liability: E&O",
+      "rationale": "Bordereau lists numerous client allegations that Lockton failed to procure adequate coverage or timely report claims, indicating broker errors and omissions across multiple matters.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-26T08:28:00",
+      "runId": "01KFXB920FRBWF07FP2KYK6ZX8",
+      "category": "Subrogation & Recovery",
+      "signal": "Excess Carrier Notification",
+      "rationale": "Broker email is titled 'Excess Insurer Notice,' lists numerous excess policy numbers, and reports a large Verizon network outage expected to cause substantial loss, indicating potential exhaustion of primary limits and triggering excess carrier involvement.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-26T08:35:00",
+      "runId": "01KFXBPKQNXM9HHAM5HDHFRYDR",
+      "category": "Coverage Issues",
+      "signal": "Policy Gap / Silent Exposure",
+      "rationale": "Internal emails show uncertainty whether the loss location was listed on the 12/10/22–12/10/23 policy term and a rush request to add it by endorsement, indicating a potential coverage gap for the 1/12/23 loss.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-26T08:50:00",
+      "runId": "01KFXCFPP5KESD607RHV9QW3TA",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Email and incident reports state the tenant is responsible and the leak was caused by a tenant-owned coffee filtration system, indicating a clear subrogation opportunity.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-26T08:54:00",
+      "runId": "01KFXBNZWD7RYQ1ZTH4SR22598",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Subrogation demand letter from Fleet Response on behalf of Sherwin-Williams for property damage during transport, assigning fault to the carrier, indicates third-party liability and a recovery opportunity.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-26T09:01:00",
+      "runId": "01KFXD5NMRNWXJENJ7DWD0X3H5",
+      "category": "Coverage Issues",
+      "signal": "Policy Gap / Silent Exposure",
+      "rationale": "Claim involves water damage at a property address not listed on the policy, raising potential coverage gap or misclassified LOB that may leave the loss uninsured or only partially insured.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-26T09:11:00",
+      "runId": "01KFXDPV7K0QVRKTH3R1G9PJFA",
+      "category": "Coverage Issues",
+      "signal": "Policy Gap / Silent Exposure",
+      "rationale": "Loss occurred at 201 E Washington, Phoenix AZ, a property location not scheduled on policy PKG3101025. Underwriting is being asked to post coverage or add the address, indicating a potential coverage gap or silent exposure for this loss location.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-26T09:32:00",
+      "runId": "01KFXEWCPXFEZGKDE6PQPZVEPP",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Police report attributes fault to Unit 1 (failed to yield, citation issued) and Hertz Recovery is seeking claim info, indicating a potential subrogation opportunity against the MS Transverse insured.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-26T09:38:00",
+      "runId": "01KFXF93G7EGZQKHNBMX1RDYCP",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Loss description notes PBV driver swerved to avoid an oncoming vehicle before striking property, suggesting potential third-party fault and a possible subrogation opportunity against the unidentified driver.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-26T09:45:00",
+      "runId": "01KFXFMNTP3106EKMSG9VYPAC8",
+      "category": "Litigation & Legal",
+      "signal": "Evidence Preservation",
+      "rationale": "Incoming certified letter gives notice of destructive testing of the microwave involved in a fire and requires LG to respond within 20 days or waive inspection rights, creating significant evidence preservation and spoliation exposure.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-26T10:01:00",
+      "runId": "01KFXGJNERK3740ES3KJAPX9WM",
+      "category": "Coverage Issues",
+      "signal": "Policy Gap / Silent Exposure",
+      "rationale": "Property fire loss reported at 243-13 Holte, San Diego, a multi-unit location not currently scheduled on policy FIR1122885. Claims requests confirmation of coverage and addition of location, indicating a potential uncovered location / silent property exposure.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-26T10:04:00",
+      "runId": "01KFXGERJB5D9ANTE64JNEYFC6",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Cargo damage email attributes loss to Nippon Express team dropping a pallet and totes, clearly identifying a potentially responsible third-party logistics provider and opportunity for cost recovery.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-26T10:10:00",
+      "runId": "01KFXH3HEZXR04QPDN6YP3WFAE",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "FNOL describes a rear-end collision where the other driver failed to stop, admitted fault, and subrogation potential is explicitly noted, indicating a clear opportunity to recover costs from the at-fault party.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-26T10:32:00",
+      "runId": "01KFXJB4J11A40639HAX3N62W3",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Driver reports third-party vehicle towing a swaying trailer forced him into the median and left the scene; police crash report documents second vehicle and trailer, indicating clear third-party fault and potential recovery opportunity.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-26T10:38:00",
+      "runId": "01KFXJNMH83M7HZTJBQ9Z0H3VT",
+      "category": "Multi-Claimant Exposure",
+      "signal": "Multi-Claimant Linkage",
+      "rationale": "Exhibit A lists hundreds of silicosis lawsuits against Home Depot/MS International alleging similar silica exposure injuries, showing many related claims from a common product/source and indicating a mass-tort style exposure.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-26T10:38:00",
+      "runId": "01KFXJQSW1WKMD6XMC7CPM8MNA",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Email originates from a law firm with an attached letter of representation for the insured driver, indicating counsel involvement and need to avoid direct contact with represented party.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-26T10:48:00",
+      "runId": "01KFXK8QGH2J09FSGN7B462ZFW",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Attached letter from attorneys designates counsel for the Hartley claim, with full law firm contact details, indicating the claimants are formally represented by legal counsel.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-26T11:22:00",
+      "runId": "01KFXN7M1VKC7AJAXG5XHAMDQA",
+      "category": "Coverage Issues",
+      "signal": "Policy Gap / Silent Exposure",
+      "rationale": "Property loss occurred at 201 E Washington, Phoenix, which is not listed on PKG3101025 or USPO policy. Internal emails discuss whether address must be added or if loss falls under another coverage, indicating potential coverage gap/silent exposure.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-26T11:24:00",
+      "runId": "01KFXNB5QT7BM6DAQE28VNRT3P",
+      "category": "Coverage Issues",
+      "signal": "Policy Gap / Silent Exposure",
+      "rationale": "Loss at 201 E Washington Phoenix AZ is not listed on SCOA policy PKG3101025 or USPO policy FIR1122621, indicating a potential uninsured location and resulting silent property coverage gap.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-26T11:44:00",
+      "runId": "01KFXPFVPC0GNH2BHVS2WPEBJA",
+      "category": "Coverage Issues",
+      "signal": "Policy Gap / Silent Exposure",
+      "rationale": "Loss at 201 E Washington is not scheduled on SCOA or USPO property policies. Internal emails question whether address should be added or handled as liability, indicating a potential coverage gap or silent exposure between property coverage and tenant responsibility.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-26T12:09:00",
+      "runId": "01KFXQV5MVW09ATN7SQ357G4Y8",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Claimant reports hit-and-run with identified defendant, police case number, and prosecutor restitution letter, indicating clear third-party fault and opportunity to recover repair costs.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-26T12:11:00",
+      "runId": "01KFXR05HKASV8WJGJV2T2CM7N",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Outside counsel is tendering defense and indemnity on behalf of Broadway Construction Group, and the complaint shows plaintiff's counsel is involved, indicating both sides are represented by attorneys and direct contact with parties is improper.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-26T12:32:00",
+      "runId": "01KFXS8F8A79GYYD08123768BF",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Email from law firm with attached letter of representation for claimant Juan Prieto indicates counsel involvement, triggering attorney-representation controls and need to avoid direct insured contact.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-26T12:36:00",
+      "runId": "01KFXSEFST765FW640N166N0AN",
+      "category": "Subrogation & Recovery",
+      "signal": "Excess Carrier Notification",
+      "rationale": "Excess insurers, including MSIG CYE1000029, are being notified of a significant Verizon outage under Chubb's E&O/Cyber program, indicating potential attachment of excess layers and need to ensure timely excess carrier reporting and coordination.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-26T12:39:00",
+      "runId": "01KFXSMKJX55JH5ABNHXT9WMP1",
+      "category": "Subrogation & Recovery",
+      "signal": "Excess Carrier Notification",
+      "rationale": "Notice email is titled 'Excess Insurer Notice' and lists numerous excess carrier policy numbers, including MSIG CYE1000029, requesting acknowledgement of the claim under these excess policies.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-26T12:47:00",
+      "runId": "01KFXT291REJKKJ00R318MTYTZ",
+      "category": "Multi-Claimant Exposure",
+      "signal": "Multi-Claimant Linkage",
+      "rationale": "Email describes a widespread Verizon outage disrupting services for many customers from a single event, with anticipated substantial expenses and claims, indicating numerous potential claimants linked to one root-cause incident.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-26T12:59:00",
+      "runId": "01KFXTRK854T3HAG6SMFC93MEG",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Correspondence on law firm letterhead states they are subrogation counsel for Berkley One regarding the Katz boat claim, confirming the claimant is attorney-represented.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-26T13:00:00",
+      "runId": "01KFXTTH7K721X8FVHEFT6F5YW",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Driver reports another car crossed the center line, suggesting third-party fault and a potential recovery opportunity despite FNOL field stating 'No Subrogation.'",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-26T13:03:00",
+      "runId": "01KFXTZZY9N7ER3CRHAMF0VVYF",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "A law firm letter states 'Our firm represents Mr. James Hays,' a shareholder, and issues a formal demand to Akamai's Board, indicating clear legal representation and potential forthcoming litigation related to corporate governance bylaws.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-26T13:19:00",
+      "runId": "01KFXVY7Z5HE9RRQQMR0TQW8YA",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Claimant stated they have an attorney, refused further details, and a representative letter was requested. This is the first clear indication of legal counsel and signals the need to avoid improper direct contact with the claimant.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-26T13:48:00",
+      "runId": "01KFXXHMGY37VTDFE9PDNM06PT",
+      "category": "Litigation & Legal",
+      "signal": "Evidence Preservation",
+      "rationale": "Letters formally demand preservation of vehicle, event data recorder, photos, video, and other records, instructing insurer not to alter, destroy, or repair evidence from the accident.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-26T13:48:00",
+      "runId": "01KFXXHMGY37VTDFE9PDNM06PT",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Law firm Duncan Injury Group advises it represents claimant Wesmy Theodore for this crash, constituting first attorney representation notice to the insurer in this correspondence.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-26T13:50:00",
+      "runId": "01KFXXKJ54WR0ZPEP2KSGVB7WH",
+      "category": "Litigation & Legal",
+      "signal": "Evidence Preservation",
+      "rationale": "Attorney letter formally demands preservation of vehicle, recordings, and all related evidence and warns against altering or destroying it, triggering evidence preservation and spoliation obligations.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-26T14:41:00",
+      "runId": "01KFY0H5C0VR7TZF6WMF4HYC27",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Loss description states 'your insured started going in reverse and collided with our insured,' clearly attributing fault to an identifiable opposing driver/vehicle, creating third-party recovery potential.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-26T14:57:00",
+      "runId": "01KFY1H9H156GM54AT5FR3TQB5",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Attached letter from Swigart Law Group states they represent claimant Jared Massie, marking the first notice of attorney representation for this claim.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-26T15:20:00",
+      "runId": "01KFY2TVSBN1KXJ842WKT63NC9",
+      "category": "Claim Severity & Complexity",
+      "signal": "Fatality or Catastrophic Injury",
+      "rationale": "Complaint describes a catastrophic gas explosion destroying multiple homes, causing one fatality and severe injuries, indicating an extreme-severity loss event.",
+      "criticality": "critical"
+    },
+    {
+      "datetime": "2026-01-26T15:20:00",
+      "runId": "01KFY2TVSBN1KXJ842WKT63NC9",
+      "category": "Multi-Claimant Exposure",
+      "signal": "Multi-Claimant Linkage",
+      "rationale": "Explosion from a single gas system destroyed neighboring homes and injured multiple residents, indicating several potential claimants from the same incident and products.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-26T15:20:00",
+      "runId": "01KFY2TVSBN1KXJ842WKT63NC9",
+      "category": "Claim Severity & Complexity",
+      "signal": "Medical Severity Escalation",
+      "rationale": "Plaintiff alleges third-degree burns over her entire body, facial burns, disfigurement, and permanent limitations, indicating severe long-term medical impairment.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-26T15:25:00",
+      "runId": "01KFY3494W2XHS7DZ2JZP7H0Q5",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Attorney Joshua Swigart writes on behalf of claimant Patricia Vance, and this email provides first notice of her counsel's involvement to the insurers.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-26T15:36:00",
+      "runId": "01KFY3QAMJ0YAZXGJ3927FCXKW",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Attorney Joshua Swigart states he represents claimant Donald Boe, and this notice forwards his information request letter as first claim correspondence to insurers.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-26T15:38:00",
+      "runId": "01KFY3VGBVG82EEHWTB4533X37",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Claimant law firm states it has been retained to represent Roberto Ramos for this accident and requests all communications be directed to their office.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-26T15:44:00",
+      "runId": "01KFY44VBEKMHQ2B3TQ3QZDJV5",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Insured reports rear-end collision caused by another driver, identified with Allstate policy, indicating clear third-party responsibility and recovery potential.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-26T15:58:00",
+      "runId": "01KFY4ZXQ3JJRYXAHGBD37B7D4",
+      "category": "Litigation Tactics",
+      "signal": "Time-Limited Settlement Demand",
+      "rationale": "Plaintiff counsel offers to settle for aggregate limits of all applicable policies with an explicit expiration date of February 6, 2026, creating time-limited policy-limits demand exposure.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-26T15:58:00",
+      "runId": "01KFY4ZXQ3JJRYXAHGBD37B7D4",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Faxed letter from DMI Injury Law states they represent 'our client Grace Sevart' and directs settlement communications to attorney, constituting first documented notice of claimant legal representation.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-26T15:58:00",
+      "runId": "01KFY4ZXQ3JJRYXAHGBD37B7D4",
+      "category": "Claim Severity & Complexity",
+      "signal": "Biopsychosocial Complexity",
+      "rationale": "Medical records document recurrent major depressive disorder, generalized anxiety, OCD, PTSD, and kinesiophobia limiting daily tasks and work, indicating significant psychosocial barriers to recovery and potential claim chronicity.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-26T16:04:00",
+      "runId": "01KFY58WY127CA299P50ZXP4XJ",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Attached demand letter states 'This firm represents Omer Asayag,' providing first notice that claimant has retained legal counsel for this claim.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-26T16:04:00",
+      "runId": "01KFY58WY127CA299P50ZXP4XJ",
+      "category": "Multi-Claimant Exposure",
+      "signal": "Multi-Claimant Linkage",
+      "rationale": "Demand letter and notices reference potential claims by 'all other California consumers' who visited LendingTree's website, indicating multiple claimants sharing a common alleged tracking practice.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-26T16:04:00",
+      "runId": "01KFY58WY127CA299P50ZXP4XJ",
+      "category": "Litigation Tactics",
+      "signal": "Punitive Damage Setup",
+      "rationale": "Complaint alleges intentional statutory privacy violations and cites CUCA's availability of punitive damages 'to which Plaintiff is entitled,' asserting punishment beyond ordinary negligence-based remedies.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-26T16:28:00",
+      "runId": "01KFY6Q56V4XZRFSR1TNZJ843E",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "FNOL lists claimant's attorney, providing first notice that Steven Reese is represented by counsel on this claim.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-26T16:28:00",
+      "runId": "01KFY6Q56V4XZRFSR1TNZJ843E",
+      "category": "Coverage Issues",
+      "signal": "Policy Inception Proximity",
+      "rationale": "Claim acknowledgment shows contract effective 10/01/2024 and accident on 11/11/2024, indicating the loss occurred shortly after policy inception.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-26T16:51:00",
+      "runId": "01KFY80PTYYMWSS9P9B0GS1YJZ",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Email states the insured has retained Skadden, Arps to defend the matter and requests consent, indicating first notice of attorney representation for the insured on this claim.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-26T16:51:00",
+      "runId": "01KFY80PTYYMWSS9P9B0GS1YJZ",
+      "category": "Multi-Claimant Exposure",
+      "signal": "Multi-Claimant Linkage",
+      "rationale": "Correspondence references complaints by Kenneth Conners and Robert Connolly plus a separate Jackson stockholder demand, showing multiple shareholders asserting claims from the same proposed merger transaction.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-26T17:30:00",
+      "runId": "01KFYA8P2HBJSQ4ZQ8E6P89CH3",
+      "category": "Multi-Claimant Exposure",
+      "signal": "Multi-Claimant Linkage",
+      "rationale": "Email references two separate shareholder letters regarding the same merger matter, indicating multiple claimants arising from a common event.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-26T20:07:00",
+      "runId": "01KFYK6N74RPCZVHBG8C7RKNSA",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Email from Abramson Labor Group encloses a notice of representation and workers' comp application, providing the first notice that claimant Daniela Lopez Paz is represented by counsel.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-26T21:04:00",
+      "runId": "01KFYPG5ZNY262E7AP5W13KES7",
+      "category": "Claim Severity & Complexity",
+      "signal": "Emerging TBI Indicator",
+      "rationale": "Correspondence notes a potential head injury and bloody ear, providing multiple TBI-related indicators in the injury description.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-26T21:04:00",
+      "runId": "01KFYPG5ZNY262E7AP5W13KES7",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Claim documents identify subcontractor WAL Masonry and general contractor PC Construction, with contracts review and tender letters underway, indicating third-party recovery potential.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-27T06:48:00",
+      "runId": "01KFZQWMMFW28HFP8ZDGQ1M5SA",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Email describes your insured changing lanes and striking Progressive's insured, clearly identifying a third party responsible for the loss and enabling third-party recovery potential.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-27T06:48:00",
+      "runId": "01KFZQWMMFW28HFP8ZDGQ1M5SA",
+      "category": "Multi-Claimant Exposure",
+      "signal": "Multi-Claimant Linkage",
+      "rationale": "Progressive lists both vehicle owner Charles Proffitt and passenger Donna Devlin from the same collision, indicating multiple potential claimants arising from a single loss event.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-27T07:51:00",
+      "runId": "01KFZVG83C3H6XJ2JSGAR942K4",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Attached letter states the law office represents Roberto Ramos for this loss and requests all communications be directed to them.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-27T08:17:00",
+      "runId": "01KFZX005P7ZH33WGQQBRH6S5A",
+      "category": "Multi-Claimant Exposure",
+      "signal": "Multi-Claimant Linkage",
+      "rationale": "Email requests adding BI exposures for two named individuals under the same claim, indicating multiple claimants arising from a single loss event.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-27T08:48:00",
+      "runId": "01KFZYR4WP42V6AV71AME1T26Z",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Claim notes identify subcontractor WAL Masonry and general contractor PC Construction and describe tender opportunities, indicating identifiable third parties with potential responsibility and recovery potential.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-27T08:54:00",
+      "runId": "01KFZZ4SQJ2BDMC21F0KNDPG0X",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Email alleges insured's truck struck claimant's parked vehicle from behind, clearly assigning fault to an identifiable third party and creating subrogation recovery potential.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-27T09:28:00",
+      "runId": "01KG011D0CD2CK5ZN08GJGNQEG",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Accident description states insured was struck when a box truck merged into their lane, identifying a distinct third-party vehicle responsible for the loss and creating a subrogation opportunity.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-27T09:40:00",
+      "runId": "01KG01R76JGQ5CDH9HN1SYECHK",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Email states the tenant, Womble, is responsible for the water damage incident and has been told to notify its insurer, indicating a clear third-party subrogation target.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-27T10:23:00",
+      "runId": "01KG0464F0GMB5ZKY8473FBH6Y",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Complaint alleges defective LG washing machine valve caused insured's water loss and State Farm sues as subrogee, establishing identifiable third-party recovery potential.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-27T10:34:00",
+      "runId": "01KG04M7EPTZ2J0NFBJCF6H3G1",
+      "category": "Litigation Tactics",
+      "signal": "Time-Limited Settlement Demand",
+      "rationale": "Distributor's attorney issued a tender/indemnity demand requiring Ogawa to accept by January 26, creating a time-limited coverage/settlement decision deadline.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-27T10:34:00",
+      "runId": "01KG04M7EPTZ2J0NFBJCF6H3G1",
+      "category": "Coverage Issues",
+      "signal": "Policy Gap / Silent Exposure",
+      "rationale": "Alleged long-term diacetyl exposure conflicts with the policy's Total Pollution Exclusion and pre-1996 injury bar from the retroactive date, indicating a potential uncovered exposure.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-27T10:34:00",
+      "runId": "01KG04M7EPTZ2J0NFBJCF6H3G1",
+      "category": "Multi-Claimant Exposure",
+      "signal": "Multi-Claimant Linkage",
+      "rationale": "Seven named General Mills employees allege lung disease from exposure to the same artificial sesame flavor chemicals at a single location.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-27T10:48:00",
+      "runId": "01KG05MRT898G3MXG04YTPFDNC",
+      "category": "Multi-Claimant Exposure",
+      "signal": "Multi-Claimant Linkage",
+      "rationale": "Multiple named shareholders bring related complaints and demand letters arising from the same Essential–American Water merger and associated proxy/registration disclosures.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-27T10:51:00",
+      "runId": "01KG05TAQBPMFE8ET970XN6H0C",
+      "category": "Claim Severity & Complexity",
+      "signal": "Fatality or Catastrophic Injury",
+      "rationale": "Email subject lines indicate claimant Lavon Banks is deceased in a workers' compensation matter, signaling a fatal loss and triggering critical severity exposure.",
+      "criticality": "critical"
+    },
+    {
+      "datetime": "2026-01-27T11:24:00",
+      "runId": "01KG07Q1921N5YEXJ4MYMJ8W7M",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Loss notice states a truck rear-ended another vehicle, pushing it into the insured's Jeep, with the truck driver identified, indicating clear third-party liability and subrogation potential.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-27T11:31:00",
+      "runId": "01KG083CMRRQ9N60ZJRN1JW6AK",
+      "category": "Professional Liability",
+      "signal": "Professional Liability: E&O",
+      "rationale": "Insured states England Logistics received claim info and COI but never opened the claim and is withholding payment, alleging a failure in professional/administrative claim-handling duties.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-27T11:52:00",
+      "runId": "01KG099HCHJ4FNYX4XN1WPPY6M",
+      "category": "Claim Severity & Complexity",
+      "signal": "Fatality or Catastrophic Injury",
+      "rationale": "Loss advice identifies 'Death' as injury and notes patient expired on 7/20/25, indicating a fatality with high severity and potential regulatory or reputational exposure.",
+      "criticality": "critical"
+    },
+    {
+      "datetime": "2026-01-27T11:52:00",
+      "runId": "01KG099HCHJ4FNYX4XN1WPPY6M",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Form states incident was first reported to risk manager by 'Received attorney legal notice,' indicating this is the first notice that the claimant has legal representation.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-27T11:52:00",
+      "runId": "01KG099HCHJ4FNYX4XN1WPPY6M",
+      "category": "Multi-Claimant Exposure",
+      "signal": "Multi-Claimant Linkage",
+      "rationale": "Loss advice lists Celestine Milam as claimant and identifies 'Expected additional claimants: Donald Kelley, Son,' indicating multiple related claimants from the same death event.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-27T12:29:00",
+      "runId": "01KG0BDKW2D5XKNTTY6XXQHWVP",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Statement identifies E&B Bulk Transportation's truck as causing gate damage, with truck and GM details provided, creating clear third-party fault and property damage subrogation opportunity.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-27T12:36:00",
+      "runId": "01KG0BTQX2H7AQ5TEM3YKP7JEE",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Loss description shows insured Jeep was rear-ended in a three-vehicle chain reaction caused by a truck driver, indicating clear third-party fault and recoverable subrogation potential.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-27T12:46:00",
+      "runId": "01KG0CDXKMKRBDHEF2AEXHQF2F",
+      "category": "Coverage Issues",
+      "signal": "Policy Inception Proximity",
+      "rationale": "Date of loss 12/17/25 occurs shortly after policy inception 12/1/25, indicating a near-inception loss event.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-27T14:25:00",
+      "runId": "01KG0J2Z12MPY4YNPHBZ37QM3K",
+      "category": "Coverage Issues",
+      "signal": "Policy Gap / Silent Exposure",
+      "rationale": "Loss reported under auto, but handler states gate damage should be under insured's property policy, indicating an explicit peril–policy coverage mismatch.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-27T14:25:00",
+      "runId": "01KG0J2Z12MPY4YNPHBZ37QM3K",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Email states claimant driver for E&B Bulk Transportation clipped and damaged insured's gate, identifying a third-party tortfeasor creating potential subrogation recovery.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-27T14:42:00",
+      "runId": "01KG0K0TACXCKX4ZRY0QQNXJDH",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Cargo claim documents hold UPS Standard Service fully liable for damage to shipped goods, identifying the carrier and subrogation rights, indicating clear third-party responsibility and recovery potential.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-27T14:42:00",
+      "runId": "01KG0JM3VQMDCY1W2W3YTBWGQK",
+      "category": "Claim Severity & Complexity",
+      "signal": "Sexual Abuse / Misconduct",
+      "rationale": "Attached complaints allege long-term child sexual assault by a pastor at religious institutions, constituting severe sexual misconduct with high liability, regulatory, and reputational exposure.",
+      "criticality": "critical"
+    },
+    {
+      "datetime": "2026-01-27T14:42:00",
+      "runId": "01KG0JM3VQMDCY1W2W3YTBWGQK",
+      "category": "Multi-Claimant Exposure",
+      "signal": "Multi-Claimant Linkage",
+      "rationale": "Multiple plaintiffs allege child sexual abuse by the same pastor and institutions, creating multi-claimant exposure from a common cause.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-27T14:42:00",
+      "runId": "01KG0JM3VQMDCY1W2W3YTBWGQK",
+      "category": "Litigation Tactics",
+      "signal": "Reptile Litigation Framing",
+      "rationale": "Complaints repeatedly frame defendants' duties to protect children from sexual abuse and their knowledge of risks, using safety-rule and community-protection language to support negligence theories.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-27T14:49:00",
+      "runId": "01KG0KETPCWME6WQH15E5W93JD",
+      "category": "Multi-Claimant Exposure",
+      "signal": "Multi-Claimant Linkage",
+      "rationale": "Letter states owners of 55 single-family homes served Notices of Claim alleging construction defects in the same community, indicating multiple claimants from a common construction project.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-27T14:49:00",
+      "runId": "01KG0KETPCWME6WQH15E5W93JD",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Defense counsel states their firm represents D.R. Horton in this construction defect matter, providing first notice of attorney representation to the insurer's new loss inbox.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-27T14:51:00",
+      "runId": "01KG0KK5W9P0AJ2DH9BBW1ENJ2",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Plaintiff law firm email attaches a letter of representation for claimant Michael Kearney, providing first notice that the claimant is represented by counsel on this loss.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-27T14:53:00",
+      "runId": "01KG0KPMJD64Z2G08STHJ64Y5Q",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Email from claimant's law firm provides a letter of representation and requests the carrier file, indicating first notice that Michael Kearney is represented by legal counsel.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-27T15:03:00",
+      "runId": "01KG0M5MFJ2BJC26B56EBRA8BS",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Witness identifies E&B Bulk Transportation truck #199 as causing gate damage and provides GM contact, creating clear third-party recovery potential.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-27T15:03:00",
+      "runId": "01KG0M7F6K1WP0JXWJRQ7F1DJ5",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Accident report identifies another driver and their employer plus insurer information, indicating a potentially liable third party and corresponding subrogation recovery opportunity.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-27T15:15:00",
+      "runId": "01KG0MT71CXJ0HK8ZDFCK4F2HN",
+      "category": "Claim Severity & Complexity",
+      "signal": "Sexual Abuse / Misconduct",
+      "rationale": "Summons and complaints allege prolonged child sexual abuse by a pastor across church and school settings, creating severe bodily, psychological, regulatory, and reputational exposure.",
+      "criticality": "critical"
+    },
+    {
+      "datetime": "2026-01-27T15:15:00",
+      "runId": "01KG0MT71CXJ0HK8ZDFCK4F2HN",
+      "category": "Multi-Claimant Exposure",
+      "signal": "Multi-Claimant Linkage",
+      "rationale": "Notice of claim and attached pleadings identify three separate plaintiffs alleging similar sexual abuse by the same pastor and institutions, indicating multiple related claims from a common location and timeframe.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-27T15:15:00",
+      "runId": "01KG0MT71CXJ0HK8ZDFCK4F2HN",
+      "category": "Litigation Tactics",
+      "signal": "Judicial Hellhole / Venue",
+      "rationale": "Each summons and complaint states suit is filed in New York Supreme Court, Madison County, a jurisdiction widely regarded as favorable to plaintiffs in Child Victims Act sexual abuse litigation.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-27T15:19:00",
+      "runId": "01KG0N56NMQFA3TW2T2Z35H0AA",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Email states tenant Womble owns and maintains leaking coffee filtration system and is responsible for water damage, indicating a specific third party for potential subrogation recovery.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-27T15:23:00",
+      "runId": "01KG0NCTAE7MS1N9JPEEFRF1QC",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "The tender letter states that attorneys represent D.R. Horton in this construction defect matter, providing first notice of counsel involvement.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-27T15:23:00",
+      "runId": "01KG0NCTAE7MS1N9JPEEFRF1QC",
+      "category": "Multi-Claimant Exposure",
+      "signal": "Multi-Claimant Linkage",
+      "rationale": "The letter explains that owners of 55 single-family homes in the Tartesso community have served notices of construction defect claims arising from the same residential development project.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-27T15:23:00",
+      "runId": "01KG0NCTAE7MS1N9JPEEFRF1QC",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "The tender asserts Overhead Door Corporation performed work at the community and must defend and indemnify D.R. Horton for construction defect claims, indicating third-party responsibility and recovery potential.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-27T15:29:00",
+      "runId": "01KG0NNKDS69FZCKFHCTNHCAY6",
+      "category": "Claim Severity & Complexity",
+      "signal": "Fatality or Catastrophic Injury",
+      "rationale": "Loss notice reports the unit owner's daughter was found deceased in the trash chute, indicating a fatality and catastrophic severity exposure.",
+      "criticality": "critical"
+    },
+    {
+      "datetime": "2026-01-27T15:29:00",
+      "runId": "01KG0NNKDS69FZCKFHCTNHCAY6",
+      "category": "Subrogation & Recovery",
+      "signal": "Excess Carrier Notification",
+      "rationale": "Loss notice is marked 'EXCESS Notice only' and sent to multiple excess carriers with listed excess limits, indicating excess notice obligations are triggered.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-27T16:00:00",
+      "runId": "01KG0QDM3YN1X2PXMHA8ETB3N4",
+      "category": "Litigation & Legal",
+      "signal": "Evidence Preservation",
+      "rationale": "Attached letters formally demand preservation of vehicles, records, and other evidence, including a legal hold notice and threat of sanctions for spoliation.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-27T16:00:00",
+      "runId": "01KG0QDM3YN1X2PXMHA8ETB3N4",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Counsel explicitly advises MS Transverse that they represent claimant Danny Richardson for the loss, constituting first notice of attorney representation.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-27T16:00:00",
+      "runId": "01KG0QDM3YN1X2PXMHA8ETB3N4",
+      "category": "Coverage Issues",
+      "signal": "Out-of-Territory Loss",
+      "rationale": "Correspondence states insured address in Sacramento, California while the incident occurred in Gainesville, Texas, creating an explicit and material loss–location mismatch.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-27T16:19:00",
+      "runId": "01KG0RHD2BJD8SZKMDHWCXV4VK",
+      "category": "Claim Severity & Complexity",
+      "signal": "Catastrophic Property Loss",
+      "rationale": "Complaint describes the January 2025 Palisades Fire destroying 63 of 107 units and rendering the rest uninhabitable, with $43M in insurance proceeds, indicating a catastrophic severity event.",
+      "criticality": "critical"
+    },
+    {
+      "datetime": "2026-01-27T16:19:00",
+      "runId": "01KG0RHD2BJD8SZKMDHWCXV4VK",
+      "category": "Professional Liability",
+      "signal": "Professional Liability: E&O",
+      "rationale": "Plaintiff alleges the HOA board and counsel breached fiduciary duties, negligently let governing CC&Rs expire, and mismanaged $43M in insurance proceeds, constituting explicit professional and administrative service failures.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-27T16:19:00",
+      "runId": "01KG0RHD2BJD8SZKMDHWCXV4VK",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Attached summons and complaint identify attorney Gregory M. Garrison as counsel for plaintiff, providing the first notice of claimant legal representation in this correspondence.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-27T17:08:00",
+      "runId": "01KG0VD0MVTEBWFMH5XDGN9AVK",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Accident description and attachments identify another driver and insurer as potentially at fault, indicating a clear third party for potential subrogation recovery.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-27T17:11:00",
+      "runId": "01KG0VJPKCK560DK3JQ5JHVXPH",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Emails from Winder Law Firm report and manage the auto accident claim, giving first notice that the claimant is represented by legal counsel.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-27T17:42:00",
+      "runId": "01KG0XCB53M407W10S4GEJPGR0",
+      "category": "Subrogation & Recovery",
+      "signal": "Subrogation Indicators",
+      "rationale": "Email states police found another driver at fault and explicitly notes subrogation applies against a negligent third party (named in correspondence), indicating clear third-party recovery potential.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-27T18:42:00",
+      "runId": "01KG10P79VB8MGSA3J03GH5YN8",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Abramson Labor Group's letter states they represent Jorge Acevedo for industrial injuries, with attached application and claim forms, constituting the first attorney representation notice on this claim.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-27T18:52:00",
+      "runId": "01KG1187ZPBFNQ5NVKMB5BVF36",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "This first notice of claim advises that A&M Canada is represented by Lavery, de Billy, LLP, with counsel already filing a notice of appearance.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-27T18:52:00",
+      "runId": "01KG1187ZPBFNQ5NVKMB5BVF36",
+      "category": "Claim Severity & Complexity",
+      "signal": "Regulatory Enforcement",
+      "rationale": "Email reports CNESST regulatory proceedings and a forthcoming motion before the Court of Quebec concerning employment practice complaints, indicating an active regulatory enforcement process.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-27T18:52:00",
+      "runId": "01KG1187ZPBFNQ5NVKMB5BVF36",
+      "category": "Litigation Tactics",
+      "signal": "Judicial Hellhole / Venue",
+      "rationale": "The matter is proceeding before Quebec's CNESST and labor tribunal/Court of Quebec, a plaintiff-favorable jurisdiction for employment and labor disputes.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-27T18:57:00",
+      "runId": "01KG11JBSKJSP6T8PSP0551E1Y",
+      "category": "Professional Liability",
+      "signal": "Professional Liability: E&O",
+      "rationale": "Pleading alleges CPA Racine's deficient, non-compliant financial work breached professional duties and caused a $2.7M clawback, creating clear professional services error exposure.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-27T18:57:00",
+      "runId": "01KG11JBSKJSP6T8PSP0551E1Y",
+      "category": "Litigation Tactics",
+      "signal": "Punitive Damage Setup",
+      "rationale": "Plaintiffs describe Racine's conduct as malicious, in bad faith and abusive, seeking damages linked to this behavior, indicating exposure framed beyond ordinary negligence toward punitive-type damages.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-27T18:57:00",
+      "runId": "01KG11JBSKJSP6T8PSP0551E1Y",
+      "category": "Multi-Claimant Exposure",
+      "signal": "Multi-Claimant Linkage",
+      "rationale": "Three plaintiffs—two corporations and an individual—jointly sue over the same GNR-Shefford project, creating multi-claimant exposure tied to a single professional services dispute.",
+      "criticality": "high"
+    }
+  ]
+}

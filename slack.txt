@@ -1,0 +1,2373 @@
+# Signals Detected
+
+## THURSDAY 1/22/2026
+
+Isomer AgentAPP  [3:27 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769074055528959)  
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Third-party vehicle (Range Rover) rear-ended another vehicle, which then struck claimant's truck, indicating potential fault of external driver and opportunity for workers' comp carrier to pursue subrogation against the at-fault motorist or their insurer.
+
+Workflow Run ID: [01KFJGEZ37G32YBQ3CXS9C10EH](https://msig.9root.ai/workflow-runs/01KFJGEZ37G32YBQ3CXS9C10EH)
+
+Tenant: msig
+
+Isomer AgentAPP  [4:00 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769076039551939)  
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Loss description attributes collision to a speeding Range Rover rear-ending another vehicle, suggesting clear third-party fault and a potential opportunity for recovery against that driver/owner or their insurer.
+
+Workflow Run ID: [01KFJJBW13M7S6SX8QRTA32A74](https://msig.9root.ai/workflow-runs/01KFJJBW13M7S6SX8QRTA32A74)
+
+Tenant: msig
+
+Isomer AgentAPP  [6:59 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769086772471359)  
+
+Risk flag detected: Construction: Latent Defect  
+Reasoning: HOA sues over townhome project involving stucco/Plastering work, and Builders tenders defense across multiple GL policy periods, indicating potential multi-year construction defect exposure requiring coverage analysis.
+
+Workflow Run ID: [01KFJWKBV7JT7CRM4EJWH1T5HQ](https://msig.9root.ai/workflow-runs/01KFJWKBV7JT7CRM4EJWH1T5HQ)
+
+Tenant: msig
+
+Isomer AgentAPP  [7:13 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769087616451249)  
+
+Risk flag detected: Statute of Limitations (SOL)  
+Reasoning: Attached denial letter explicitly states the property damage statute of limitations and its exact expiration date for this loss, indicating a key legal filing deadline that must be tracked to avoid late or defaulted claims.
+
+Workflow Run ID: [01KFJXBAXNGBXK8DQPE862CRSR](https://msig.9root.ai/workflow-runs/01KFJXBAXNGBXK8DQPE862CRSR)
+
+Tenant: msig
+
+Isomer AgentAPP  [7:51 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769089918777629)  
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Accident description states the insured vehicle was struck from behind by another vehicle, clearly indicating potential third-party fault and an opportunity to pursue subrogation recovery.
+
+Workflow Run ID: [01KFJZKJXJZNPGR20A7SJVAHQS](https://msig.9root.ai/workflow-runs/01KFJZKJXJZNPGR20A7SJVAHQS)
+
+Tenant: msig
+
+Isomer AgentAPP  [8:04 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769090690013929)  
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Tender letter from Sedgwick for The Home Depot alleges injuries from an LG gas range and requests LG defend and indemnify, indicating third-party product fault and potential recovery exposure.
+
+Workflow Run ID: [01KFK09QXG2VEPNN5R7TAY2VAV](https://msig.9root.ai/workflow-runs/01KFK09QXG2VEPNN5R7TAY2VAV)
+
+Tenant: msig
+
+Isomer AgentAPP  [8:13 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769091193621049)  
+
+Risk flag detected: Construction: Latent Defect  
+Reasoning: HOA lawsuit over townhome construction against plastering contractor with multiple GL policy periods suggests complex construction defect allegations requiring multi-year coverage analysis and defense tender coordination.
+
+Workflow Run ID: [01KFK0T7MQXVMMVSCBKPW77V54](https://msig.9root.ai/workflow-runs/01KFK0T7MQXVMMVSCBKPW77V54)
+
+Tenant: msig
+
+Isomer AgentAPP  [8:28 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769092125576049)  
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Email notes police report indicates the “other party” may be at fault for the 11/25/25 accident, suggesting a potential subrogation opportunity.
+
+Workflow Run ID: [01KFK1PPCSXXDQ9GFX9Z4JF13F](https://msig.9root.ai/workflow-runs/01KFK1PPCSXXDQ9GFX9Z4JF13F)
+
+Tenant: msig
+
+Isomer AgentAPP  [8:36 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769092572376029)  
+
+Risk flag detected: Attorney Representation  
+Reasoning: Attorney subrogation notice on law firm letterhead states the office represents State Farm as subrogee of Alvin Kim, confirming legal counsel involvement on the claim.
+
+Workflow Run ID: [01KFK2413P1FZ3SBRYYYGWC02P](https://msig.9root.ai/workflow-runs/01KFK2413P1FZ3SBRYYYGWC02P)
+
+Tenant: msig
+
+Isomer AgentAPP  [8:51 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769093461929049)  
+
+Risk flag detected: Evidence Preservation  
+Reasoning: Shareholder demand letter states “litigation is imminent” and requests the company implement document holds, which is a directive to preserve evidence and records for anticipated litigation.
+
+Workflow Run ID: [01KFK2YZ5VZNAT426M7VSFXCMJ](https://msig.9root.ai/workflow-runs/01KFK2YZ5VZNAT426M7VSFXCMJ)
+
+Tenant: msig
+
+Isomer AgentAPP  [9:02 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769094128671979)  
+
+Risk flag detected: Attorney Representation  
+Reasoning: Letter of Representation from claimant’s counsel plus internal email referencing “Pursuant to the LOR” show claimant is now represented, so Attorney Representation flag applies to prevent improper direct contact.
+
+Workflow Run ID: [01KFK39ADW98NHCSSV0A7ERY4Q](https://msig.9root.ai/workflow-runs/01KFK39ADW98NHCSSV0A7ERY4Q)
+
+Tenant: msig
+
+Isomer AgentAPP  [9:14 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769094843334889)  
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: FNOL notes 'Subrogation Potential: Subrogation' with narrative stating the other vehicle lost control and struck the insured’s stopped car. Police report shows citation issued to the other driver, indicating clear third‑party fault and recovery opportunity.
+
+Workflow Run ID: [01KFK49DCRABSTNXQATQ0J099H](https://msig.9root.ai/workflow-runs/01KFK49DCRABSTNXQATQ0J099H)
+
+Tenant: msig
+
+[9:15](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769094941213969)
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Letter from Franklin Mutual states it will seek reimbursement from responsible parties for fire damage and invites LG to a joint site exam, clearly indicating a potential subrogation claim against the product manufacturer.
+
+Workflow Run ID: [01KFK4BCZC334ZWSNV55W8SBNZ](https://msig.9root.ai/workflow-runs/01KFK4BCZC334ZWSNV55W8SBNZ)
+
+Tenant: msig
+
+Isomer AgentAPP  [9:30 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769095811212849)  
+
+Risk flag detected: Critical Flagging  
+Reasoning: Complaint alleges silicosis-related toxic exposure causing death and a wrongful death action, with very large claimed damages and punitive damages reserved—meeting the “fatality” high-severity criteria requiring immediate senior review.
+
+Workflow Run ID: [01KFK56AS1XHAWX3PP24E6NKWM](https://msig.9root.ai/workflow-runs/01KFK56AS1XHAWX3PP24E6NKWM)
+
+Tenant: msig
+
+[9:34](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769096048498369)
+
+400 Your input exceeds the context window of this model. Please adjust your input and try again.
+
+Workflow Run ID: [01KFK4PBPTTM0VXXZ6R2XTRSS3](https://msig.9root.ai/workflow-runs/01KFK4PBPTTM0VXXZ6R2XTRSS3)
+
+Tenant: msig
+
+[9:37](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769096261854229)
+
+Risk flag detected: Attorney Representation  
+Reasoning: Claim reported and discussed with a contact using a law firm email domain, indicating claimant is represented by legal counsel.
+
+Workflow Run ID: [01KFK5N0WWP5N8PFTQ2WPGCCRW](https://msig.9root.ai/workflow-runs/01KFK5N0WWP5N8PFTQ2WPGCCRW)
+
+Tenant: msig
+
+Isomer AgentAPP  [9:56 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769097392615449)  
+
+Risk flag detected: Critical Flagging  
+Reasoning: Litigation demand and supporting documents describe ongoing securities fraud class actions against Fiserv’s directors and officers, including multiple federal class actions. Presence of ‘Securities Fraud Class Actions’ and ‘class action’ language triggers the Critical Flagging high-severity alert.
+
+Workflow Run ID: [01KFK6PM21XWTGWNX8S6CAVQY4](https://msig.9root.ai/workflow-runs/01KFK6PM21XWTGWNX8S6CAVQY4)
+
+Tenant: msig
+
+[9:58](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769097487877139)
+
+Risk flag detected: Attorney Representation  
+Reasoning: Email states the property owner has retained an attorney regarding the fire loss, indicating first notice of legal representation for the claimant and need to avoid direct contact.
+
+Workflow Run ID: [01KFK6T4S159TN2WAGEM9FQXAC](https://msig.9root.ai/workflow-runs/01KFK6T4S159TN2WAGEM9FQXAC)
+
+Tenant: msig
+
+Isomer AgentAPP  [10:11 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769098267403559)  
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: FNOL notes other driver lost control and struck a stopped insured vehicle, and flags “Subrogation Potential: Subrogation,” indicating potential recovery from the at-fault party’s insurer.
+
+Workflow Run ID: [01KFK7GVV9GYS0X8RWK9PT10KW](https://msig.9root.ai/workflow-runs/01KFK7GVV9GYS0X8RWK9PT10KW)
+
+Tenant: msig
+
+Isomer AgentAPP  [10:18 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769098714033879)  
+
+Risk flag detected: Critical Flagging  
+Reasoning: Text and loss advice show a wrongful-death healthcare claim for a 20-year-old patient (“deceased,” injury type “Death”), triggering the high-severity “Fatality” criterion requiring immediate senior oversight.
+
+Workflow Run ID: [01KFK7Y4DDJ5QZ9S1MMA9BHE02](https://msig.9root.ai/workflow-runs/01KFK7Y4DDJ5QZ9S1MMA9BHE02)
+
+Tenant: msig
+
+[10:21](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769098861229919)
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Freight claim packet attributes cargo damage to carrier/warehouse (“we hold you fully liable”) with OS&D and damage forms, clearly indicating third-party fault and potential recovery opportunity.
+
+Workflow Run ID: [01KFK82A6KYSX18TE6MHMRZN9F](https://msig.9root.ai/workflow-runs/01KFK82A6KYSX18TE6MHMRZN9F)
+
+Tenant: msig
+
+Isomer AgentAPP  [10:28 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769099307464349)  
+
+400 Your input exceeds the context window of this model. Please adjust your input and try again.
+
+Workflow Run ID: [01KFK7Z7FDV0CBS0K80GYTSG2C](https://msig.9root.ai/workflow-runs/01KFK7Z7FDV0CBS0K80GYTSG2C)
+
+Tenant: msig
+
+Isomer AgentAPP  [10:42 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769100126274619)  
+
+Risk flag detected: Environmental: PFAS / AFFF  
+Reasoning: Complaint alleges community exposure to carcinogenic chemicals (1,3-butadiene and benzene) from petrochemical facilities in Port Neches causing leukemia, fitting environmental toxic tort / mass-chemical contamination risk similar to PFAS/AFFF cases.
+
+Workflow Run ID: [01KFK9AE2B606GW7AF1S5EBVPM](https://msig.9root.ai/workflow-runs/01KFK9AE2B606GW7AF1S5EBVPM)
+
+Tenant: msig
+
+Isomer AgentAPP  [10:56 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769101003222949)  
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Accident description attributes collision to another speeding vehicle entering the intersection abruptly, suggesting potential third-party fault and an opportunity for subrogation recovery.
+
+Workflow Run ID: [01KFKA5PJXCWYR12NQBCQ6T24Y](https://msig.9root.ai/workflow-runs/01KFKA5PJXCWYR12NQBCQ6T24Y)
+
+Tenant: msig
+
+[11:00](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769101210958359)
+
+Risk flag detected: Critical Flagging  
+Reasoning: Email and loss advice report a wrongful-death medical malpractice claim for a 20‑year‑old who died from meningitis/encephalitis, explicitly indicating a fatality, which fits the Critical Flagging trigger for immediate senior attention.
+
+Workflow Run ID: [01KFKAA5CXH9XHDM73Y368C4ZG](https://msig.9root.ai/workflow-runs/01KFKAA5CXH9XHDM73Y368C4ZG)
+
+Tenant: msig
+
+[11:01](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769101271079189)
+
+Risk flag detected: Pending Analysis  
+Reasoning: Attachments being retrieved and reviewed; risk flag will be updated once document contents are analyzed.
+
+Workflow Run ID: [01KFKADR1GHBS11TG45QDE9W0W](https://msig.9root.ai/workflow-runs/01KFKADR1GHBS11TG45QDE9W0W)
+
+Tenant: msig
+
+[11:01](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769101299381999)
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Injury arose from another driver’s van running a red light and striking claimant’s vehicle, indicating clear third-party fault and subrogation potential.
+
+Workflow Run ID: [01KFKADR1GHBS11TG45QDE9W0W](https://msig.9root.ai/workflow-runs/01KFKADR1GHBS11TG45QDE9W0W)
+
+Tenant: msig
+
+[11:06](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769101569875379)
+
+Risk flag detected: Statute of Limitations (SOL)  
+Reasoning: Affidavit from Overdrive’s counsel states they are applying to add Pioneer as a third party before expiration of the limitation period, signaling an imminent SOL deadline risk.
+
+Workflow Run ID: [01KFKAPGAAT5TCJ5WMDYASF5E2](https://msig.9root.ai/workflow-runs/01KFKAPGAAT5TCJ5WMDYASF5E2)
+
+Tenant: msig
+
+Isomer AgentAPP  [11:23 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769102623849649)  
+
+400 Your input exceeds the context window of this model. Please adjust your input and try again.
+
+Workflow Run ID: [01KFKB15X0RXNVP253JMH8MBRY](https://msig.9root.ai/workflow-runs/01KFKB15X0RXNVP253JMH8MBRY)
+
+Tenant: msig
+
+[11:25](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769102717871019)
+
+Risk flag detected: Attorney Representation  
+Reasoning: Email from law firm domain [braytonlaw.com](http://braytonlaw.com/) concerning Ronald Powers workers’ compensation informal conference shows claimant is represented by counsel, so direct contact with claimant could violate representation rules.
+
+Workflow Run ID: [01KFKBRWXV56RS2S5TH0V6DPH6](https://msig.9root.ai/workflow-runs/01KFKBRWXV56RS2S5TH0V6DPH6)
+
+Tenant: msig
+
+[11:28](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769102892138209)
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Accident description shows claimant injured while passenger; another vehicle (Range Rover) rear-ended the SUV that was pushed into insured’s trailer, indicating potential third-party fault and subrogation opportunity.
+
+Workflow Run ID: [01KFKBZ5T0Z0C494XZ4QE5SEJ8](https://msig.9root.ai/workflow-runs/01KFKBZ5T0Z0C494XZ4QE5SEJ8)
+
+Tenant: msig
+
+[11:29](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769102969297279)
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Accident description shows another vehicle rear-ended the SUV, pushing it into the insured’s truck, indicating clear third-party fault and potential recovery opportunity.
+
+Workflow Run ID: [01KFKC1DQG7YQ6HK6M80C5X857](https://msig.9root.ai/workflow-runs/01KFKC1DQG7YQ6HK6M80C5X857)
+
+Tenant: msig
+
+[11:30](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769103056315249)
+
+Risk flag detected: Multi-Claimant Linkage  
+Reasoning: Putative ERISA class action “Fredrick, et al.” on behalf of all similarly situated participants alleges unlawful tobacco surcharge, indicating many claimants tied to the same benefits practice.
+
+Workflow Run ID: [01KFKC3ZGCNM0CGGX7T5CEC1NX](https://msig.9root.ai/workflow-runs/01KFKC3ZGCNM0CGGX7T5CEC1NX)
+
+Tenant: msig
+
+Isomer AgentAPP  [11:39 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769103563960559)  
+
+Risk flag detected: No matching risk flag (per catalog)  
+Reasoning: Routine workers’ compensation first report with minor chest wall strain, no attorney involvement, no settlement demand, no bad-faith/coverage language, no severity escalation (no surgery or hospitalization), and no other structured risk indicators from the catalog.
+
+Workflow Run ID: [01KFKCK6EQ9WF3EGGXQ2TJEJHF](https://msig.9root.ai/workflow-runs/01KFKCK6EQ9WF3EGGXQ2TJEJHF)
+
+Tenant: msig
+
+Isomer AgentAPP  [11:45 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769103934057909)  
+
+Risk flag detected: Attorney Representation  
+Reasoning: Email originates from Winder Law Firm, with sender identified as a legal assistant and standard attorney–client confidentiality notice, indicating the claimant is represented by counsel and that direct contact should now go through the law firm.
+
+Workflow Run ID: [01KFKCXW58H8WQC5HBRPHYY9KK](https://msig.9root.ai/workflow-runs/01KFKCXW58H8WQC5HBRPHYY9KK)
+
+Tenant: msig
+
+Isomer AgentAPP  [11:52 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769104365454549)  
+
+Risk flag detected: Attorney Representation  
+Reasoning: Incoming claim communication is from a law firm email address, with signature identifying sender as a legal assistant at Winder Law Firm, indicating the claimant is represented by counsel.
+
+Workflow Run ID: [01KFKDC9SB26EJN94KPXNPPX7A](https://msig.9root.ai/workflow-runs/01KFKDC9SB26EJN94KPXNPPX7A)
+
+Tenant: msig
+
+Isomer AgentAPP  [1:46 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769111186122269)  
+
+Risk flag detected: Excess Carrier Notification  
+Reasoning: Notice to multiple excess layers for potential $40–50M product liability verdict, with current reserves $3M and MSIG as Layer 1 excess; email and attached 'Notice to Carriers – Case Summary' show formal excess claim notification.
+
+Workflow Run ID: [01KFKKVSPVRXMWGSVC7HPPDXP3](https://msig.9root.ai/workflow-runs/01KFKKVSPVRXMWGSVC7HPPDXP3)
+
+Tenant: msig
+
+Isomer AgentAPP  [3:02 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769115729218619)  
+
+Risk flag detected: Judicial Hellhole / Venue  
+Reasoning: Trial is in the 173rd Judicial District Court in Henderson County, Texas, a plaintiff‑friendly Texas venue, with a paraplegia product-liability case evaluated at $40–50M and layered excess coverage implicated.
+
+Workflow Run ID: [01KFKR6R7YRD183110YP8M3XV5](https://msig.9root.ai/workflow-runs/01KFKR6R7YRD183110YP8M3XV5)
+
+Tenant: msig
+
+Sean Chou  [3:06 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769115967392659)  
+
+Every risk needs an emoji.
+
+Chuck  [4:20 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769120437267329)  
+
+Updated the [Risk Flagging](https://msig.9root.ai/workflow-runs?workflowNames=%5B%22Risk+Flagging%22%5D) workflow to have more accurate workflow outcomes.
+
+screenshot_2026-01-22_16-19-43.png 
+
+[
+
+![screenshot_2026-01-22_16-19-43.png](https://files.slack.com/files-tmb/T085V8BHR4K-F0AAETXG5AN-30023dbb04/screenshot_2026-01-22_16-19-43_720.png)
+
+](https://files.slack.com/files-pri/T085V8BHR4K-F0AAETXG5AN/screenshot_2026-01-22_16-19-43.png)
+
+[](https://files.slack.com/files-pri/T085V8BHR4K-F0AAETXG5AN/download/screenshot_2026-01-22_16-19-43.png?origin_team=T085V8BHR4K)
+
+Isomer AgentAPP  [7:48 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769132936660199)  
+
+Risk flag detected: Medical Severity Escalation  
+Reasoning: Faxed RFA and operative report document recent shoulder surgery (arthroscopic rotator cuff repair, biceps tenodesis, multiple procedures and DME) for claimant Jimmy Cardona, representing a major increase in medical treatment severity and likely reserves compared to initial injury information.
+
+Workflow Run ID: [01KFM8M10RA71PRZ0ECXVXNVP0](https://msig.9root.ai/workflow-runs/01KFM8M10RA71PRZ0ECXVXNVP0)
+
+Tenant: msig
+
+[7:53](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769133210029129)
+
+Risk flag detected: Evidence Preservation  
+Reasoning: Claimant's attorney letter formally demands preservation of all video and related records of the 9/14/25 incident and threatens a spoliation of evidence action if data is not maintained, matching the Evidence Preservation risk criteria.
+
+Workflow Run ID: [01KFM8VFQ5ZQQCY2MN4DP47E9V](https://msig.9root.ai/workflow-runs/01KFM8VFQ5ZQQCY2MN4DP47E9V)
+
+Tenant: msig
+
+[7:57](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769133423469449)
+
+400 Your input exceeds the context window of this model. Please adjust your input and try again.
+
+Workflow Run ID: [01KFM839RSAQ5064J90PWKW6MQ](https://msig.9root.ai/workflow-runs/01KFM839RSAQ5064J90PWKW6MQ)
+
+Tenant: msig
+
+Isomer AgentAPP  [8:15 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769134529288189)  
+
+Risk flag detected: Evidence Preservation  
+Reasoning: Attorney demand letter instructs insureds to preserve all video footage, incident reports, and relevant documentation related to the incident, which is a clear preservation-of-evidence request.
+
+Workflow Run ID: [01KFMA03X5AZEBHTZJRD3K7G20](https://msig.9root.ai/workflow-runs/01KFMA03X5AZEBHTZJRD3K7G20)
+
+Tenant: msig
+
+Isomer AgentAPP  [8:42 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769136162482489)  
+
+Risk flag detected: Attorney Representation  
+Reasoning: Claim is being reported and followed up by Winder Law Firm, with a legal assistant using a law-firm email domain, indicating the claimant is represented by counsel and direct contact with the insured should be avoided.
+
+Workflow Run ID: [01KFMBN2389WF8RGGXN4W86Z3V](https://msig.9root.ai/workflow-runs/01KFMBN2389WF8RGGXN4W86Z3V)
+
+Tenant: msig
+
+[8:42](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769136163464989)
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Cargo claim packet holds FedEx Freight Economy fully liable for damage and assigns subrogation rights to MSIG, indicating third-party carrier fault and opportunity for recovery.
+
+Workflow Run ID: [01KFMBNK96MEG561996G9SHVTS](https://msig.9root.ai/workflow-runs/01KFMBNK96MEG561996G9SHVTS)
+
+Tenant: msig
+
+Isomer AgentAPP  [8:52 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769136736688289)  
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Container delivered tampered with a different seal and one damaged carton at Yusen warehouse suggests potential third-party responsibility and possible subrogation opportunity.
+
+Workflow Run ID: [01KFMC0J0THEKQBH6W930N9A5P](https://msig.9root.ai/workflow-runs/01KFMC0J0THEKQBH6W930N9A5P)
+
+Tenant: msig
+
+Isomer AgentAPP  [9:15 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769138124574019)  
+
+400 Your input exceeds the context window of this model. Please adjust your input and try again.
+
+Workflow Run ID: [01KFMDAD8WVMNNYVM69WV4HX43](https://msig.9root.ai/workflow-runs/01KFMDAD8WVMNNYVM69WV4HX43)
+
+Tenant: msig
+
+[9:15](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769138149944099)
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Wording and documentation assert carrier Celtic International is “fully liable” for cargo damage and assign subrogation rights to MSI, indicating a clear opportunity for recovery from a third party.
+
+Workflow Run ID: [01KFMDK3PHPB878YMMAWEQ5RE1](https://msig.9root.ai/workflow-runs/01KFMDK3PHPB878YMMAWEQ5RE1)
+
+Tenant: msig
+
+[9:16](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769138185381919)
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Progressive's Intercompany Reimbursement Notification asserts your insured "would have been liable" and requests PIP reimbursement under NY Insurance Law §§5105/5221, signaling clear third‑party fault and a subrogation opportunity.
+
+Workflow Run ID: [01KFMDM61CFQV4YD0WBXB3NDZS](https://msig.9root.ai/workflow-runs/01KFMDM61CFQV4YD0WBXB3NDZS)
+
+Tenant: msig
+
+Isomer AgentAPP  [9:22 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769138554455559)  
+
+400 Your input exceeds the context window of this model. Please adjust your input and try again.
+
+Workflow Run ID: [01KFMD3FZVXP3ZNW82490FHJBQ](https://msig.9root.ai/workflow-runs/01KFMD3FZVXP3ZNW82490FHJBQ)
+
+Tenant: msig
+
+## FRIDAY 1/23/2026
+
+Isomer AgentAPP  [12:30 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769149812796599)  
+
+Risk flag detected: Attorney Representation  
+Reasoning: Workers’ comp medical report lists “Law Offices of Antony E. Gluck” for the claimant, indicating the claimant is represented by legal counsel.
+
+Workflow Run ID: [01KFMRPPCY248H0JREG4HQWGQX](https://msig.9root.ai/workflow-runs/01KFMRPPCY248H0JREG4HQWGQX)
+
+Tenant: msig
+
+[12:32](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769149943256789)
+
+Risk flag detected: Attorney Representation  
+Reasoning: Medical report CCs 'Law Offices of Antony E. Gluck,' indicating the injured worker is represented by counsel in this workers’ compensation claim and direct contact should be avoided; therefore categorized as Attorney Representation.
+
+Workflow Run ID: [01KFMRTY57BM6W3D1E5HNWBDCM](https://msig.9root.ai/workflow-runs/01KFMRTY57BM6W3D1E5HNWBDCM)
+
+Tenant: msig
+
+Isomer AgentAPP  [4:23 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769163814490119)  
+
+Risk flag detected: Medical Severity Escalation  
+Reasoning: Incoming dermatology records show ongoing joint pain, patch testing, and potential metal allergy related to an orthopedic implant, indicating evolving medical complexity that could increase reserves and claim exposure.
+
+Workflow Run ID: [01KFN626Z3AKD2B7MN5R00Q7X0](https://msig.9root.ai/workflow-runs/01KFN626Z3AKD2B7MN5R00Q7X0)
+
+Tenant: msig
+
+Isomer AgentAPP  [4:46 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769165190459989)  
+
+Risk flag detected: Attorney Representation  
+Reasoning: Email from plaintiff law firm [forthepeople.com](http://forthepeople.com/); sender identifies as Attorney; advises complaint filed and served and discusses default and retaining counsel, confirming formal legal representation against the insured.
+
+Workflow Run ID: [01KFN7CJ03S4R33366202AVW2Y](https://msig.9root.ai/workflow-runs/01KFN7CJ03S4R33366202AVW2Y)
+
+Tenant: msig
+
+Isomer AgentAPP  [5:42 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769168571218339)  
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: FNOL driver comments state the other vehicle was 'illegally parked in front of a do not park lane,' indicating potential third-party fault and possible subrogation opportunity despite 'No Subrogation' marked in the form.
+
+Workflow Run ID: [01KFNAJDEVSHC8Y50BV4T0G960](https://msig.9root.ai/workflow-runs/01KFNAJDEVSHC8Y50BV4T0G960)
+
+Tenant: msig
+
+Isomer AgentAPP  [6:43 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769172218473369)  
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Police report attributes unsafe lane change (CVC 21658(a)) and sideswipe collision to Party #1 (Toyota driver), not MS Transverse’s insured Freightliner driver, indicating third-party fault and potential subrogation opportunity.
+
+Workflow Run ID: [01KFNE1SYVY7MZQTG3XW6J04SQ](https://msig.9root.ai/workflow-runs/01KFNE1SYVY7MZQTG3XW6J04SQ)
+
+Tenant: msig
+
+Isomer AgentAPP  [6:53 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769172787528759)  
+
+Risk flag detected: Attorney Representation  
+Reasoning: Email is from Winder Law Firm on behalf of claimant, including law firm domain and legal assistant signature, indicating claimant is represented by counsel and direct contact with claimant/insured must be handled accordingly.
+
+Workflow Run ID: [01KFNEJBW8KT826M0N8GTQSPBE](https://msig.9root.ai/workflow-runs/01KFNEJBW8KT826M0N8GTQSPBE)
+
+Tenant: msig
+
+Isomer AgentAPP  [8:07 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769177240839729)  
+
+Risk flag detected: Punitive Damage "Setup"  
+Reasoning: Silicosis toxic-injury complaint alleges long-term knowledge and concealment of hazardous artificial stone dust, detailed history of silicosis risk, and fraudulent concealment, building a narrative of willful disregard for worker safety consistent with a punitive damages setup.
+
+Workflow Run ID: [01KFNJT7ZEP3RVZ7ZQF9TRS7RM](https://msig.9root.ai/workflow-runs/01KFNJT7ZEP3RVZ7ZQF9TRS7RM)
+
+Tenant: msig
+
+[8:08](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769177310320829)
+
+Risk flag detected: Attorney Representation  
+Reasoning: Plaintiff email from [forthepeople.com](http://forthepeople.com/), signed by “Attorney” with complaint attached, is first notice that claimant is represented and that default judgment is being pursued.
+
+Workflow Run ID: [01KFNJXAHH9K36S5QW8KAF26BX](https://msig.9root.ai/workflow-runs/01KFNJXAHH9K36S5QW8KAF26BX)
+
+Tenant: msig
+
+[8:08](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769177315577849)
+
+Risk flag detected: Critical Flagging  
+Reasoning: Complaint alleges silicosis toxic injuries with decades of exposure and at least one deceased worker (successor in interest to deceased husband), indicating a high-severity toxic tort/wrongful death exposure requiring immediate senior oversight.
+
+Workflow Run ID: [01KFNJXHMH7JMR4F0MDJSXYVW6](https://msig.9root.ai/workflow-runs/01KFNJXHMH7JMR4F0MDJSXYVW6)
+
+Tenant: msig
+
+[8:08](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769177336713909)
+
+Risk flag detected: Punitive Damage "Setup"  
+Reasoning: Complaint repeatedly alleges malicious conduct, conscious disregard for safety, fraudulent concealment of known silica hazards, and seeks punitive and exemplary damages based on long-known silicosis risks from artificial stone products.
+
+Workflow Run ID: [01KFNJXDN4XJT4MJ0FQTK4SA0Q](https://msig.9root.ai/workflow-runs/01KFNJXDN4XJT4MJ0FQTK4SA0Q)
+
+Tenant: msig
+
+Isomer AgentAPP  [8:35 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769178939730929)  
+
+Risk flag detected: Excess Carrier Notification  
+Reasoning: Email shows potential exposure up to $40–50M and discussion about setting up a claim on excess policy CSUSA2304409 because our $10M share of the $50M xs $50M layer may be implicated, indicating an excess carrier notification situation.
+
+Workflow Run ID: [01KFNMG3GBHN8934V30AYGD0T3](https://msig.9root.ai/workflow-runs/01KFNMG3GBHN8934V30AYGD0T3)
+
+Tenant: msig
+
+[8:35](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769178951683729)
+
+Risk flag detected: Policy Gap / Silent Exposure  
+Reasoning: Claim involves vehicle/driver insured under a different TOPPAN entity; MSIG auto policy BVR8403049 does not cover this New Jersey vehicle. Broker confirmed no coverage and another carrier is responsible, indicating a potential coverage gap/silent exposure.
+
+Workflow Run ID: [01KFNMF8ERT13SPXZ3CZXSQ4JE](https://msig.9root.ai/workflow-runs/01KFNMF8ERT13SPXZ3CZXSQ4JE)
+
+Tenant: msig
+
+[8:38](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769179096276469)
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Claim documents describe FedEx misdelivery to the wrong address and a partial $100 carrier payment, signaling third-party carrier fault and a potential opportunity for recovery of the remaining $1,287.04 loss.
+
+Workflow Run ID: [01KFNMKD3V5KRS8M2G0ZKW0G2X](https://msig.9root.ai/workflow-runs/01KFNMKD3V5KRS8M2G0ZKW0G2X)
+
+Tenant: msig
+
+Isomer AgentAPP  [8:43 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769179404157629)  
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Loss description notes damage caused by loose gravel from a truck ahead, indicating potential third-party fault and a subrogation opportunity against the truck owner/insurer.
+
+Workflow Run ID: [01KFNMWPYPCQ4YJXZR3QNT0JY9](https://msig.9root.ai/workflow-runs/01KFNMWPYPCQ4YJXZR3QNT0JY9)
+
+Tenant: msig
+
+[8:45](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769179550205979)
+
+Risk flag detected: Policy Gap / Silent Exposure  
+Reasoning: Loss occurred at 8187 Montara Peak #2, which is not listed on the policy. The email specifically asks if this location is covered, signaling a potential coverage gap/silent exposure for the collapse loss at that site.
+
+Workflow Run ID: [01KFNN2PR6XS0DTMXSRBCRZFS4](https://msig.9root.ai/workflow-runs/01KFNN2PR6XS0DTMXSRBCRZFS4)
+
+Tenant: msig
+
+[8:49](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769179748653109)
+
+Risk flag detected: Critical Flagging  
+Reasoning: Silicosis toxic-injury lawsuit with decades-long exposure period plus mention of deceased claimant and minor children indicates severe, high-value exposure requiring immediate senior review.
+
+Workflow Run ID: [01KFNN7S3ZVSCMZD17Q9YN4K4J](https://msig.9root.ai/workflow-runs/01KFNN7S3ZVSCMZD17Q9YN4K4J)
+
+Tenant: msig
+
+Isomer AgentAPP  [9:09 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769180949074139)  
+
+Risk flag detected: Critical Flagging  
+Reasoning: New silicosis toxic-injury lawsuit with long-term exposure allegations and a deceased claimant’s successor indicates a severe, high-exposure loss requiring immediate senior intervention.
+
+Workflow Run ID: [01KFNPCDTFQH1Z6AQ1BG3YY74N](https://msig.9root.ai/workflow-runs/01KFNPCDTFQH1Z6AQ1BG3YY74N)
+
+Tenant: msig
+
+Isomer AgentAPP  [9:21 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769181676241229)  
+
+Risk flag detected: No matching risk flag from CSV  
+Reasoning: Routine cargo damage notice for lithium battery assemblies; no time-limited demand, attorney involvement, bad-faith language, evidence-preservation request, sanctions names, medical issues, or other listed triggers. Documents are invoices, packing lists, and a standard notice of claim.
+
+Workflow Run ID: [01KFNQ1XV7M8WNN05WHJ087EFF](https://msig.9root.ai/workflow-runs/01KFNQ1XV7M8WNN05WHJ087EFF)
+
+Tenant: msig
+
+Isomer AgentAPP  [9:31 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769182265875259)  
+
+Risk flag detected: Policy Gap / Silent Exposure  
+Reasoning: Loss occurred after apparent policy expiration, prompting verification of renewal and potential coverage gap analysis.
+
+Workflow Run ID: [01KFNQNKJ5MJ8SVFADV1AQCDB2](https://msig.9root.ai/workflow-runs/01KFNQNKJ5MJ8SVFADV1AQCDB2)
+
+Tenant: msig
+
+Isomer AgentAPP  [9:41 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769182878633219)  
+
+Risk flag detected: "Punitive Damage "Setup""  
+Reasoning: Complaint pleads multiple wantonness and negligent entrustment counts, alleges complete disregard for safety and serious driving errors, aiming to support punitive damages beyond standard negligence.
+
+Workflow Run ID: [01KFNR847SVWBKD0XNBAWR581F](https://msig.9root.ai/workflow-runs/01KFNR847SVWBKD0XNBAWR581F)
+
+Tenant: msig
+
+Isomer AgentAPP  [10:09 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769184570209269)  
+
+Risk flag detected: Professional Liability: E&O  
+Reasoning: Shareholder complaints allege negligent misrepresentation and concealment in a merger Prospectus by American Water’s board, triggering a professional liability / errors & omissions exposure under the D&O program.
+
+Workflow Run ID: [01KFNSV2GA1033Y061CNRHK95Q](https://msig.9root.ai/workflow-runs/01KFNSV2GA1033Y061CNRHK95Q)
+
+Tenant: msig
+
+Sean Chou  [10:27 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769185673251769)  
+
+Hey [@Chuck](https://isomer-ai-inc.slack.com/team/U095ZT93W5P) - more prompt ideas:  
+
+- Is this the first communication or is this a reply in a thread? Make it show that as a field but also make it question if it's new information that warrants flagging or if it's back and forth and doesn't have new information.
+- At the end of the prompt, ask it to review the decision, risk flag, and reasoning as a senior claims manager who wants to surface real signals, but reduce noise from false positives.
+
+Just curious how far prompt engineering can take it. Lmk if you've already incorporated. I've not looked at the prompts. I'm just looking at this output.
+
+Isomer AgentAPP  [10:43 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769186612157389)  
+
+Risk flag detected: Policy Gap / Silent Exposure  
+Reasoning: Email discusses damage to both a company vehicle and company house where property coverage ended 1/1/26, creating a potential coverage gap/silent exposure question for the home portion of the loss.
+
+Workflow Run ID: [01KFNVT93JSJ3ZQRD6S7M719B5](https://msig.9root.ai/workflow-runs/01KFNVT93JSJ3ZQRD6S7M719B5)
+
+Tenant: msig
+
+Isomer AgentAPP  [10:53 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769187235517339)  
+
+Risk flag detected: Attorney Representation  
+Reasoning: Email originates from a law firm legal assistant, using a law firm domain and signature, indicating the claimant is represented by counsel and direct contact with claimant should be avoided.
+
+Workflow Run ID: [01KFNWDDEY1R04RWVSD0A59252](https://msig.9root.ai/workflow-runs/01KFNWDDEY1R04RWVSD0A59252)
+
+Tenant: msig
+
+Isomer AgentAPP  [11:01 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769187690283199)  
+
+Navigation to the Guidewire login page timed out (unable to reach the site).
+
+Workflow Run ID: [01KFNWT3KN6A7RQYF6RZNW2NZJ](https://msig.9root.ai/workflow-runs/01KFNWT3KN6A7RQYF6RZNW2NZJ)
+
+Tenant: msig
+
+[11:02](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769187750166699)
+
+Risk flag detected: Punitive Damage "Setup"  
+Reasoning: Federal complaint repeatedly alleges civil rights violations, bad faith, malice, and intent to injure, and explicitly demands punitive damages to punish and deter defendants, creating potential exposure beyond standard compensatory limits.
+
+Workflow Run ID: [01KFNWWKJGV5T6XZYMVK1KQ6T4](https://msig.9root.ai/workflow-runs/01KFNWWKJGV5T6XZYMVK1KQ6T4)
+
+Tenant: msig
+
+[11:03](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769187818865419)
+
+Risk flag detected: Attorney Representation  
+Reasoning: Correspondence is from Winder Law Firm, sent by a legal assistant regarding a new auto claim, indicating the claimant is represented by counsel and that future communications should be directed to the attorney’s office rather than the insured.
+
+Workflow Run ID: [01KFNWZ2D8758BEF5ZKAV9PJRV](https://msig.9root.ai/workflow-runs/01KFNWZ2D8758BEF5ZKAV9PJRV)
+
+Tenant: msig
+
+Isomer AgentAPP  [11:09 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769188158656679)  
+
+Navigation to Guidewire timed out and automated login could not be completed (page load timeouts). MFA screen could not be reached.
+
+Workflow Run ID: [01KFNWWTTT78QD5XPD260F1H5X](https://msig.9root.ai/workflow-runs/01KFNWWTTT78QD5XPD260F1H5X)
+
+Tenant: msig
+
+Isomer AgentAPP  [11:31 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769189494201149)  
+
+Risk flag detected: Attorney Representation  
+Reasoning: Email originates from KJ Injury & Accident Lawyers regarding claim #AA220386, indicating the claimant is represented by legal counsel and direct contact protocols must change.
+
+Workflow Run ID: [01KFNYJ9X6CJA2N911TKXF4Y86](https://msig.9root.ai/workflow-runs/01KFNYJ9X6CJA2N911TKXF4Y86)
+
+Tenant: msig
+
+Isomer AgentAPP  [11:39 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769189990831999)  
+
+Risk flag detected: Policy Gap / Silent Exposure  
+Reasoning: Claim dates fall just after listed policy expiration while renewal is not yet issued/entered, indicating a potential coverage gap exposure until renewal is confirmed in the system.
+
+Workflow Run ID: [01KFNYZQ5TVZ2SZ47RSQK7GFTX](https://msig.9root.ai/workflow-runs/01KFNYZQ5TVZ2SZ47RSQK7GFTX)
+
+Tenant: msig
+
+Isomer AgentAPP  [12:14 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769192059938359)  
+
+Risk flag detected: Policy Gap / Silent Exposure  
+Reasoning: Loss occurred at 2150 W 195th St, Torrance, CA, which is not listed on WC policy WCP8522628; underwriting is being asked to add the location post-loss, indicating a potential coverage gap for this workers’ compensation claim.
+
+Workflow Run ID: [01KFP0ZM333F1XNN1DESSXNSZ4](https://msig.9root.ai/workflow-runs/01KFP0ZM333F1XNN1DESSXNSZ4)
+
+Tenant: msig
+
+Isomer AgentAPP  [1:08 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769195284300959)  
+
+Risk flag detected: Multi-Claimant Linkage  
+Reasoning: Multiple shareholder demand letters and separate New York complaints (Stewart, Kent) all challenge the same Confluent–IBM merger and proxy disclosures, indicating several claimants asserting related claims arising from a single corporate transaction.
+
+Workflow Run ID: [01KFP421QD1XXG3Q6AHVJNTHHP](https://msig.9root.ai/workflow-runs/01KFP421QD1XXG3Q6AHVJNTHHP)
+
+Tenant: msig
+
+Isomer AgentAPP  [1:15 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769195742870369)  
+
+400 Invalid schema for function 'local-assignDocumentTypesToFile': In context=('properties', 'documentTypes', 'items'), 'required' is required to be supplied and to be an array including every key in properties. Missing 'fieldValues'.
+
+Workflow Run ID: [01KFP4H259DGPE9KDN1G9N0YA8](https://msig.9root.ai/workflow-runs/01KFP4H259DGPE9KDN1G9N0YA8)
+
+Tenant: msig
+
+Isomer AgentAPP  [1:16 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769195812645019)  
+
+400 Invalid schema for function 'local-assignDocumentTypesToFile': In context=('properties', 'documentTypes', 'items'), 'required' is required to be supplied and to be an array including every key in properties. Missing 'fieldValues'.
+
+Workflow Run ID: [01KFP4K6GBFKGAZE7HF6YCQBXA](https://msig.9root.ai/workflow-runs/01KFP4K6GBFKGAZE7HF6YCQBXA)
+
+Tenant: msig
+
+Isomer AgentAPP  [1:18 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769195922560919)  
+
+400 Invalid schema for function 'local-assignDocumentTypesToFile': In context=('properties', 'documentTypes', 'items'), 'required' is required to be supplied and to be an array including every key in properties. Missing 'fieldValues'.
+
+Workflow Run ID: [01KFP4PHH66J5KBMJ699TFGKJ7](https://msig.9root.ai/workflow-runs/01KFP4PHH66J5KBMJ699TFGKJ7)
+
+Tenant: msig
+
+[1:19](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769195958020899)
+
+400 Invalid schema for function 'local-assignDocumentTypesToFile': In context=('properties', 'documentTypes', 'items'), 'required' is required to be supplied and to be an array including every key in properties. Missing 'fieldValues'.
+
+Workflow Run ID: [01KFP4QMH9JPVWQKVZZ0CNNWPE](https://msig.9root.ai/workflow-runs/01KFP4QMH9JPVWQKVZZ0CNNWPE)
+
+Tenant: msig
+
+Aaron  [1:24 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769196241976109)  
+
+^ have a change going out that will address this as part of it
+
+Isomer AgentAPP  [1:24 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769196299168779)  
+
+400 Invalid schema for function 'local-assignDocumentTypesToFile': In context=('properties', 'documentTypes', 'items'), 'required' is required to be supplied and to be an array including every key in properties. Missing 'fieldValues'.
+
+Workflow Run ID: [01KFP521FN181YK6BAXMDB1CVZ](https://msig.9root.ai/workflow-runs/01KFP521FN181YK6BAXMDB1CVZ)
+
+Tenant: msig
+
+[1:27](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769196474564319)
+
+400 Invalid schema for function 'local-assignDocumentTypesToFile': In context=('properties', 'documentTypes', 'items'), 'required' is required to be supplied and to be an array including every key in properties. Missing 'fieldValues'.
+
+Workflow Run ID: [01KFP57CT4JR1XTRHRGZJNWZJ9](https://msig.9root.ai/workflow-runs/01KFP57CT4JR1XTRHRGZJNWZJ9)
+
+Tenant: msig
+
+[1:28](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769196527899639)
+
+400 Invalid schema for function 'local-assignDocumentTypesToFile': In context=('properties', 'documentTypes', 'items'), 'required' is required to be supplied and to be an array including every key in properties. Missing 'fieldValues'.
+
+Workflow Run ID: [01KFP5913KGAPX3F4TAJ29BVY4](https://msig.9root.ai/workflow-runs/01KFP5913KGAPX3F4TAJ29BVY4)
+
+Tenant: msig
+
+Aaron  [1:42 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769197375753289)  
+
+Ok, fix is out. I’ll replay these.
+
+Isomer AgentAPP  [1:46 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769197616132239)  
+
+Risk flag detected: Critical Flagging  
+Reasoning: Extensive fire damage reported at JFK airport terminal under large builders risk policy with many carriers involved, indicating a potentially high-severity property loss requiring immediate senior oversight.
+
+Workflow Run ID: [01KFP6A11HTDP8D2R3CMP65KJE](https://msig.9root.ai/workflow-runs/01KFP6A11HTDP8D2R3CMP65KJE)
+
+Tenant: msig
+
+Isomer AgentAPP  [1:53 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769198034779269)  
+
+Risk flag detected: None (no catalog risk detected)  
+Reasoning: Routine low-value cargo loss settlement with standard claim note language. No attorneys, deadlines, bad-faith phrasing, evidence preservation demands, sanctions hits, or other terms matching any CSV-defined risk category are present in the email or attachments.
+
+Workflow Run ID: [01KFP6NQ5XARW91DTYG8A29WGQ](https://msig.9root.ai/workflow-runs/01KFP6NQ5XARW91DTYG8A29WGQ)
+
+Tenant: msig
+
+Isomer AgentAPP  [2:14 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769199288533969)  
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: The email states that the third party is 100% at fault and disobeyed a traffic signal, which is an early mention of third-party fault consistent with subrogation indicator criteria.
+
+Workflow Run ID: [01KFP7WRKPWK2MACMD3EBG8ZS5](https://msig.9root.ai/workflow-runs/01KFP7WRKPWK2MACMD3EBG8ZS5)
+
+Tenant: msig
+
+Isomer AgentAPP  [2:36 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769200587643419)  
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Email describes a parked vehicle struck by another car, indicating clear third-party fault and a potential subrogation recovery opportunity.
+
+Workflow Run ID: [01KFP93SEFFK9H0FZF9Z60C5EQ](https://msig.9root.ai/workflow-runs/01KFP93SEFFK9H0FZF9Z60C5EQ)
+
+Tenant: msig
+
+Isomer AgentAPP  [3:11 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769202675283549)  
+
+Risk flag detected: Critical Flagging  
+Reasoning: Email and attached complaint report the “Klarna Group plc Securities Class Action,” a high-severity securities class action naming BofA Securities as an underwriter defendant, matching the Critical Flagging example that triggers on the presence of a Class Action.
+
+Workflow Run ID: [01KFPAW955PVXHGG25WJJEEFZR](https://msig.9root.ai/workflow-runs/01KFPAW955PVXHGG25WJJEEFZR)
+
+Tenant: msig
+
+[3:11](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769202687708049)
+
+Risk flag detected: Attorney Representation  
+Reasoning: Email and attached subpoena are from and reference multiple attorneys (Isabel Arustamyan, Esq., litigation counsel Marc Klein, and Trustee’s counsel Bielli), instructing carriers to direct correspondence through counsel.
+
+Workflow Run ID: [01KFPB3F03JY3N1JVAP239WM6P](https://msig.9root.ai/workflow-runs/01KFPB3F03JY3N1JVAP239WM6P)
+
+Tenant: msig
+
+[3:12](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769202727915199)
+
+Risk flag detected: Critical Flagging  
+Reasoning: December D&O/EPL claims report lists multiple class actions and mass-claim matters (e.g., PAGA class action, BUS pre-lit class action, Dignity Health suits with 100+ claims), signaling high-severity exposure.
+
+Workflow Run ID: [01KFPB4WF8BGB4MRM3603CWV6C](https://msig.9root.ai/workflow-runs/01KFPB4WF8BGB4MRM3603CWV6C)
+
+Tenant: msig
+
+[3:12](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769202735535259)
+
+Risk flag detected: Multi-Claimant Linkage  
+Reasoning: Multiple matters on the D&O/EPL claims report involve class or multi-claimant litigation (PAGA class action, class pre-lit, Dignity Health matters with 100+ claims), indicating multiple claimants linked to common disputes with Kaiser.
+
+Workflow Run ID: [01KFPB54DRDVE2FQ4G5S83Y379](https://msig.9root.ai/workflow-runs/01KFPB54DRDVE2FQ4G5S83Y379)
+
+Tenant: msig
+
+Isomer AgentAPP  [3:19 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769203149910319)  
+
+Risk flag detected: Critical Flagging  
+Reasoning: FNOL and attached complaint show a putative securities class action against Klarna and underwriters, explicitly labeled a “securities class action,” which fits the Critical Flagging definition for high‑severity events including class actions.
+
+Workflow Run ID: [01KFPB9HF315TNKRHVKAH1C1GH](https://msig.9root.ai/workflow-runs/01KFPB9HF315TNKRHVKAH1C1GH)
+
+Tenant: msig
+
+Isomer AgentAPP  [3:25 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769203546961199)  
+
+Risk flag detected: Punitive Damage "Setup"  
+Reasoning: Complaints allege willful and wanton conduct in conscious disregard of safety, detail a pattern of violent incidents, and explicitly seek punitive damages, indicating an attempt to support punitive recovery beyond standard negligence.
+
+Workflow Run ID: [01KFPBXMDTVXMZA0ZF6G65BTDJ](https://msig.9root.ai/workflow-runs/01KFPBXMDTVXMZA0ZF6G65BTDJ)
+
+Tenant: msig
+
+Isomer AgentAPP  [3:31 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769203888552469)  
+
+Risk flag detected: Critical Flagging  
+Reasoning: Email and attachments report a securities class action complaint against BofA Securities arising from Klarna's IPO, explicitly labeled 'Securities Class Action,' which qualifies as a high‑severity class action event requiring senior attention.
+
+Workflow Run ID: [01KFPC851D85P4D31RDJC8JZCE](https://msig.9root.ai/workflow-runs/01KFPC851D85P4D31RDJC8JZCE)
+
+Tenant: msig
+
+Isomer AgentAPP  [3:41 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769204472572659)  
+
+Risk flag detected: Critical Flagging  
+Reasoning: Complaint alleges a shooting at the insured’s premises causing catastrophic, permanent injuries and lifetime medical care needs, indicating a high-severity loss.
+
+Workflow Run ID: [01KFPCTRZBR3XP92VBGG3A8XTA](https://msig.9root.ai/workflow-runs/01KFPCTRZBR3XP92VBGG3A8XTA)
+
+Tenant: msig
+
+Isomer AgentAPP  [3:57 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769205442565109)  
+
+Risk flag detected: Punitive Damage "Setup"  
+Reasoning: Underlying asbestos mesothelioma complaint expressly pleads a separate punitive damages cause of action, alleging malicious, wanton, reckless conduct and conscious indifference, signalling exposure beyond compensatory damages and policy limits.
+
+Workflow Run ID: [01KFPDQ1FQVEJZ98WCHN944H9X](https://msig.9root.ai/workflow-runs/01KFPDQ1FQVEJZ98WCHN944H9X)
+
+Tenant: msig
+
+[3:57](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769205448720659)
+
+Risk flag detected: Critical Flagging  
+Reasoning: Email reports a securities class action against the insured, explicitly using 'Class Action' language, which is listed as a trigger event for Critical Flagging requiring senior review.
+
+Workflow Run ID: [01KFPDS2WJNE4AFJMH3ZFM9EZG](https://msig.9root.ai/workflow-runs/01KFPDS2WJNE4AFJMH3ZFM9EZG)
+
+Tenant: msig
+
+[4:00](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769205615055919)
+
+Risk flag detected: Critical Flagging  
+Reasoning: Securities class action complaint against Oracle and underwriter BofA, with 'Class Action Complaint' caption and 'on behalf of all others similarly situated,' triggers high-severity class action exposure requiring senior management attention.
+
+Workflow Run ID: [01KFPDW4NHN33YF9MVPNGEJQVE](https://msig.9root.ai/workflow-runs/01KFPDW4NHN33YF9MVPNGEJQVE)
+
+Tenant: msig
+
+Isomer AgentAPP  [4:09 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769206153107529)  
+
+Risk flag detected: Critical Flagging  
+Reasoning: Email and complaint give first notice of 'Oracle Corporation Securities Class Action' and include a 'CLASS ACTION COMPLAINT', matching the Critical Flagging definition example where inbound mail contains the words 'Class Action', indicating a high-severity, multi-claimant securities lawsuit.
+
+Workflow Run ID: [01KFPEDGFZJM34R6N6ZPQ0RDQC](https://msig.9root.ai/workflow-runs/01KFPEDGFZJM34R6N6ZPQ0RDQC)
+
+Tenant: msig
+
+[4:10](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769206226251789)
+
+Risk flag detected: Medical Severity Escalation  
+Reasoning: Worker sustained leg fracture and required hospital admission with overnight stay, indicating higher-than-routine medical severity and likely reserve impact on this workers’ compensation claim.
+
+Workflow Run ID: [01KFPE63SZF6D0JZ1VPK4J3Q7N](https://msig.9root.ai/workflow-runs/01KFPE63SZF6D0JZ1VPK4J3Q7N)
+
+Tenant: msig
+
+Isomer AgentAPP  [4:17 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769206665221599)  
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Subrogation demand from Fleet Response on behalf of Sherwin-Williams for $18,952.75, including accident description blaming Buchanan’s driver for damaging a floor scrubber while hauling cargo. Indicates third‑party fault and recovery opportunity.
+
+Workflow Run ID: [01KFPE5BC7H02YTWESN9Z6XWQZ](https://msig.9root.ai/workflow-runs/01KFPE5BC7H02YTWESN9Z6XWQZ)
+
+Tenant: msig
+
+Isomer AgentAPP  [4:38 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769207892589959)  
+
+400 Your input exceeds the context window of this model. Please adjust your input and try again.
+
+Workflow Run ID: [01KFPFKXKHSBSSB4TW0KRTFZTM](https://msig.9root.ai/workflow-runs/01KFPFKXKHSBSSB4TW0KRTFZTM)
+
+Tenant: msig
+
+Isomer AgentAPP  [4:51 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769208665618989)  
+
+Risk flag detected: Critical Flagging  
+Reasoning: Notice of circumstance for alleged sale of 28 million Affirm records on the dark web represents a high-severity cyber/privacy incident requiring immediate senior intervention.
+
+Workflow Run ID: [01KFPGTDNHWB1GG9XG3CSFARYA](https://msig.9root.ai/workflow-runs/01KFPGTDNHWB1GG9XG3CSFARYA)
+
+Tenant: msig
+
+Isomer AgentAPP  [5:02 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769209356527579)  
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Email attributes loss to Nippon Express dropping a pallet and includes a Notice of Claim to Yusen Logistics, indicating identifiable third-party fault and a potential recovery opportunity.
+
+Workflow Run ID: [01KFPHGD788G2S7XMFA1Z11JRB](https://msig.9root.ai/workflow-runs/01KFPHGD788G2S7XMFA1Z11JRB)
+
+Tenant: msig
+
+Sean Chou  [5:03 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769209438848719)  
+
+We should add an estimated severity rating to the prompt too. Or maybe potential impact to business. Some of these sound much scarier than others.
+
+Isomer AgentAPP  [5:05 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769209515214549)  
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Email reports damaged totes allegedly dropped by Nippon Express team members and includes a Notice of Claim to Nippon Express, indicating third-party fault and a potential recovery opportunity.
+
+Workflow Run ID: [01KFPHN6FNVY5G9K8E0X52K4W1](https://msig.9root.ai/workflow-runs/01KFPHN6FNVY5G9K8E0X52K4W1)
+
+Tenant: msig
+
+[5:07](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769209630099569)
+
+Risk flag detected: Attorney Representation  
+Reasoning: WCAB Application and accompanying letters show Dario Castellanos is represented by Abramson Labor Group and attorney Tzvi Schwarzbaum (Esq.), including signed Notice of Representation and attorney correspondence to Earthrise/Mitsui regarding the workers’ compensation claim.
+
+Workflow Run ID: [01KFPHCRJM7ET4P6AGE8H3AD8H](https://msig.9root.ai/workflow-runs/01KFPHCRJM7ET4P6AGE8H3AD8H)
+
+Tenant: msig
+
+[5:09](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769209751394089)
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Email states Nippon Express team members dropped a pallet and totes causing damage, indicating third-party fault and a subrogation opportunity.
+
+Workflow Run ID: [01KFPHWFESNNF8SR9G57CPCAV5](https://msig.9root.ai/workflow-runs/01KFPHWFESNNF8SR9G57CPCAV5)
+
+Tenant: msig
+
+Isomer AgentAPP  [5:19 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769210395691529)  
+
+Risk flag detected: Excess Carrier Notification  
+Reasoning: Email is titled 'Excess Insurer Notice' and simultaneously notifies a large tower of excess E&O/cyber carriers about the Verizon outage claim.
+
+Workflow Run ID: [01KFPJG0BHXB26RM6JM329DBDZ](https://msig.9root.ai/workflow-runs/01KFPJG0BHXB26RM6JM329DBDZ)
+
+Tenant: msig
+
+Isomer AgentAPP  [7:03 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769216622433699)  
+
+GWCC10 Check Output failed: 'guidewire fail'. Laserfiche Check Output succeeded.
+
+Workflow Run ID: [01KFPR8VHTG27MEESD8HWF82QD](https://msig.9root.ai/workflow-runs/01KFPR8VHTG27MEESD8HWF82QD)
+
+Tenant: msig
+
+Isomer AgentAPP  [9:33 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769225580950549)  
+
+Risk flag detected: Medical Severity Escalation  
+Reasoning: Work comp claim describes right leg broken in three places and ER treatment, indicating significant injury severity and likely higher medical and indemnity exposure.
+
+Workflow Run ID: [01KFQ0ZKWJ3PVRKR084JFJJJJ6](https://msig.9root.ai/workflow-runs/01KFQ0ZKWJ3PVRKR084JFJJJJ6)
+
+Tenant: msig
+
+Isomer AgentAPP  [11:02 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769230965334659)  
+
+Laserfiche Check Output was not successful: 'laserfiche fail' (expected 'success').
+
+Workflow Run ID: [01KFQ60AY6M06D4WD22JXP71NC](https://msig.9root.ai/workflow-runs/01KFQ60AY6M06D4WD22JXP71NC)
+
+Tenant: msig
+
+Isomer AgentAPP  [11:37 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769233062806329)  
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Email and incident reports state tenant’s coffee filtration system caused the water damage and tenant has been advised to report the matter to its own insurance carrier, indicating clear third-party fault and recovery potential.
+
+Workflow Run ID: [01KFQ81T7B00CF0M9C9SBZQG20](https://msig.9root.ai/workflow-runs/01KFQ81T7B00CF0M9C9SBZQG20)
+
+Tenant: msig
+
+## SATURDAY 1/24/2026
+
+Isomer AgentAPP  [1:21 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769239294277469)  
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Email notes negligent third party and that subrogation is applicable for this work-related vehicle collision, indicating a recovery opportunity.
+
+Workflow Run ID: [01KFQE2337GAP3G3NHX325YHDS](https://msig.9root.ai/workflow-runs/01KFQE2337GAP3G3NHX325YHDS)
+
+Tenant: msig
+
+Isomer AgentAPP  [7:37 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769261879329409)  
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Loss description and intake details emphasize another vehicle striking the insured’s trailer and identify the third-party driver and their insurer, indicating potential recovery opportunities against a potentially at-fault party.
+
+Workflow Run ID: [01KFR3J2MRT289AK4P0E24016S](https://msig.9root.ai/workflow-runs/01KFR3J2MRT289AK4P0E24016S)
+
+Tenant: msig
+
+Isomer AgentAPP  [3:30 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769290225342139)  
+
+Risk flag detected: Multi-Claimant Linkage  
+Reasoning: Notice letter lists over 200 lawsuits against Home Depot in coordinated Silicosis Litigation arising from similar product exposures, indicating many related claims tied to a common root cause.
+
+Workflow Run ID: [01KFRYKMBH7196V2XSVCFAS6F7](https://msig.9root.ai/workflow-runs/01KFRYKMBH7196V2XSVCFAS6F7)
+
+Tenant: msig
+
+## SUNDAY 1/25/2026
+
+Isomer AgentAPP  [3:02 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769331762414029)  
+
+GWCC10 Check Output was not 'success' (actual: 'guidewire fail').
+
+Workflow Run ID: [01KFT64EVHJAZADKZPX8F8WR94](https://msig.9root.ai/workflow-runs/01KFT64EVHJAZADKZPX8F8WR94)
+
+Tenant: msig
+
+Isomer AgentAPP  [3:20 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769332820609879)  
+
+Risk flag detected: Attorney Representation  
+Reasoning: Claim documents and email come from The Law Offices of Bob Nehoray, showing the worker is represented by counsel in a WC application against CalPortland Company; attorney name, firm letterhead, and fee disclosure confirm legal representation.
+
+Workflow Run ID: [01KFT7094TDD3CKD4KFT924CPW](https://msig.9root.ai/workflow-runs/01KFT7094TDD3CKD4KFT924CPW)
+
+Tenant: msig
+
+Isomer AgentAPP  [7:02 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769389326670789)  
+
+Risk flag detected: Critical Flagging  
+Reasoning: Email and court filing allege killings, attempted murders, terrorism, and large-scale governmental misconduct, indicating an extreme, high-severity situation requiring immediate senior review and potential security/legal escalation.
+
+Workflow Run ID: [01KFVX497BW15BDZHZPGMXT95R](https://msig.9root.ai/workflow-runs/01KFVX497BW15BDZHZPGMXT95R)
+
+Tenant: msig
+
+Isomer AgentAPP  [11:02 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769403761518279)  
+
+Laserfiche Check Output failed with value: "laserfiche fail".
+
+Workflow Run ID: [01KFWAT3A6XBP1VRDV16RGPTQ2](https://msig.9root.ai/workflow-runs/01KFWAT3A6XBP1VRDV16RGPTQ2)
+
+Tenant: msig
+
+## MONDAY 1/26/2026
+
+Isomer AgentAPP  [4:04 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769421894206159)  
+
+Risk flag detected: Critical Flagging  
+Reasoning: Highly escalated whistleblower allegations of international terrorism, killings, nuclear weapons and government conspiracy, addressed to courts, regulators and media, indicate an extreme-severity situation requiring immediate senior review and potential crisis management.
+
+Workflow Run ID: [01KFWW66Y8EBRAR01R7PS9197Y](https://msig.9root.ai/workflow-runs/01KFWW66Y8EBRAR01R7PS9197Y)
+
+Tenant: msig
+
+Isomer AgentAPP  [6:05 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769429151157059)  
+
+Risk flag detected: Policy Gap / Silent Exposure  
+Reasoning: Email thread shows uncertainty whether the loss location was covered for the 1/12/23 incident, with a request to rush-add it to the 12/10/22–12/10/23 policy term, indicating a potential coverage gap.
+
+Workflow Run ID: [01KFX33XBHCE4EES7HFW1C17KW](https://msig.9root.ai/workflow-runs/01KFX33XBHCE4EES7HFW1C17KW)
+
+Tenant: msig
+
+Isomer AgentAPP  [6:23 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769430217908539)  
+
+Risk flag detected: Attorney Representation  
+Reasoning: Workers' Compensation Board notice lists law firms (Law Office of Melissa A Day PLLC and Lipsitz, Green, Scime, Cambria LLP) as parties of interest, indicating claimant has legal counsel and triggering the Attorney Representation risk flag.
+
+Workflow Run ID: [01KFX43ENEK5YFJ1RZCAKVY8JG](https://msig.9root.ai/workflow-runs/01KFX43ENEK5YFJ1RZCAKVY8JG)
+
+Tenant: msig
+
+Isomer AgentAPP  [6:54 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769432069836429)  
+
+Risk flag detected: Attorney Representation  
+Reasoning: Email indicates the claim was reported by an attorney calling on behalf of the Mitsui insured, signaling initial legal counsel involvement.
+
+Workflow Run ID: [01KFX5WPY1HFTSDZQ66SZXD4W5](https://msig.9root.ai/workflow-runs/01KFX5WPY1HFTSDZQ66SZXD4W5)
+
+Tenant: msig
+
+[6:59](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769432360416449)
+
+Risk flag detected: Attorney Representation  
+Reasoning: Email from external law firm includes a letter of representation and requests PIP claim details, indicating claimant is now represented by counsel and direct contact with the insured must be avoided.
+
+Workflow Run ID: [01KFX66163HRZWR59GMAKF1E4B](https://msig.9root.ai/workflow-runs/01KFX66163HRZWR59GMAKF1E4B)
+
+Tenant: msig
+
+Isomer AgentAPP  [7:36 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769434616682709)  
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Police report and citation show Unit 1 failed to yield and is at fault, while Hertz (rental vehicle for Unit 2) is seeking recovery, indicating a clear subrogation opportunity against the MS Transverse–insured party.
+
+Workflow Run ID: [01KFX88642BJJQPH9A6KNZVDXR](https://msig.9root.ai/workflow-runs/01KFX88642BJJQPH9A6KNZVDXR)
+
+Tenant: msig
+
+Isomer AgentAPP  [7:52 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769435558432829)  
+
+Risk flag detected: Critical Flagging  
+Reasoning: December D&O/EPL claims report includes multiple class actions and high-volume hospital reimbursement disputes, triggering the high-severity “Critical Flagging” criterion.
+
+Workflow Run ID: [01KFX963MCTQSAF4CS2PTS5N9M](https://msig.9root.ai/workflow-runs/01KFX963MCTQSAF4CS2PTS5N9M)
+
+Tenant: msig
+
+Isomer AgentAPP  [8:05 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769436312609229)  
+
+Risk flag detected: Attorney Representation  
+Reasoning: FNOL notes claimant’s attorney (Lipsitz Green Scime Cambria), indicating the injured worker is represented by counsel, so direct contact with the employee must be avoided and communications routed through the attorney.
+
+Workflow Run ID: [01KFX9Y3EPFD66KNE8ZBR9XV48](https://msig.9root.ai/workflow-runs/01KFX9Y3EPFD66KNE8ZBR9XV48)
+
+Tenant: msig
+
+[8:06](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769436397371229)
+
+Risk flag detected: Attorney Representation  
+Reasoning: Claim file already lists claimant’s attorney (Law Office Melissa A Day PLLC with contact details and docket number), indicating the worker is represented and direct contact with the claimant could risk improper communications.
+
+Workflow Run ID: [01KFXA0PVS4MS392VMF17CT0GF](https://msig.9root.ai/workflow-runs/01KFXA0PVS4MS392VMF17CT0GF)
+
+Tenant: msig
+
+[8:07](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769436454084129)
+
+Risk flag detected: Excess Carrier Notification  
+Reasoning: Email is an excess insurer notice listing excess policy MSIG CYE1000029 among many, following Verizon’s January 14, 2026 outage, and requests claim acknowledgment and ongoing correspondence—indicating notification of potential exposure to excess carriers above the primary cyber/E&O layer.
+
+Workflow Run ID: [01KFXA2WD47RY6NFS5G27EHE2B](https://msig.9root.ai/workflow-runs/01KFXA2WD47RY6NFS5G27EHE2B)
+
+Tenant: msig
+
+Isomer AgentAPP  [8:13 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769436781730349)  
+
+400 terminated
+
+Workflow Run ID: [01KFX98TJRD47NYP3J0E5KB5SC](https://msig.9root.ai/workflow-runs/01KFX98TJRD47NYP3J0E5KB5SC)
+
+Tenant: msig
+
+Isomer AgentAPP  [8:26 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769437582710419)  
+
+Risk flag detected: Professional Liability: E&O  
+Reasoning: Bordereau lists numerous client allegations that Lockton failed to procure adequate coverage or timely report claims, indicating broker errors and omissions across multiple matters.
+
+Workflow Run ID: [01KFXB4RFPPG847KYVZ5SP8JYV](https://msig.9root.ai/workflow-runs/01KFXB4RFPPG847KYVZ5SP8JYV)
+
+Tenant: msig
+
+[8:28](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769437727152629)
+
+Risk flag detected: Excess Carrier Notification  
+Reasoning: Broker email is titled “Excess Insurer Notice,” lists numerous excess policy numbers, and reports a large Verizon network outage expected to cause substantial loss, indicating potential exhaustion of primary limits and triggering excess carrier involvement.
+
+Workflow Run ID: [01KFXB920FRBWF07FP2KYK6ZX8](https://msig.9root.ai/workflow-runs/01KFXB920FRBWF07FP2KYK6ZX8)
+
+Tenant: msig
+
+Isomer AgentAPP  [8:35 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769438155244829)  
+
+Risk flag detected: Policy Gap / Silent Exposure  
+Reasoning: Internal emails show uncertainty whether the loss location was listed on the 12/10/22–12/10/23 policy term and a rush request to add it by endorsement, indicating a potential coverage gap for the 1/12/23 loss.
+
+Workflow Run ID: [01KFXBPKQNXM9HHAM5HDHFRYDR](https://msig.9root.ai/workflow-runs/01KFXBPKQNXM9HHAM5HDHFRYDR)
+
+Tenant: msig
+
+Isomer AgentAPP  [8:50 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769439044140009)  
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Email and incident reports state the tenant is responsible and the leak was caused by a tenant-owned coffee filtration system, indicating a clear subrogation opportunity.
+
+Workflow Run ID: [01KFXCFPP5KESD607RHV9QW3TA](https://msig.9root.ai/workflow-runs/01KFXCFPP5KESD607RHV9QW3TA)
+
+Tenant: msig
+
+[8:54](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769439260263189)
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Subrogation demand letter from Fleet Response on behalf of Sherwin-Williams for property damage during transport, assigning fault to the carrier, indicates third-party liability and a recovery opportunity.
+
+Workflow Run ID: [01KFXBNZWD7RYQ1ZTH4SR22598](https://msig.9root.ai/workflow-runs/01KFXBNZWD7RYQ1ZTH4SR22598)
+
+Tenant: msig
+
+Isomer AgentAPP  [9:01 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769439693323819)  
+
+Risk flag detected: Policy Gap / Silent Exposure  
+Reasoning: Claim involves water damage at a property address not listed on the policy, raising potential coverage gap or misclassified LOB that may leave the loss uninsured or only partially insured.
+
+Workflow Run ID: [01KFXD5NMRNWXJENJ7DWD0X3H5](https://msig.9root.ai/workflow-runs/01KFXD5NMRNWXJENJ7DWD0X3H5)
+
+Tenant: msig
+
+Isomer AgentAPP  [9:11 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769440267633249)  
+
+Risk flag detected: Policy Gap / Silent Exposure  
+Reasoning: Loss occurred at 201 E Washington, Phoenix AZ, a property location not scheduled on policy PKG3101025. Underwriting is being asked to post coverage or add the address, indicating a potential coverage gap or silent exposure for this loss location.
+
+Workflow Run ID: [01KFXDPV7K0QVRKTH3R1G9PJFA](https://msig.9root.ai/workflow-runs/01KFXDPV7K0QVRKTH3R1G9PJFA)
+
+Tenant: msig
+
+Isomer AgentAPP  [9:32 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769441566267809)  
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Police report attributes fault to Unit 1 (failed to yield, citation issued) and Hertz Recovery is seeking claim info, indicating a potential subrogation opportunity against the MS Transverse insured.
+
+Workflow Run ID: [01KFXEWCPXFEZGKDE6PQPZVEPP](https://msig.9root.ai/workflow-runs/01KFXEWCPXFEZGKDE6PQPZVEPP)
+
+Tenant: msig
+
+Isomer AgentAPP  [9:38 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769441910905889)  
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Loss description notes PBV driver swerved to avoid an oncoming vehicle before striking property, suggesting potential third-party fault and a possible subrogation opportunity against the unidentified driver.
+
+Workflow Run ID: [01KFXF93G7EGZQKHNBMX1RDYCP](https://msig.9root.ai/workflow-runs/01KFXF93G7EGZQKHNBMX1RDYCP)
+
+Tenant: msig
+
+Isomer AgentAPP  [9:45 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769442321106549)  
+
+Risk flag detected: Evidence Preservation  
+Reasoning: Incoming certified letter gives notice of destructive testing of the microwave involved in a fire and requires LG to respond within 20 days or waive inspection rights, creating significant evidence preservation and spoliation exposure.
+
+Workflow Run ID: [01KFXFMNTP3106EKMSG9VYPAC8](https://msig.9root.ai/workflow-runs/01KFXFMNTP3106EKMSG9VYPAC8)
+
+Tenant: msig
+
+Isomer AgentAPP  [10:01 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769443308573129)  
+
+Risk flag detected: Policy Gap / Silent Exposure  
+Reasoning: Property fire loss reported at 243-13 Holte, San Diego, a multi-unit location not currently scheduled on policy FIR1122885. Claims requests confirmation of coverage and addition of location, indicating a potential uncovered location / silent property exposure.
+
+Workflow Run ID: [01KFXGJNERK3740ES3KJAPX9WM](https://msig.9root.ai/workflow-runs/01KFXGJNERK3740ES3KJAPX9WM)
+
+Tenant: msig
+
+[10:04](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769443463843589)
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Cargo damage email attributes loss to Nippon Express team dropping a pallet and totes, clearly identifying a potentially responsible third-party logistics provider and opportunity for cost recovery.
+
+Workflow Run ID: [01KFXGERJB5D9ANTE64JNEYFC6](https://msig.9root.ai/workflow-runs/01KFXGERJB5D9ANTE64JNEYFC6)
+
+Tenant: msig
+
+Isomer AgentAPP  [10:10 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769443819327419)  
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: FNOL describes a rear-end collision where the other driver failed to stop, admitted fault, and subrogation potential is explicitly noted, indicating a clear opportunity to recover costs from the at-fault party.
+
+Workflow Run ID: [01KFXH3HEZXR04QPDN6YP3WFAE](https://msig.9root.ai/workflow-runs/01KFXH3HEZXR04QPDN6YP3WFAE)
+
+Tenant: msig
+
+Isomer AgentAPP  [10:25 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769444743213419)  
+
+Risk flag detected: None – no matching risk flag  
+Reasoning: Auto FNOL only; no injuries, no demands, no attorneys, no special venue, no evidence or preservation requests, and no language matching defined risk triggers.
+
+Workflow Run ID: [01KFXHXHB0HHK0KX12C8DM8K5E](https://msig.9root.ai/workflow-runs/01KFXHXHB0HHK0KX12C8DM8K5E)
+
+Tenant: msig
+
+Isomer AgentAPP  [10:32 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769445165779949)  
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Driver reports third-party vehicle towing a swaying trailer forced him into the median and left the scene; police crash report documents second vehicle and trailer, indicating clear third-party fault and potential recovery opportunity.
+
+Workflow Run ID: [01KFXJB4J11A40639HAX3N62W3](https://msig.9root.ai/workflow-runs/01KFXJB4J11A40639HAX3N62W3)
+
+Tenant: msig
+
+Isomer AgentAPP  [10:38 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769445499226219)  
+
+Risk flag detected: Multi-Claimant Linkage  
+Reasoning: Exhibit A lists hundreds of silicosis lawsuits against Home Depot/MS International alleging similar silica exposure injuries, showing many related claims from a common product/source and indicating a mass-tort style exposure.
+
+Workflow Run ID: [01KFXJNMH83M7HZTJBQ9Z0H3VT](https://msig.9root.ai/workflow-runs/01KFXJNMH83M7HZTJBQ9Z0H3VT)
+
+Tenant: msig
+
+Isomer AgentAPP  [10:38 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769445522178529)  
+
+Risk flag detected: Attorney Representation  
+Reasoning: Email originates from a law firm with an attached letter of representation for the insured driver, indicating counsel involvement and need to avoid direct contact with represented party.
+
+Workflow Run ID: [01KFXJQSW1WKMD6XMC7CPM8MNA](https://msig.9root.ai/workflow-runs/01KFXJQSW1WKMD6XMC7CPM8MNA)
+
+Tenant: msig
+
+Only visible to you
+
+Slackbot  [10:44 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769445888009000)  
+
+That looks like a ChatGPT link. Would you like to install the ChatGPT app from the [Slack Marketplace](https://isomer-ai-inc.slack.com/marketplace/A097V82EGG2-chatgpt?suggestion=1&utm_source=in-prod&utm_medium=inprod-link_app_suggestion-click)?
+
+[ChatGPT](https://isomer-ai-inc.slack.com/marketplace/A097V82EGG2-chatgpt?suggestion=1&utm_source=in-prod&utm_medium=inprod-link_app_suggestion-click)
+
+Chat one-on-one with ChatGPT in a dedicated sidebar: a space for you to ask questions, brainstorm ideas, draft content and solve hard problems faster.  
+[Learn more](https://isomer-ai-inc.slack.com/marketplace/A097V82EGG2-chatgpt?suggestion=1&utm_source=in-prod&utm_medium=inprod-link_app_suggestion-click)
+
+Isomer AgentAPP  [10:48 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769446101132219)  
+
+Risk flag detected: Attorney Representation  
+Reasoning: Attached letter from Qualey, Williams, Aikens (attorneys at law) designates Arielle R. Aikens as counsel for the Hartley claim, with full law firm contact details, indicating the claimants are formally represented by legal counsel.
+
+Workflow Run ID: [01KFXK8QGH2J09FSGN7B462ZFW](https://msig.9root.ai/workflow-runs/01KFXK8QGH2J09FSGN7B462ZFW)
+
+Tenant: msig
+
+Isomer AgentAPP  [11:20 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769448030313849)  
+
+Risk flag detected: None (no matching CSV risk category)  
+Reasoning: Email is a routine new loss notification with only links to a loss notice and no language or details that match any defined risk triggers in the provided CSV.
+
+Workflow Run ID: [01KFXN3KHAQEAAFK7GPGEWAEZH](https://msig.9root.ai/workflow-runs/01KFXN3KHAQEAAFK7GPGEWAEZH)
+
+Tenant: msig
+
+[11:22](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769448138093559)
+
+Risk flag detected: Policy Gap / Silent Exposure  
+Reasoning: Property loss occurred at 201 E Washington, Phoenix, which is not listed on PKG3101025 or USPO policy. Internal emails discuss whether address must be added or if loss falls under another coverage, indicating potential coverage gap/silent exposure.
+
+Workflow Run ID: [01KFXN7M1VKC7AJAXG5XHAMDQA](https://msig.9root.ai/workflow-runs/01KFXN7M1VKC7AJAXG5XHAMDQA)
+
+Tenant: msig
+
+[11:24](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769448261542969)
+
+Risk flag detected: Policy Gap / Silent Exposure  
+Reasoning: Loss at 201 E Washington Phoenix AZ is not listed on SCOA policy PKG3101025 or USPO policy FIR1122621, indicating a potential uninsured location and resulting silent property coverage gap.
+
+Workflow Run ID: [01KFXNB5QT7BM6DAQE28VNRT3P](https://msig.9root.ai/workflow-runs/01KFXNB5QT7BM6DAQE28VNRT3P)
+
+Tenant: msig
+
+Isomer AgentAPP  [11:44 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769449463594159)  
+
+Risk flag detected: Policy Gap / Silent Exposure  
+Reasoning: Loss at 201 E Washington is not scheduled on SCOA or USPO property policies. Internal emails question whether address should be added or handled as liability, indicating a potential coverage gap or silent exposure between property coverage and tenant responsibility.
+
+Workflow Run ID: [01KFXPFVPC0GNH2BHVS2WPEBJA](https://msig.9root.ai/workflow-runs/01KFXPFVPC0GNH2BHVS2WPEBJA)
+
+Tenant: msig
+
+Isomer AgentAPP  [12:09 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769450946030109)  
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Claimant reports hit-and-run with identified defendant (State of Indiana vs. Patrick B. Murphy), police case number, and prosecutor restitution letter, indicating clear third-party fault and opportunity to recover repair costs.
+
+Workflow Run ID: [01KFXQV5MVW09ATN7SQ357G4Y8](https://msig.9root.ai/workflow-runs/01KFXQV5MVW09ATN7SQ357G4Y8)
+
+Tenant: msig
+
+[12:11](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769451089743879)
+
+Risk flag detected: Attorney Representation  
+Reasoning: Outside counsel (Gallo Vitucci Klar LLP) is tendering defense and indemnity on behalf of Broadway Construction Group and Gowanus Nevins North, and the complaint shows plaintiff’s counsel (Gorayeb & Associates) is involved, indicating both sides are represented by attorneys and direct contact with parties is improper.
+
+Workflow Run ID: [01KFXR05HKASV8WJGJV2T2CM7N](https://msig.9root.ai/workflow-runs/01KFXR05HKASV8WJGJV2T2CM7N)
+
+Tenant: msig
+
+Isomer AgentAPP  [12:20 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769451604945709)  
+
+Unable to classify the supplied PDF because the classify_pdf tool repeatedly timed out; cannot determine total page count or sub-document page ranges reliably.
+
+Workflow Run ID: [01KFXP7GAKBAC8NVC04EHENC54](https://msig.9root.ai/workflow-runs/01KFXP7GAKBAC8NVC04EHENC54)
+
+Tenant: msig
+
+Isomer AgentAPP  [12:32 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769452361664889)  
+
+Risk flag detected: Attorney Representation  
+Reasoning: Email from law firm with attached letter of representation for claimant Juan Prieto indicates counsel involvement, triggering attorney-representation controls and need to avoid direct insured contact.
+
+Workflow Run ID: [01KFXS8F8A79GYYD08123768BF](https://msig.9root.ai/workflow-runs/01KFXS8F8A79GYYD08123768BF)
+
+Tenant: msig
+
+[12:36](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769452578924289)
+
+Risk flag detected: Excess Carrier Notification  
+Reasoning: Excess insurers, including MSIG CYE1000029, are being notified of a significant Verizon outage under Chubb’s E&O/Cyber program, indicating potential attachment of excess layers and need to ensure timely excess carrier reporting and coordination.
+
+Workflow Run ID: [01KFXSEFST765FW640N166N0AN](https://msig.9root.ai/workflow-runs/01KFXSEFST765FW640N166N0AN)
+
+Tenant: msig
+
+[12:39](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769452765813269)
+
+Risk flag detected: Excess Carrier Notification  
+Reasoning: Notice email is titled “Excess Insurer Notice” and lists numerous excess carrier policy numbers, including MSIG CYE1000029, requesting acknowledgement of the claim under these excess policies.
+
+Workflow Run ID: [01KFXSMKJX55JH5ABNHXT9WMP1](https://msig.9root.ai/workflow-runs/01KFXSMKJX55JH5ABNHXT9WMP1)
+
+Tenant: msig
+
+Isomer AgentAPP  [12:47 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769453244941449)  
+
+Risk flag detected: Multi-Claimant Linkage  
+Reasoning: Email describes a widespread Verizon outage disrupting services for many customers from a single event, with anticipated substantial expenses and claims, indicating numerous potential claimants linked to one root-cause incident.
+
+Workflow Run ID: [01KFXT291REJKKJ00R318MTYTZ](https://msig.9root.ai/workflow-runs/01KFXT291REJKKJ00R318MTYTZ)
+
+Tenant: msig
+
+Isomer AgentAPP  [12:59 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769453988013849)  
+
+Risk flag detected: Attorney Representation  
+Reasoning: Correspondence on law firm letterhead states they are subrogation counsel for Berkley One regarding the Katz boat claim, confirming the claimant is attorney-represented.
+
+Workflow Run ID: [01KFXTRK854T3HAG6SMFC93MEG](https://msig.9root.ai/workflow-runs/01KFXTRK854T3HAG6SMFC93MEG)
+
+Tenant: msig
+
+[1:00](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769454004118589)
+
+Risk flag detected: Pending  
+Reasoning: Initial analysis in progress; FNOL attachment being reviewed to determine if any defined risk condition is triggered.
+
+Workflow Run ID: [01KFXTTH7K721X8FVHEFT6F5YW](https://msig.9root.ai/workflow-runs/01KFXTTH7K721X8FVHEFT6F5YW)
+
+Tenant: msig
+
+[1:00](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769454056418949)
+
+Risk flag detected: Subrogation Indicators  
+Reasoning: Driver reports another car crossed the center line, suggesting third-party fault and a potential recovery opportunity despite FNOL field stating “No Subrogation.”
+
+Workflow Run ID: [01KFXTTH7K721X8FVHEFT6F5YW](https://msig.9root.ai/workflow-runs/01KFXTTH7K721X8FVHEFT6F5YW)
+
+Tenant: msig
+
+[1:03](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769454197152139)
+
+Risk flag detected: Attorney Representation  
+Reasoning: A law firm letter states “Our firm represents Mr. James Hays,” a shareholder, and issues a formal demand to Akamai’s Board, indicating clear legal representation and potential forthcoming litigation related to corporate governance bylaws.
+
+Workflow Run ID: [01KFXTZZY9N7ER3CRHAMF0VVYF](https://msig.9root.ai/workflow-runs/01KFXTZZY9N7ER3CRHAMF0VVYF)
+
+Tenant: msig
+
+Isomer AgentAPP  [1:19 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769455176950939)  
+
+Risk flag detected: Attorney Representation  
+Reasoning: Claimant stated they have an attorney, refused further details, and a representative letter was requested. This is the first clear indication of legal counsel and signals the need to avoid improper direct contact with the claimant.
+
+Workflow Run ID: [01KFXVY7Z5HE9RRQQMR0TQW8YA](https://msig.9root.ai/workflow-runs/01KFXVY7Z5HE9RRQQMR0TQW8YA)
+
+Tenant: msig
+
+Isomer AgentAPP  [1:48 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769456890872479)  
+
+Risk Signal: Evidence Preservation / Spoliation Notice  
+Rationale: Letters formally demand preservation of vehicle, event data recorder, photos, video, and other records, instructing insurer not to alter, destroy, or repair evidence from the accident.
+
+Workflow Run ID: [01KFXXHMGY37VTDFE9PDNM06PT](https://msig.9root.ai/workflow-runs/01KFXXHMGY37VTDFE9PDNM06PT)
+
+Tenant: msig
+
+Isomer AgentAPP  [1:48 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769456890966269)  
+
+Risk Signal: Initial Attorney Representation Notice  
+Rationale: Law firm Duncan Injury Group advises it represents claimant Wesmy Theodore for this crash, constituting first attorney representation notice to the insurer in this correspondence.
+
+Workflow Run ID: [01KFXXHMGY37VTDFE9PDNM06PT](https://msig.9root.ai/workflow-runs/01KFXXHMGY37VTDFE9PDNM06PT)
+
+Tenant: msig
+
+Isomer AgentAPP  [1:50 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769457048656509)  
+
+Risk Signal: Evidence Preservation / Spoliation Notice  
+Rationale: Attorney letter formally demands preservation of vehicle, recordings, and all related evidence and warns against altering or destroying it, triggering evidence preservation and spoliation obligations.
+
+Workflow Run ID: [01KFXXKJ54WR0ZPEP2KSGVB7WH](https://msig.9root.ai/workflow-runs/01KFXXKJ54WR0ZPEP2KSGVB7WH)
+
+Tenant: msig
+
+Isomer AgentAPP  [2:05 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769457925962739)  
+
+400 Your input exceeds the context window of this model. Please adjust your input and try again.
+
+Workflow Run ID: [01KFXXWC4TFQZ1G951S3428PDQ](https://msig.9root.ai/workflow-runs/01KFXXWC4TFQZ1G951S3428PDQ)
+
+Tenant: msig
+
+Isomer AgentAPP  [2:41 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769460109812429)  
+
+Risk Signal: Subrogation Opportunity Signal  
+Rationale: Loss description states ‘your insured started going in reverse and collided with our insured,’ clearly attributing fault to an identifiable opposing driver/vehicle, creating third-party recovery potential.
+
+Workflow Run ID: [01KFY0H5C0VR7TZF6WMF4HYC27](https://msig.9root.ai/workflow-runs/01KFY0H5C0VR7TZF6WMF4HYC27)
+
+Tenant: msig
+
+Isomer AgentAPP  [2:47 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769460473040339)  
+
+400 Your input exceeds the context window of this model. Please adjust your input and try again.
+
+Workflow Run ID: [01KFY0XGDVP8ZEF8JCC1ZBSD18](https://msig.9root.ai/workflow-runs/01KFY0XGDVP8ZEF8JCC1ZBSD18)
+
+Tenant: msig
+
+Isomer AgentAPP  [2:57 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769461060690269)  
+
+Risk Signal: Initial Attorney Representation Notice  
+Rationale: Attached letter from Swigart Law Group states they represent claimant Jared Massie, marking the first notice of attorney representation for this claim.
+
+Workflow Run ID: [01KFY1H9H156GM54AT5FR3TQB5](https://msig.9root.ai/workflow-runs/01KFY1H9H156GM54AT5FR3TQB5)
+
+Tenant: msig
+
+Isomer AgentAPP  [3:02 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769461333119489)  
+
+GWCC10 Check Output not successful: 'guidewire fail'.
+
+Workflow Run ID: [01KFY1QV4RFF1MNV6XHRJE325M](https://msig.9root.ai/workflow-runs/01KFY1QV4RFF1MNV6XHRJE325M)
+
+Tenant: msig
+
+Isomer AgentAPP  [3:20 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769462447231519)  
+
+Risk Signal: Critical Severity Event Signal  
+Rationale: Complaint describes a catastrophic gas explosion destroying multiple homes, causing one fatality and severe injuries, indicating an extreme-severity loss event.
+
+Workflow Run ID: [01KFY2TVSBN1KXJ842WKT63NC9](https://msig.9root.ai/workflow-runs/01KFY2TVSBN1KXJ842WKT63NC9)
+
+Tenant: msig
+
+[3:20](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769462447314439)
+
+Risk Signal: Multi-Claimant Common Cause Signal  
+Rationale: Explosion from a single gas system destroyed neighboring homes and injured multiple residents, indicating several potential claimants from the same incident and products.
+
+Workflow Run ID: [01KFY2TVSBN1KXJ842WKT63NC9](https://msig.9root.ai/workflow-runs/01KFY2TVSBN1KXJ842WKT63NC9)
+
+Tenant: msig
+
+[3:20](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769462447404099)
+
+Risk Signal: Medical Severity Escalation Signal  
+Rationale: Plaintiff alleges third-degree burns over her entire body, facial burns, disfigurement, and permanent limitations, indicating severe long-term medical impairment.
+
+Workflow Run ID: [01KFY2TVSBN1KXJ842WKT63NC9](https://msig.9root.ai/workflow-runs/01KFY2TVSBN1KXJ842WKT63NC9)
+
+Tenant: msig
+
+Isomer AgentAPP  [3:25 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769462754898629)  
+
+Risk Signal: Initial Attorney Representation Notice  
+Rationale: Attorney Joshua Swigart writes on behalf of claimant Patricia Vance, and this email provides first notice of her counsel’s involvement to the insurers.
+
+Workflow Run ID: [01KFY3494W2XHS7DZ2JZP7H0Q5](https://msig.9root.ai/workflow-runs/01KFY3494W2XHS7DZ2JZP7H0Q5)
+
+Tenant: msig
+
+Isomer AgentAPP  [3:36 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769463386587049)  
+
+Risk Signal: Initial Attorney Representation Notice  
+Rationale: Attorney Joshua Swigart states he represents claimant Donald Boe, and this notice forwards his information request letter as first claim correspondence to insurers.
+
+Workflow Run ID: [01KFY3QAMJ0YAZXGJ3927FCXKW](https://msig.9root.ai/workflow-runs/01KFY3QAMJ0YAZXGJ3927FCXKW)
+
+Tenant: msig
+
+[3:38](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769463493102909)
+
+Risk Signal: Initial Attorney Representation Notice  
+Rationale: Claimant law firm states it has been retained to represent Roberto Ramos for this accident and requests all communications be directed to their office.
+
+Workflow Run ID: [01KFY3VGBVG82EEHWTB4533X37](https://msig.9root.ai/workflow-runs/01KFY3VGBVG82EEHWTB4533X37)
+
+Tenant: msig
+
+Isomer AgentAPP  [3:44 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769463846423309)  
+
+Risk Signal: Subrogation Opportunity Signal  
+Rationale: Insured reports rear-end collision caused by another driver, identified as Benjamin Martin Blatt with Allstate policy #964686728, indicating clear third-party responsibility and recovery potential.
+
+Workflow Run ID: [01KFY44VBEKMHQ2B3TQ3QZDJV5](https://msig.9root.ai/workflow-runs/01KFY44VBEKMHQ2B3TQ3QZDJV5)
+
+Tenant: msig
+
+Isomer AgentAPP  [3:58 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769464735496699)  
+
+Risk Signal: Time-Limited Settlement Demand Signal  
+Rationale: Plaintiff counsel offers to settle for aggregate limits of all applicable policies with an explicit expiration date of February 6, 2026, creating time-limited policy-limits demand exposure.
+
+Workflow Run ID: [01KFY4ZXQ3JJRYXAHGBD37B7D4](https://msig.9root.ai/workflow-runs/01KFY4ZXQ3JJRYXAHGBD37B7D4)
+
+Tenant: msig
+
+[3:58](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769464735581189)
+
+Risk Signal: Initial Attorney Representation Notice  
+Rationale: Faxed letter from DMI Injury Law states they represent 'our client Grace Sevart' and directs settlement communications to attorney, constituting first documented notice of claimant legal representation.
+
+Workflow Run ID: [01KFY4ZXQ3JJRYXAHGBD37B7D4](https://msig.9root.ai/workflow-runs/01KFY4ZXQ3JJRYXAHGBD37B7D4)
+
+Tenant: msig
+
+[3:58](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769464735660279)
+
+Risk Signal: Biopsychosocial Complexity Indicator Signal  
+Rationale: Medical records document recurrent major depressive disorder, generalized anxiety, OCD, PTSD, and kinesiophobia limiting daily tasks and work, indicating significant psychosocial barriers to recovery and potential claim chronicity.
+
+Workflow Run ID: [01KFY4ZXQ3JJRYXAHGBD37B7D4](https://msig.9root.ai/workflow-runs/01KFY4ZXQ3JJRYXAHGBD37B7D4)
+
+Tenant: msig
+
+Isomer AgentAPP  [4:04 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769465080956059)  
+
+Risk Signal: Initial Attorney Representation Notice  
+Rationale: Attached demand letter states 'This firm represents Omer Asayag,' providing first notice that claimant has retained legal counsel for this claim.
+
+Workflow Run ID: [01KFY58WY127CA299P50ZXP4XJ](https://msig.9root.ai/workflow-runs/01KFY58WY127CA299P50ZXP4XJ)
+
+Tenant: msig
+
+[4:04](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769465081057299)
+
+Risk Signal: Multi-Claimant Common Cause Signal  
+Rationale: Demand letter and notices reference potential claims by 'all other California consumers' who visited LendingTree’s website, indicating multiple claimants sharing a common alleged tracking practice.
+
+Workflow Run ID: [01KFY58WY127CA299P50ZXP4XJ](https://msig.9root.ai/workflow-runs/01KFY58WY127CA299P50ZXP4XJ)
+
+Tenant: msig
+
+[4:04](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769465081161079)
+
+Risk Signal: Punitive Damage Allegation Signal  
+Rationale: Complaint alleges intentional statutory privacy violations and cites CUCA’s availability of punitive damages 'to which Plaintiff is entitled,' asserting punishment beyond ordinary negligence-based remedies.
+
+Workflow Run ID: [01KFY58WY127CA299P50ZXP4XJ](https://msig.9root.ai/workflow-runs/01KFY58WY127CA299P50ZXP4XJ)
+
+Tenant: msig
+
+Isomer AgentAPP  [4:28 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769466512096669)  
+
+Risk Signal: Initial Attorney Representation Notice  
+Rationale: FNOL lists 'Law Office Melissa A Day PLLC' as claimant's attorney, providing first notice that Steven Reese is represented by counsel on this claim.
+
+Workflow Run ID: [01KFY6Q56V4XZRFSR1TNZJ843E](https://msig.9root.ai/workflow-runs/01KFY6Q56V4XZRFSR1TNZJ843E)
+
+Tenant: msig
+
+[4:28](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769466512181859)
+
+Risk Signal: Policy Inception Proximity Loss Signal  
+Rationale: Claim acknowledgment shows contract effective 10/01/2024 and accident on 11/11/2024, indicating the loss occurred shortly after policy inception.
+
+Workflow Run ID: [01KFY6Q56V4XZRFSR1TNZJ843E](https://msig.9root.ai/workflow-runs/01KFY6Q56V4XZRFSR1TNZJ843E)
+
+Tenant: msig
+
+Isomer AgentAPP  [4:51 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769467891073889)  
+
+Risk Signal: Initial Attorney Representation Notice  
+Rationale: Email states the insured has retained Skadden, Arps to defend the matter and requests consent, indicating first notice of attorney representation for the insured on this claim.
+
+Workflow Run ID: [01KFY80PTYYMWSS9P9B0GS1YJZ](https://msig.9root.ai/workflow-runs/01KFY80PTYYMWSS9P9B0GS1YJZ)
+
+Tenant: msig
+
+[4:51](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769467891173739)
+
+Risk Signal: Multi-Claimant Common Cause Signal  
+Rationale: Correspondence references complaints by Kenneth Conners and Robert Connolly plus a separate Jackson stockholder demand, showing multiple shareholders asserting claims from the same proposed merger transaction.
+
+Workflow Run ID: [01KFY80PTYYMWSS9P9B0GS1YJZ](https://msig.9root.ai/workflow-runs/01KFY80PTYYMWSS9P9B0GS1YJZ)
+
+Tenant: msig
+
+Isomer AgentAPP  [5:30 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769470207306159)  
+
+Risk Signal: Multi-Claimant Common Cause Signal  
+Rationale: Email references two separate shareholder letters (Carter Grant and James Masri) regarding the same merger matter, indicating multiple claimants arising from a common event.
+
+Workflow Run ID: [01KFYA8P2HBJSQ4ZQ8E6P89CH3](https://msig.9root.ai/workflow-runs/01KFYA8P2HBJSQ4ZQ8E6P89CH3)
+
+Tenant: msig
+
+Isomer AgentAPP  [8:07 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769479623928829)  
+
+Risk Signal: Initial Attorney Representation Notice  
+Rationale: Email from Abramson Labor Group encloses a notice of representation and workers’ comp application, providing the first notice that claimant Daniela Lopez Paz is represented by counsel.
+
+Workflow Run ID: [01KFYK6N74RPCZVHBG8C7RKNSA](https://msig.9root.ai/workflow-runs/01KFYK6N74RPCZVHBG8C7RKNSA)
+
+Tenant: msig
+
+Isomer AgentAPP  [9:04 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769483064584519)  
+
+Risk Signal: Emerging TBI Indicator Signal  
+Rationale: Correspondence notes a potential head injury and bloody ear, providing multiple TBI-related indicators in the injury description.
+
+Workflow Run ID: [01KFYPG5ZNY262E7AP5W13KES7](https://msig.9root.ai/workflow-runs/01KFYPG5ZNY262E7AP5W13KES7)
+
+Tenant: msig
+
+[9:04](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769483065000949)
+
+Risk Signal: Subrogation Opportunity Signal  
+Rationale: Claim documents identify subcontractor WAL Masonry and general contractor PC Construction, with contracts review and tender letters underway, indicating third-party recovery potential.
+
+Workflow Run ID: [01KFYPG5ZNY262E7AP5W13KES7](https://msig.9root.ai/workflow-runs/01KFYPG5ZNY262E7AP5W13KES7)
+
+Tenant: msig
+
+## TUESDAY 1/27/2026
+
+Isomer AgentAPP  [6:48 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769518097618689)  
+
+Risk Signal: Subrogation Opportunity Signal  
+Rationale: Email describes your insured changing lanes and striking Progressive’s insured, clearly identifying a third party responsible for the loss and enabling third-party recovery potential.
+
+Workflow Run ID: [01KFZQWMMFW28HFP8ZDGQ1M5SA](https://msig.9root.ai/workflow-runs/01KFZQWMMFW28HFP8ZDGQ1M5SA)
+
+Tenant: msig
+
+[6:48](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769518097713029)
+
+Risk Signal: Multi-Claimant Common Cause Signal  
+Rationale: Progressive lists both vehicle owner Charles Proffitt and passenger Donna Devlin from the same collision, indicating multiple potential claimants arising from a single loss event.
+
+Workflow Run ID: [01KFZQWMMFW28HFP8ZDGQ1M5SA](https://msig.9root.ai/workflow-runs/01KFZQWMMFW28HFP8ZDGQ1M5SA)
+
+Tenant: msig
+
+Isomer AgentAPP  [7:51 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769521873016169)  
+
+Risk Signal: Initial Attorney Representation Notice  
+Rationale: Attached letter states the law office represents Roberto Ramos for this loss and requests all communications be directed to them.
+
+Workflow Run ID: [01KFZVG83C3H6XJ2JSGAR942K4](https://msig.9root.ai/workflow-runs/01KFZVG83C3H6XJ2JSGAR942K4)
+
+Tenant: msig
+
+Isomer AgentAPP  [8:17 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769523459067489)  
+
+Risk Signal: Multi-Claimant Common Cause Signal  
+Rationale: Email requests adding BI exposures for two named individuals under the same claim, indicating multiple claimants arising from a single loss event.
+
+Workflow Run ID: [01KFZX005P7ZH33WGQQBRH6S5A](https://msig.9root.ai/workflow-runs/01KFZX005P7ZH33WGQQBRH6S5A)
+
+Tenant: msig
+
+Isomer AgentAPP  [8:48 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769525329127919)  
+
+Risk Signal: Subrogation Opportunity Signal  
+Rationale: Claim notes identify subcontractor WAL Masonry and general contractor PC Construction and describe tender opportunities, indicating identifiable third parties with potential responsibility and recovery potential.
+
+Workflow Run ID: [01KFZYR4WP42V6AV71AME1T26Z](https://msig.9root.ai/workflow-runs/01KFZYR4WP42V6AV71AME1T26Z)
+
+Tenant: msig
+
+Isomer AgentAPP  [8:54 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769525664931449)  
+
+Risk Signal: Subrogation Opportunity Signal  
+Rationale: Email alleges insured’s truck struck claimant’s parked vehicle from behind, clearly assigning fault to an identifiable third party and creating subrogation recovery potential.
+
+Workflow Run ID: [01KFZZ4SQJ2BDMC21F0KNDPG0X](https://msig.9root.ai/workflow-runs/01KFZZ4SQJ2BDMC21F0KNDPG0X)
+
+Tenant: msig
+
+Isomer AgentAPP  [9:28 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769527711383049)  
+
+Risk Signal: Subrogation Opportunity Signal  
+Rationale: Accident description states insured was struck when a box truck merged into their lane, identifying a distinct third-party vehicle responsible for the loss and creating a subrogation opportunity.
+
+Workflow Run ID: [01KG011D0CD2CK5ZN08GJGNQEG](https://msig.9root.ai/workflow-runs/01KG011D0CD2CK5ZN08GJGNQEG)
+
+Tenant: msig
+
+Isomer AgentAPP  [9:40 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769528452521119)  
+
+Risk Signal: Subrogation Opportunity Signal  
+Rationale: Email states the tenant, Womble, is responsible for the water damage incident and has been told to notify its insurer, indicating a clear third-party subrogation target.
+
+Workflow Run ID: [01KG01R76JGQ5CDH9HN1SYECHK](https://msig.9root.ai/workflow-runs/01KG01R76JGQ5CDH9HN1SYECHK)
+
+Tenant: msig
+
+Isomer AgentAPP  [10:23 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769531008125759)  
+
+Risk Signal: Subrogation Opportunity Signal  
+Rationale: Complaint alleges defective LG washing machine valve caused insured's water loss and State Farm sues as subrogee, establishing identifiable third-party recovery potential.
+
+Workflow Run ID: [01KG0464F0GMB5ZKY8473FBH6Y](https://msig.9root.ai/workflow-runs/01KG0464F0GMB5ZKY8473FBH6Y)
+
+Tenant: msig
+
+Isomer AgentAPP  [10:34 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769531656588299)  
+
+Risk Signal: Time-Limited Settlement Demand Signal  
+Rationale: Distributor’s attorney issued a tender/indemnity demand requiring Ogawa to accept by January 26, creating a time-limited coverage/settlement decision deadline.
+
+Workflow Run ID: [01KG04M7EPTZ2J0NFBJCF6H3G1](https://msig.9root.ai/workflow-runs/01KG04M7EPTZ2J0NFBJCF6H3G1)
+
+Tenant: msig
+
+[10:34](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769531656686899)
+
+Risk Signal: Coverage Misclassification / Silent Exposure Signal  
+Rationale: Alleged long-term diacetyl exposure conflicts with the policy’s Total Pollution Exclusion and pre-1996 injury bar from the retroactive date, indicating a potential uncovered exposure.
+
+Workflow Run ID: [01KG04M7EPTZ2J0NFBJCF6H3G1](https://msig.9root.ai/workflow-runs/01KG04M7EPTZ2J0NFBJCF6H3G1)
+
+Tenant: msig
+
+[10:34](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769531656789009)
+
+Risk Signal: Multi-Claimant Common Cause Signal  
+Rationale: Seven named General Mills employees allege lung disease from exposure to the same artificial sesame flavor chemicals at a single location.
+
+Workflow Run ID: [01KG04M7EPTZ2J0NFBJCF6H3G1](https://msig.9root.ai/workflow-runs/01KG04M7EPTZ2J0NFBJCF6H3G1)
+
+Tenant: msig
+
+Isomer AgentAPP  [10:48 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769532512436919)  
+
+Risk Signal: Multi-Claimant Common Cause Signal  
+Rationale: Multiple named shareholders bring related complaints and demand letters arising from the same Essential–American Water merger and associated proxy/registration disclosures.
+
+Workflow Run ID: [01KG05MRT898G3MXG04YTPFDNC](https://msig.9root.ai/workflow-runs/01KG05MRT898G3MXG04YTPFDNC)
+
+Tenant: msig
+
+[10:51](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769532660477829)
+
+Risk Signal: Critical Severity Event Signal  
+Rationale: Email subject lines indicate claimant Lavon Banks is deceased in a workers' compensation matter, signaling a fatal loss and triggering critical severity exposure.
+
+Workflow Run ID: [01KG05TAQBPMFE8ET970XN6H0C](https://msig.9root.ai/workflow-runs/01KG05TAQBPMFE8ET970XN6H0C)
+
+Tenant: msig
+
+Isomer AgentAPP  [11:24 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769534694687969)  
+
+Risk Signal: Subrogation Opportunity Signal  
+Rationale: Loss notice states a truck rear-ended another vehicle, pushing it into the insured's Jeep, with the truck driver identified, indicating clear third-party liability and subrogation potential.
+
+Workflow Run ID: [01KG07Q1921N5YEXJ4MYMJ8W7M](https://msig.9root.ai/workflow-runs/01KG07Q1921N5YEXJ4MYMJ8W7M)
+
+Tenant: msig
+
+Isomer AgentAPP  [11:31 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769535064965439)  
+
+Risk Signal: Professional Services Error Signal  
+Rationale: Insured states England Logistics received claim info and COI but never opened the claim and is withholding payment, alleging a failure in professional/administrative claim-handling duties.
+
+Workflow Run ID: [01KG083CMRRQ9N60ZJRN1JW6AK](https://msig.9root.ai/workflow-runs/01KG083CMRRQ9N60ZJRN1JW6AK)
+
+Tenant: msig
+
+Isomer AgentAPP  [11:52 AM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769536322375459)  
+
+Risk Signal: Critical Severity Event Signal  
+Rationale: Loss advice identifies 'Death' as injury and notes patient expired on 7/20/25, indicating a fatality with high severity and potential regulatory or reputational exposure.
+
+Workflow Run ID: [01KG099HCHJ4FNYX4XN1WPPY6M](https://msig.9root.ai/workflow-runs/01KG099HCHJ4FNYX4XN1WPPY6M)
+
+Tenant: msig
+
+[11:52](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769536322460579)
+
+Risk Signal: Initial Attorney Representation Notice  
+Rationale: Form states incident was first reported to risk manager by 'Received attorney legal notice,' indicating this is the first notice that the claimant has legal representation.
+
+Workflow Run ID: [01KG099HCHJ4FNYX4XN1WPPY6M](https://msig.9root.ai/workflow-runs/01KG099HCHJ4FNYX4XN1WPPY6M)
+
+Tenant: msig
+
+[11:52](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769536322542389)
+
+Risk Signal: Multi-Claimant Common Cause Signal  
+Rationale: Loss advice lists Celestine Milam as claimant and identifies 'Expected additional claimants: Donald Kelley, Son,' indicating multiple related claimants from the same death event.
+
+Workflow Run ID: [01KG099HCHJ4FNYX4XN1WPPY6M](https://msig.9root.ai/workflow-runs/01KG099HCHJ4FNYX4XN1WPPY6M)
+
+Tenant: msig
+
+Isomer AgentAPP  [12:29 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769538558121429)  
+
+Risk Signal: Subrogation Opportunity Signal  
+Rationale: Statement identifies E&B Bulk Transportation's truck as causing gate damage, with truck and GM details provided, creating clear third-party fault and property damage subrogation opportunity.
+
+Workflow Run ID: [01KG0BDKW2D5XKNTTY6XXQHWVP](https://msig.9root.ai/workflow-runs/01KG0BDKW2D5XKNTTY6XXQHWVP)
+
+Tenant: msig
+
+Isomer AgentAPP  [12:36 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769538992699039)  
+
+Risk Signal: Subrogation Opportunity Signal  
+Rationale: Loss description shows insured Jeep was rear-ended in a three-vehicle chain reaction caused by a truck driver, indicating clear third-party fault and recoverable subrogation potential.
+
+Workflow Run ID: [01KG0BTQX2H7AQ5TEM3YKP7JEE](https://msig.9root.ai/workflow-runs/01KG0BTQX2H7AQ5TEM3YKP7JEE)
+
+Tenant: msig
+
+Isomer AgentAPP  [12:46 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769539589378679)  
+
+Risk Signal: Policy Inception Proximity Loss Signal  
+Rationale: Date of loss 12/17/25 occurs shortly after policy inception 12/1/25, indicating a near-inception loss event.
+
+Workflow Run ID: [01KG0CDXKMKRBDHEF2AEXHQF2F](https://msig.9root.ai/workflow-runs/01KG0CDXKMKRBDHEF2AEXHQF2F)
+
+Tenant: msig
+
+Isomer AgentAPP  [2:25 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769545519954309)  
+
+Risk Signal: Coverage Misclassification / Silent Exposure Signal  
+Rationale: Loss reported under auto, but handler states gate damage should be under insured's property policy, indicating an explicit peril–policy coverage mismatch.
+
+Workflow Run ID: [01KG0J2Z12MPY4YNPHBZ37QM3K](https://msig.9root.ai/workflow-runs/01KG0J2Z12MPY4YNPHBZ37QM3K)
+
+Tenant: msig
+
+[2:25](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769545520033919)
+
+Risk Signal: Subrogation Opportunity Signal  
+Rationale: Email states claimant driver for E&B Bulk Transportation clipped and damaged insured’s gate, identifying a third-party tortfeasor creating potential subrogation recovery.
+
+Workflow Run ID: [01KG0J2Z12MPY4YNPHBZ37QM3K](https://msig.9root.ai/workflow-runs/01KG0J2Z12MPY4YNPHBZ37QM3K)
+
+Tenant: msig
+
+Isomer AgentAPP  [2:42 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769546541475139)  
+
+Risk Signal: Subrogation Opportunity Signal  
+Rationale: Cargo claim documents hold UPS Standard Service fully liable for damage to shipped goods, identifying the carrier and subrogation rights, indicating clear third-party responsibility and recovery potential.
+
+Workflow Run ID: [01KG0K0TACXCKX4ZRY0QQNXJDH](https://msig.9root.ai/workflow-runs/01KG0K0TACXCKX4ZRY0QQNXJDH)
+
+Tenant: msig
+
+[2:42](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769546577563109)
+
+Risk Signal: Critical Severity Event Signal  
+Rationale: Attached complaints allege long-term child sexual assault by a pastor at religious institutions, constituting severe sexual misconduct with high liability, regulatory, and reputational exposure.
+
+Workflow Run ID: [01KG0JM3VQMDCY1W2W3YTBWGQK](https://msig.9root.ai/workflow-runs/01KG0JM3VQMDCY1W2W3YTBWGQK)
+
+Tenant: msig
+
+[2:42](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769546577656679)
+
+Risk Signal: Multi-Claimant Common Cause Signal  
+Rationale: AL 555 Doe, Amanda Julie Alviz, and Sarah Gregory all allege child sexual abuse by the same pastor and institutions, creating multi-claimant exposure from a common cause.
+
+Workflow Run ID: [01KG0JM3VQMDCY1W2W3YTBWGQK](https://msig.9root.ai/workflow-runs/01KG0JM3VQMDCY1W2W3YTBWGQK)
+
+Tenant: msig
+
+[2:42](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769546577745559)
+
+Risk Signal: Reptile Litigation Framing Signal  
+Rationale: Complaints repeatedly frame defendants’ duties to protect children from sexual abuse and their knowledge of risks, using safety-rule and community-protection language to support negligence theories.
+
+Workflow Run ID: [01KG0JM3VQMDCY1W2W3YTBWGQK](https://msig.9root.ai/workflow-runs/01KG0JM3VQMDCY1W2W3YTBWGQK)
+
+Tenant: msig
+
+Isomer AgentAPP  [2:49 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769546988196299)  
+
+Risk Signal: Multi-Claimant Common Cause Signal  
+Rationale: Letter states owners of 55 single-family homes served Notices of Claim alleging construction defects in the same community, indicating multiple claimants from a common construction project.
+
+Workflow Run ID: [01KG0KETPCWME6WQH15E5W93JD](https://msig.9root.ai/workflow-runs/01KG0KETPCWME6WQH15E5W93JD)
+
+Tenant: msig
+
+[2:49](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769546988293059)
+
+Risk Signal: Initial Attorney Representation Notice  
+Rationale: Defense counsel states their firm represents D.R. Horton in this construction defect matter, providing first notice of attorney representation to the insurer's new loss inbox.
+
+Workflow Run ID: [01KG0KETPCWME6WQH15E5W93JD](https://msig.9root.ai/workflow-runs/01KG0KETPCWME6WQH15E5W93JD)
+
+Tenant: msig
+
+[2:51](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769547097341929)
+
+Risk Signal: Initial Attorney Representation Notice  
+Rationale: Plaintiff law firm email attaches a letter of representation for claimant Michael Kearney, providing first notice that the claimant is represented by counsel on this loss.
+
+Workflow Run ID: [01KG0KK5W9P0AJ2DH9BBW1ENJ2](https://msig.9root.ai/workflow-runs/01KG0KK5W9P0AJ2DH9BBW1ENJ2)
+
+Tenant: msig
+
+[2:53](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769547211243469)
+
+Risk Signal: Initial Attorney Representation Notice  
+Rationale: Email from claimant's law firm provides a letter of representation and requests the carrier file, indicating first notice that Michael Kearney is represented by legal counsel.
+
+Workflow Run ID: [01KG0KPMJD64Z2G08STHJ64Y5Q](https://msig.9root.ai/workflow-runs/01KG0KPMJD64Z2G08STHJ64Y5Q)
+
+Tenant: msig
+
+Isomer AgentAPP  [3:03 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769547794156319)  
+
+Risk Signal: Subrogation Opportunity Signal  
+Rationale: Witness identifies E&B Bulk Transportation truck #199 as causing gate damage and provides GM contact, creating clear third-party recovery potential.
+
+Workflow Run ID: [01KG0M5MFJ2BJC26B56EBRA8BS](https://msig.9root.ai/workflow-runs/01KG0M5MFJ2BJC26B56EBRA8BS)
+
+Tenant: msig
+
+[3:03](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769547828772779)
+
+Risk Signal: Subrogation Opportunity Signal  
+Rationale: Accident report identifies another driver and their employer plus insurer information, indicating a potentially liable third party and corresponding subrogation recovery opportunity.
+
+Workflow Run ID: [01KG0M7F6K1WP0JXWJRQ7F1DJ5](https://msig.9root.ai/workflow-runs/01KG0M7F6K1WP0JXWJRQ7F1DJ5)
+
+Tenant: msig
+
+Isomer AgentAPP  [3:15 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769548501195609)  
+
+Risk Signal: Critical Severity Event Signal  
+Rationale: Summons and complaints allege prolonged child sexual abuse by a pastor across church and school settings, creating severe bodily, psychological, regulatory, and reputational exposure.
+
+Workflow Run ID: [01KG0MT71CXJ0HK8ZDFCK4F2HN](https://msig.9root.ai/workflow-runs/01KG0MT71CXJ0HK8ZDFCK4F2HN)
+
+Tenant: msig
+
+[3:15](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769548501317849)
+
+Risk Signal: Multi-Claimant Common Cause Signal  
+Rationale: Notice of claim and attached pleadings identify three separate plaintiffs alleging similar sexual abuse by the same pastor and institutions, indicating multiple related claims from a common location and timeframe.
+
+Workflow Run ID: [01KG0MT71CXJ0HK8ZDFCK4F2HN](https://msig.9root.ai/workflow-runs/01KG0MT71CXJ0HK8ZDFCK4F2HN)
+
+Tenant: msig
+
+[3:15](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769548501520879)
+
+Risk Signal: Plaintiff-Favorable Venue Signal  
+Rationale: Each summons and complaint states suit is filed in New York Supreme Court, Madison County, a jurisdiction widely regarded as favorable to plaintiffs in Child Victims Act sexual abuse litigation.
+
+Workflow Run ID: [01KG0MT71CXJ0HK8ZDFCK4F2HN](https://msig.9root.ai/workflow-runs/01KG0MT71CXJ0HK8ZDFCK4F2HN)
+
+Tenant: msig
+
+[3:19](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769548748179849)
+
+Risk Signal: Subrogation Opportunity Signal  
+Rationale: Email states tenant Womble owns and maintains leaking coffee filtration system and is responsible for water damage, indicating a specific third party for potential subrogation recovery.
+
+Workflow Run ID: [01KG0N56NMQFA3TW2T2Z35H0AA](https://msig.9root.ai/workflow-runs/01KG0N56NMQFA3TW2T2Z35H0AA)
+
+Tenant: msig
+
+[3:23](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769549028767849)
+
+Risk Signal: Initial Attorney Representation Notice  
+Rationale: The tender letter states that Plante Huguenin Lebovic Kahn LLP and Attorney Samantha Lee represent D.R. Horton in this construction defect matter, providing first notice of counsel involvement.
+
+Workflow Run ID: [01KG0NCTAE7MS1N9JPEEFRF1QC](https://msig.9root.ai/workflow-runs/01KG0NCTAE7MS1N9JPEEFRF1QC)
+
+Tenant: msig
+
+[3:23](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769549028856679)
+
+Risk Signal: Multi-Claimant Common Cause Signal  
+Rationale: The letter explains that owners of 55 single-family homes in the Tartesso community have served notices of construction defect claims arising from the same residential development project.
+
+Workflow Run ID: [01KG0NCTAE7MS1N9JPEEFRF1QC](https://msig.9root.ai/workflow-runs/01KG0NCTAE7MS1N9JPEEFRF1QC)
+
+Tenant: msig
+
+[3:23](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769549028946369)
+
+Risk Signal: Subrogation Opportunity Signal  
+Rationale: The tender asserts Overhead Door Corporation performed work at the community and must defend and indemnify D.R. Horton for construction defect claims, indicating third-party responsibility and recovery potential.
+
+Workflow Run ID: [01KG0NCTAE7MS1N9JPEEFRF1QC](https://msig.9root.ai/workflow-runs/01KG0NCTAE7MS1N9JPEEFRF1QC)
+
+Tenant: msig
+
+Isomer AgentAPP  [3:29 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769549377569219)  
+
+Risk Signal: Critical Severity Event Signal  
+Rationale: Loss notice reports the unit owner’s daughter was found deceased in the trash chute, indicating a fatality and catastrophic severity exposure.
+
+Workflow Run ID: [01KG0NNKDS69FZCKFHCTNHCAY6](https://msig.9root.ai/workflow-runs/01KG0NNKDS69FZCKFHCTNHCAY6)
+
+Tenant: msig
+
+[3:29](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769549377669249)
+
+Risk Signal: Excess / Reinsurance Notice Threshold Signal  
+Rationale: Loss notice is marked “EXCESS Notice only” and sent to multiple excess carriers with listed excess limits, indicating excess notice obligations are triggered.
+
+Workflow Run ID: [01KG0NNKDS69FZCKFHCTNHCAY6](https://msig.9root.ai/workflow-runs/01KG0NNKDS69FZCKFHCTNHCAY6)
+
+Tenant: msig
+
+Isomer AgentAPP  [4:00 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769551223920169)  
+
+Risk Signal: Evidence Preservation / Spoliation Notice  
+Rationale: Attached letters formally demand preservation of vehicles, records, and other evidence, including a legal hold notice and threat of sanctions for spoliation.
+
+Workflow Run ID: [01KG0QDM3YN1X2PXMHA8ETB3N4](https://msig.9root.ai/workflow-runs/01KG0QDM3YN1X2PXMHA8ETB3N4)
+
+Tenant: msig
+
+[4:00](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769551224013499)
+
+Risk Signal: Initial Attorney Representation Notice  
+Rationale: Counsel explicitly advises MS Transverse that they represent claimant Danny Richardson for the loss under policy TSAMCA-0000389, constituting first notice of attorney representation.
+
+Workflow Run ID: [01KG0QDM3YN1X2PXMHA8ETB3N4](https://msig.9root.ai/workflow-runs/01KG0QDM3YN1X2PXMHA8ETB3N4)
+
+Tenant: msig
+
+[4:00](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769551224096079)
+
+Risk Signal: Out-of-Territory Loss Signal  
+Rationale: Correspondence states insured address in Sacramento, California while the incident occurred in Gainesville, Texas, creating an explicit and material loss–location mismatch.
+
+Workflow Run ID: [01KG0QDM3YN1X2PXMHA8ETB3N4](https://msig.9root.ai/workflow-runs/01KG0QDM3YN1X2PXMHA8ETB3N4)
+
+Tenant: msig
+
+Isomer AgentAPP  [4:19 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769552357096709)  
+
+Risk Signal: Critical Severity Event Signal  
+Rationale: Complaint describes the January 2025 Palisades Fire destroying 63 of 107 units and rendering the rest uninhabitable, with $43M in insurance proceeds, indicating a catastrophic severity event.
+
+Workflow Run ID: [01KG0RHD2BJD8SZKMDHWCXV4VK](https://msig.9root.ai/workflow-runs/01KG0RHD2BJD8SZKMDHWCXV4VK)
+
+Tenant: msig
+
+[4:19](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769552357176329)
+
+Risk Signal: Professional Services Error Signal  
+Rationale: Plaintiff alleges the HOA board and counsel breached fiduciary duties, negligently let governing CC&Rs expire, and mismanaged $43M in insurance proceeds, constituting explicit professional and administrative service failures.
+
+Workflow Run ID: [01KG0RHD2BJD8SZKMDHWCXV4VK](https://msig.9root.ai/workflow-runs/01KG0RHD2BJD8SZKMDHWCXV4VK)
+
+Tenant: msig
+
+[4:19](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769552357292449)
+
+Risk Signal: Initial Attorney Representation Notice  
+Rationale: Attached summons and complaint identify attorney Gregory M. Garrison as counsel for plaintiff 15515 Sunset Blvd, LLC, providing the first notice of claimant legal representation in this correspondence.
+
+Workflow Run ID: [01KG0RHD2BJD8SZKMDHWCXV4VK](https://msig.9root.ai/workflow-runs/01KG0RHD2BJD8SZKMDHWCXV4VK)
+
+Tenant: msig
+
+Isomer AgentAPP  [4:52 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769554363572689)  
+
+400 Your input exceeds the context window of this model. Please adjust your input and try again.
+
+Workflow Run ID: [01KG0RQB25GQT9GMQZKA9VMES5](https://msig.9root.ai/workflow-runs/01KG0RQB25GQT9GMQZKA9VMES5)
+
+Tenant: msig
+
+Isomer AgentAPP  [5:08 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769555310994969)  
+
+Risk Signal: Subrogation Opportunity Signal  
+Rationale: Accident description and attachments identify another driver and insurer as potentially at fault, indicating a clear third party for potential subrogation recovery.
+
+Workflow Run ID: [01KG0VD0MVTEBWFMH5XDGN9AVK](https://msig.9root.ai/workflow-runs/01KG0VD0MVTEBWFMH5XDGN9AVK)
+
+Tenant: msig
+
+[5:11](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769555493475039)
+
+Risk Signal: Initial Attorney Representation Notice  
+Rationale: Emails from Winder Law Firm report and manage the auto accident claim, giving first notice that the claimant is represented by legal counsel.
+
+Workflow Run ID: [01KG0VJPKCK560DK3JQ5JHVXPH](https://msig.9root.ai/workflow-runs/01KG0VJPKCK560DK3JQ5JHVXPH)
+
+Tenant: msig
+
+Isomer AgentAPP  [5:42 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769557367701109)  
+
+Risk Signal: Subrogation Opportunity Signal  
+Rationale: Email states police found another driver at fault and explicitly notes subrogation applies against a negligent third party (named in correspondence), indicating clear third-party recovery potential.
+
+Workflow Run ID: [01KG0XCB53M407W10S4GEJPGR0](https://msig.9root.ai/workflow-runs/01KG0XCB53M407W10S4GEJPGR0)
+
+Tenant: msig
+
+Sean Chou  [6:38 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769560691263459)  
+
+I realize the signals are still being tweaked but have we learned anything that we could start quantifying or storytelling around?
+
+Sean Chou  [6:41 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769560865903559)  
+
+Maybe a simple count to start of:  
+Number of emails  
+Number of signals detected (by type)Just to get a sense and then we would have a baseline.
+
+Isomer AgentAPP  [6:42 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769560922657409)  
+
+Risk Signal: Initial Attorney Representation Notice  
+Rationale: Abramson Labor Group's letter states they represent Jorge Acevedo for industrial injuries, with attached application and claim forms, constituting the first attorney representation notice on this claim.
+
+Workflow Run ID: [01KG10P79VB8MGSA3J03GH5YN8](https://msig.9root.ai/workflow-runs/01KG10P79VB8MGSA3J03GH5YN8)
+
+Tenant: msig
+
+Isomer AgentAPP  [6:52 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769561572146629)  
+
+Risk Signal: Initial Attorney Representation Notice  
+Rationale: This first notice of claim advises that A&M Canada is represented by Lavery, de Billy, LLP, with counsel already filing a notice of appearance.
+
+Workflow Run ID: [01KG1187ZPBFNQ5NVKMB5BVF36](https://msig.9root.ai/workflow-runs/01KG1187ZPBFNQ5NVKMB5BVF36)
+
+Tenant: msig
+
+[6:52](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769561572235149)
+
+Risk Signal: Critical Severity Event Signal  
+Rationale: Email reports CNESST regulatory proceedings and a forthcoming motion before the Court of Quebec concerning employment practice complaints, indicating an active regulatory enforcement process.
+
+Workflow Run ID: [01KG1187ZPBFNQ5NVKMB5BVF36](https://msig.9root.ai/workflow-runs/01KG1187ZPBFNQ5NVKMB5BVF36)
+
+Tenant: msig
+
+Isomer AgentAPP  [6:52 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769561572321369)  
+
+Risk Signal: Plaintiff-Favorable Venue Signal  
+Rationale: The matter is proceeding before Quebec’s CNESST and labor tribunal/Court of Quebec, a plaintiff-favorable jurisdiction for employment and labor disputes.
+
+Workflow Run ID: [01KG1187ZPBFNQ5NVKMB5BVF36](https://msig.9root.ai/workflow-runs/01KG1187ZPBFNQ5NVKMB5BVF36)
+
+Tenant: msig
+
+Brock  [6:54 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769561686331449)  
+
+These 3 above are all for the same claim, we limited to 3 risks but might want to think about how they appear together
+
+Isomer AgentAPP  [6:57 PM](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769561824514879)  
+
+Risk Signal: Professional Services Error Signal  
+Rationale: Pleading alleges CPA Racine's deficient, non-compliant financial work breached professional duties and caused a $2.7M MEIE clawback, creating clear professional services error exposure.
+
+Workflow Run ID: [01KG11JBSKJSP6T8PSP0551E1Y](https://msig.9root.ai/workflow-runs/01KG11JBSKJSP6T8PSP0551E1Y)
+
+Tenant: msig
+
+[6:57](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769561824599109)
+
+Risk Signal: Punitive Damage Allegation Signal  
+Rationale: Plaintiffs describe Racine's conduct as malicious, in bad faith and abusive, seeking damages linked to this behavior, indicating exposure framed beyond ordinary negligence toward punitive-type damages.
+
+Workflow Run ID: [01KG11JBSKJSP6T8PSP0551E1Y](https://msig.9root.ai/workflow-runs/01KG11JBSKJSP6T8PSP0551E1Y)
+
+Tenant: msig
+
+[6:57](https://isomer-ai-inc.slack.com/archives/C0A3X8MC3DE/p1769561824679459)
+
+Risk Signal: Multi-Claimant Common Cause Signal  
+Rationale: Three plaintiffs—two corporations and an individual—jointly sue over the same GNR-Shefford project and MEIE reimbursement, creating multi-claimant exposure tied to a single professional services dispute.
+
+Workflow Run ID: [01KG11JBSKJSP6T8PSP0551E1Y](https://msig.9root.ai/workflow-runs/01KG11JBSKJSP6T8PSP0551E1Y)
+
+Tenant: msig
