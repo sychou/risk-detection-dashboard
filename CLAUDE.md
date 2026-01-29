@@ -64,7 +64,7 @@ Vertical layout (days top to bottom) with horizontal unit-box bars that wrap:
 - Date label: Two lines, e.g. "Jan 22" on first line, "Thu" on second line
 - 1 box per email, wrapping to multiple lines if needed
 - Each alert corresponds to one email, but not all emails generate alerts
-- Box width: 5px (will later optimize based on screen width and email count)
+- Box size: 10px × 10px
 - 1px gap between boxes
 - Colors by criticality (boxes ordered left to right by severity):
   - Critical: #DC2626 (red)
@@ -81,7 +81,7 @@ Expandable accordion. Categories and signals are derived from the alerts array. 
 ### Modals
 
 - Signal instances modal: Shows alerts for a signal type, links to `{data.baseUrl}{runId}`
-- High risk popup: Shows alerts with criticality 'critical' or 'high', sorted by criticality
+- All alerts popup: Shows all alerts sorted by criticality (critical first, then high, medium, low)
 
 ### Footer
 
