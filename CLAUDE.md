@@ -53,9 +53,31 @@ Derive all counts and groupings from `data.alerts`:
 
 Title: "Risk Signal Dashboard", Subtitle: derived from date range in data (e.g., "January 21-27, 2026")
 
+### Financial Impact Assessment
+
+Two-column grid showing quantified and unquantified financial impact:
+
+- **Recovery Potential** (green accent, left column):
+  - Extracts dollar amounts from subrogation-related alerts
+  - Shows total from quantified signals only (labeled "quantified")
+  - Clickable count for quantified signals with criticality badges
+  - Clickable count for unquantified signals with criticality badges
+  - Click either count to open modal with specific signals
+
+- **Exposure & Reserves Impact** (red accent, right column):
+  - Extracts dollar amounts from exposure-related alerts (excess notifications, property losses, etc.)
+  - Shows total from quantified signals only (labeled "quantified")
+  - Clickable count for quantified signals with criticality badges
+  - Clickable count for unquantified signals with criticality badges
+  - Click either count to open modal with specific signals
+
+Dollar amounts are extracted from rationale text using regex pattern matching. Amounts with M/B/K suffixes are normalized. Both quantified and unquantified counts display criticality badges (critical/high/medium/low) showing the breakdown of signals by severity.
+
 ### Metric Cards (3 columns)
 
-Emails Processed, Signals Detected, High Risk (clickable, red accent).
+Emails Processed, Signals Detected (clickable), High Risk (clickable, red accent).
+- Signals Detected opens modal showing all signals sorted by time (newest first)
+- High Risk opens modal showing critical/high alerts sorted by criticality
 
 ### Daily Volume Chart
 
@@ -80,8 +102,12 @@ Expandable accordion. Categories and signals are derived from the alerts array. 
 
 ### Modals
 
-- Signal instances modal: Shows alerts for a signal type, links to `{data.baseUrl}{runId}`
-- All alerts popup: Shows all alerts sorted by criticality (critical first, then high, medium, low)
+All modals display a subtitle indicating how the content is sorted.
+
+- Signal instances modal: Shows alerts for a signal type sorted by criticality, links to `{data.baseUrl}{runId}`
+- All signals modal: Shows all signals sorted by time (newest first)
+- High risk modal: Shows critical/high alerts sorted by criticality
+- Financial impact modal: Shows quantified/unquantified signals sorted by criticality
 
 ### Footer
 

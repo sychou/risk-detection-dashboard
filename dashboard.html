@@ -340,6 +340,13 @@
       font-weight: 600;
     }
 
+    .modal-subtitle {
+      font-size: 12px;
+      color: #737373;
+      font-weight: 400;
+      margin-top: 2px;
+    }
+
     .modal-close {
       width: 32px;
       height: 32px;
@@ -455,6 +462,104 @@
       color: #A3A3A3;
     }
 
+    /* Financial Impact */
+    .impact-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 16px;
+    }
+
+    .impact-card {
+      background: #F5F5F5;
+      border-radius: 6px;
+      padding: 16px;
+    }
+
+    .impact-card.recovery {
+      border-left: 3px solid #16A34A;
+    }
+
+    .impact-card.exposure {
+      border-left: 3px solid #DC2626;
+    }
+
+    .impact-card-title {
+      font-size: 14px;
+      font-weight: 500;
+      color: #171717;
+      margin-bottom: 8px;
+    }
+
+    .impact-total {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 24px;
+      font-weight: 600;
+      margin-bottom: 8px;
+    }
+
+    .impact-total.recovery {
+      color: #16A34A;
+    }
+
+    .impact-total.exposure {
+      color: #DC2626;
+    }
+
+    .impact-count-link {
+      font-size: 13px;
+      color: #525252;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 8px;
+    }
+
+    .impact-count-link:hover {
+      color: #171717;
+    }
+
+    .impact-count-link .link-text {
+      text-decoration: underline;
+      text-decoration-style: dotted;
+      text-underline-offset: 2px;
+    }
+
+    .impact-count-link .crit-badges {
+      display: flex;
+      gap: 4px;
+    }
+
+    .crit-badge {
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 11px;
+      font-weight: 500;
+      padding: 2px 6px;
+      border-radius: 3px;
+    }
+
+    .crit-badge.critical {
+      background: #FEE2E2;
+      color: #DC2626;
+    }
+
+    .crit-badge.high {
+      background: #FFEDD5;
+      color: #EA580C;
+    }
+
+    .crit-badge.medium {
+      background: #FEF3C7;
+      color: #CA8A04;
+    }
+
+    .crit-badge.low {
+      background: #F5F5F5;
+      color: #525252;
+    }
+
+
     /* Responsive */
     @media (max-width: 768px) {
       .metrics {
@@ -477,6 +582,10 @@
         text-align: left;
         margin-top: 4px;
       }
+
+      .impact-grid {
+        grid-template-columns: 1fr;
+      }
     }
   </style>
 </head>
@@ -488,13 +597,19 @@
       <p class="subtitle" id="dateRange"></p>
     </header>
 
+    <!-- Financial Impact -->
+    <div class="section">
+      <h2 class="section-title">Financial Impact Assessment</h2>
+      <div class="impact-grid" id="financialImpact"></div>
+    </div>
+
     <!-- Metric Cards -->
     <div class="metrics">
       <div class="metric-card">
         <div class="label">Emails Processed</div>
         <div class="value" id="emailsCount"></div>
       </div>
-      <div class="metric-card">
+      <div class="metric-card clickable" id="signalsCard">
         <div class="label">Signals Detected</div>
         <div class="value" id="signalsCount"></div>
       </div>
@@ -548,7 +663,10 @@
   <div class="modal-overlay" id="signalModal">
     <div class="modal">
       <div class="modal-header">
-        <h3 class="modal-title" id="signalModalTitle"></h3>
+        <div>
+          <h3 class="modal-title" id="signalModalTitle"></h3>
+          <div class="modal-subtitle" id="signalModalSubtitle"></div>
+        </div>
         <button class="modal-close" onclick="closeModal('signalModal')">
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
             <path d="M18 6L6 18M6 6l12 12"/>
@@ -561,19 +679,42 @@
     </div>
   </div>
 
-  <!-- High Risk Modal -->
-  <div class="modal-overlay" id="highRiskModal">
+  <!-- Alerts Modal -->
+  <div class="modal-overlay" id="alertsModal">
     <div class="modal">
       <div class="modal-header">
-        <h3 class="modal-title">All Alerts</h3>
-        <button class="modal-close" onclick="closeModal('highRiskModal')">
+        <div>
+          <h3 class="modal-title" id="alertsModalTitle">All Alerts</h3>
+          <div class="modal-subtitle" id="alertsModalSubtitle"></div>
+        </div>
+        <button class="modal-close" onclick="closeModal('alertsModal')">
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
             <path d="M18 6L6 18M6 6l12 12"/>
           </svg>
         </button>
       </div>
       <div class="modal-body">
-        <div class="alert-list" id="highRiskModalContent"></div>
+        <div class="alert-list" id="alertsModalContent"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Financial Impact Modal -->
+  <div class="modal-overlay" id="impactModal">
+    <div class="modal">
+      <div class="modal-header">
+        <div>
+          <h3 class="modal-title" id="impactModalTitle"></h3>
+          <div class="modal-subtitle" id="impactModalSubtitle"></div>
+        </div>
+        <button class="modal-close" onclick="closeModal('impactModal')">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+            <path d="M18 6L6 18M6 6l12 12"/>
+          </svg>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div class="alert-list" id="impactModalContent"></div>
       </div>
     </div>
   </div>
@@ -779,12 +920,18 @@
       item.classList.toggle('open');
     }
 
-    function renderAlertList(alerts, containerId) {
+    function renderAlertList(alerts, containerId, sortBy = 'criticality') {
       const container = document.getElementById(containerId);
 
-      // Sort by criticality
-      const critOrder = { critical: 0, high: 1, medium: 2, low: 3 };
-      const sorted = [...alerts].sort((a, b) => critOrder[a.criticality] - critOrder[b.criticality]);
+      let sorted;
+      if (sortBy === 'time') {
+        // Sort by datetime descending (newest first)
+        sorted = [...alerts].sort((a, b) => new Date(b.datetime) - new Date(a.datetime));
+      } else {
+        // Sort by criticality
+        const critOrder = { critical: 0, high: 1, medium: 2, low: 3 };
+        sorted = [...alerts].sort((a, b) => critOrder[a.criticality] - critOrder[b.criticality]);
+      }
 
       container.innerHTML = sorted.map(alert => `
         <div class="alert-item ${alert.criticality}">
@@ -802,13 +949,258 @@
     function openSignalModal(category, signal) {
       const alerts = data.alerts.filter(a => a.category === category && a.signal === signal);
       document.getElementById('signalModalTitle').textContent = signal;
-      renderAlertList(alerts, 'signalModalContent');
+      document.getElementById('signalModalSubtitle').textContent = 'Sorted by criticality';
+      renderAlertList(alerts, 'signalModalContent', 'criticality');
       document.getElementById('signalModal').classList.add('open');
     }
 
+    function openSignalsModal() {
+      document.getElementById('alertsModalTitle').textContent = 'All Signals';
+      document.getElementById('alertsModalSubtitle').textContent = 'Sorted by time (newest first)';
+      renderAlertList(data.alerts, 'alertsModalContent', 'time');
+      document.getElementById('alertsModal').classList.add('open');
+    }
+
     function openHighRiskModal() {
-      renderAlertList(data.alerts, 'highRiskModalContent');
-      document.getElementById('highRiskModal').classList.add('open');
+      document.getElementById('alertsModalTitle').textContent = 'High Risk Alerts';
+      document.getElementById('alertsModalSubtitle').textContent = 'Sorted by criticality';
+      const highRiskAlerts = data.alerts.filter(a => a.criticality === 'critical' || a.criticality === 'high');
+      renderAlertList(highRiskAlerts, 'alertsModalContent', 'criticality');
+      document.getElementById('alertsModal').classList.add('open');
+    }
+
+    function computeFinancialImpact() {
+      // Extract dollar amounts from rationale text
+      const dollarRegex = /\$[\d,]+(?:\.\d{2})?(?:\s*[–-]\s*\$?[\d,]+)?(?:\s*[MBK])?/gi;
+
+      const quantifiedRecovery = [];
+      const quantifiedExposure = [];
+      const unquantifiedRecovery = [];
+      const unquantifiedExposure = [];
+
+      // Signal types that represent recovery opportunities
+      const recoverySignals = ['Subrogation Indicators', 'Excess Carrier Notification'];
+
+      // Signal types that represent high-severity exposure (unquantified)
+      const exposureSignals = [
+        'Fatality or Catastrophic Injury', 'Catastrophic Injury', 'Class Action',
+        'Cyber/Data Breach', 'Sexual Abuse / Misconduct', 'Extreme Allegations',
+        'Catastrophic Property Loss', 'Environmental: PFAS / AFFF', 'Punitive Damage Setup',
+        'Multi-Claimant Linkage'
+      ];
+
+      // Track unique alerts by runId to avoid double-counting
+      const processedRunIds = new Set();
+
+      data.alerts.forEach(alert => {
+        const amounts = alert.rationale.match(dollarRegex) || [];
+        const hasAmount = amounts.length > 0;
+        const isRecovery = recoverySignals.includes(alert.signal);
+        const isHighExposure = exposureSignals.includes(alert.signal) ||
+                              alert.criticality === 'critical' ||
+                              alert.criticality === 'high';
+
+        if (hasAmount) {
+          // Parse and normalize the amount
+          amounts.forEach(amt => {
+            let normalized = amt.replace(/,/g, '');
+            let value = 0;
+            let displayAmt = amt;
+
+            // Handle ranges like "$40–50M"
+            if (normalized.includes('–') || normalized.includes('-')) {
+              const parts = normalized.split(/[–-]/);
+              const high = parts[parts.length - 1];
+              if (high.toUpperCase().includes('M')) {
+                value = parseFloat(high.replace(/[^\d.]/g, '')) * 1000000;
+              } else if (high.toUpperCase().includes('B')) {
+                value = parseFloat(high.replace(/[^\d.]/g, '')) * 1000000000;
+              } else if (high.toUpperCase().includes('K')) {
+                value = parseFloat(high.replace(/[^\d.]/g, '')) * 1000;
+              } else {
+                value = parseFloat(high.replace(/[^\d.]/g, ''));
+              }
+            } else {
+              if (normalized.toUpperCase().includes('M')) {
+                value = parseFloat(normalized.replace(/[^\d.]/g, '')) * 1000000;
+              } else if (normalized.toUpperCase().includes('B')) {
+                value = parseFloat(normalized.replace(/[^\d.]/g, '')) * 1000000000;
+              } else if (normalized.toUpperCase().includes('K')) {
+                value = parseFloat(normalized.replace(/[^\d.]/g, '')) * 1000;
+              } else {
+                value = parseFloat(normalized.replace(/[^\d.]/g, ''));
+              }
+            }
+
+            if (value > 0) {
+              const item = {
+                signal: alert.signal,
+                amount: displayAmt,
+                value: value,
+                runId: alert.runId,
+                criticality: alert.criticality
+              };
+
+              if (isRecovery && alert.signal === 'Subrogation Indicators') {
+                quantifiedRecovery.push(item);
+              } else {
+                quantifiedExposure.push(item);
+              }
+            }
+          });
+        } else if (!processedRunIds.has(alert.runId + alert.signal)) {
+          processedRunIds.add(alert.runId + alert.signal);
+
+          if (isRecovery) {
+            unquantifiedRecovery.push({
+              signal: alert.signal,
+              criticality: alert.criticality,
+              runId: alert.runId
+            });
+          } else if (isHighExposure) {
+            unquantifiedExposure.push({
+              signal: alert.signal,
+              criticality: alert.criticality,
+              runId: alert.runId
+            });
+          }
+        }
+      });
+
+      return { quantifiedRecovery, quantifiedExposure, unquantifiedRecovery, unquantifiedExposure };
+    }
+
+    function formatCurrency(value) {
+      if (value >= 1000000) {
+        return '$' + (value / 1000000).toFixed(1) + 'M';
+      } else if (value >= 1000) {
+        return '$' + (value / 1000).toFixed(1) + 'K';
+      }
+      return '$' + value.toLocaleString();
+    }
+
+    // Store financial impact data globally for modal access
+    let financialImpactData = null;
+
+    function renderFinancialImpact() {
+      const impact = computeFinancialImpact();
+      financialImpactData = impact;
+      const container = document.getElementById('financialImpact');
+
+      // Calculate totals
+      const recoveryTotal = impact.quantifiedRecovery.reduce((sum, i) => sum + i.value, 0);
+      const exposureTotal = impact.quantifiedExposure.reduce((sum, i) => sum + i.value, 0);
+
+      // Count criticalities for a list of items
+      const countCriticalities = (items) => {
+        const counts = { critical: 0, high: 0, medium: 0, low: 0 };
+        items.forEach(item => counts[item.criticality]++);
+        return counts;
+      };
+
+      const quantifiedRecoveryCounts = countCriticalities(impact.quantifiedRecovery);
+      const quantifiedExposureCounts = countCriticalities(impact.quantifiedExposure);
+      const unquantifiedRecoveryCounts = countCriticalities(impact.unquantifiedRecovery);
+      const unquantifiedExposureCounts = countCriticalities(impact.unquantifiedExposure);
+
+      // Build criticality badges HTML
+      const buildCritBadges = (counts) => {
+        let badges = '';
+        if (counts.critical > 0) badges += `<span class="crit-badge critical">${counts.critical}</span>`;
+        if (counts.high > 0) badges += `<span class="crit-badge high">${counts.high}</span>`;
+        if (counts.medium > 0) badges += `<span class="crit-badge medium">${counts.medium}</span>`;
+        if (counts.low > 0) badges += `<span class="crit-badge low">${counts.low}</span>`;
+        return badges ? `<span class="crit-badges">${badges}</span>` : '';
+      };
+
+      // Build HTML
+      let html = `
+        <div class="impact-card recovery">
+          <div class="impact-card-title">Recovery Potential</div>
+          ${recoveryTotal > 0 ? `<div class="impact-total recovery">${formatCurrency(recoveryTotal)} <span style="font-size: 12px; font-weight: 400; color: #737373;">quantified</span></div>` : ''}
+          ${impact.quantifiedRecovery.length > 0 ? `
+            <div class="impact-count-link" onclick="openImpactModal('recovery-quantified')">
+              <span class="link-text">${impact.quantifiedRecovery.length} quantified signal${impact.quantifiedRecovery.length > 1 ? 's' : ''}</span>
+              ${buildCritBadges(quantifiedRecoveryCounts)}
+            </div>
+          ` : ''}
+          ${impact.unquantifiedRecovery.length > 0 ? `
+            <div class="impact-count-link" onclick="openImpactModal('recovery-unquantified')">
+              <span class="link-text">${impact.unquantifiedRecovery.length} unquantified signal${impact.unquantifiedRecovery.length > 1 ? 's' : ''}</span>
+              ${buildCritBadges(unquantifiedRecoveryCounts)}
+            </div>
+          ` : ''}
+        </div>
+
+        <div class="impact-card exposure">
+          <div class="impact-card-title">Exposure & Reserves Impact</div>
+          ${exposureTotal > 0 ? `<div class="impact-total exposure">${formatCurrency(exposureTotal)} <span style="font-size: 12px; font-weight: 400; color: #737373;">quantified</span></div>` : ''}
+          ${impact.quantifiedExposure.length > 0 ? `
+            <div class="impact-count-link" onclick="openImpactModal('exposure-quantified')">
+              <span class="link-text">${impact.quantifiedExposure.length} quantified signal${impact.quantifiedExposure.length > 1 ? 's' : ''}</span>
+              ${buildCritBadges(quantifiedExposureCounts)}
+            </div>
+          ` : ''}
+          ${impact.unquantifiedExposure.length > 0 ? `
+            <div class="impact-count-link" onclick="openImpactModal('exposure-unquantified')">
+              <span class="link-text">${impact.unquantifiedExposure.length} unquantified signal${impact.unquantifiedExposure.length > 1 ? 's' : ''}</span>
+              ${buildCritBadges(unquantifiedExposureCounts)}
+            </div>
+          ` : ''}
+        </div>
+      `;
+
+      container.innerHTML = html;
+    }
+
+    function openImpactModal(type) {
+      if (!financialImpactData) return;
+
+      const titles = {
+        'recovery-quantified': 'Quantified Recovery Potential',
+        'recovery-unquantified': 'Unquantified Recovery Opportunities',
+        'exposure-quantified': 'Quantified Exposure',
+        'exposure-unquantified': 'Unquantified High-Severity Exposure'
+      };
+
+      const itemsMap = {
+        'recovery-quantified': financialImpactData.quantifiedRecovery,
+        'recovery-unquantified': financialImpactData.unquantifiedRecovery,
+        'exposure-quantified': financialImpactData.quantifiedExposure,
+        'exposure-unquantified': financialImpactData.unquantifiedExposure
+      };
+
+      const items = itemsMap[type];
+      const isQuantified = type.includes('quantified') && !type.includes('unquantified');
+      const isRecovery = type.includes('recovery');
+
+      document.getElementById('impactModalTitle').textContent = titles[type];
+      document.getElementById('impactModalSubtitle').textContent = 'Sorted by criticality';
+
+      // Get full alert data for each item
+      const alerts = items.map(item => {
+        const alert = data.alerts.find(a => a.runId === item.runId && a.signal === item.signal);
+        return { ...alert, extractedAmount: item.amount || null };
+      });
+
+      // Sort by criticality
+      const critOrder = { critical: 0, high: 1, medium: 2, low: 3 };
+      alerts.sort((a, b) => critOrder[a.criticality] - critOrder[b.criticality]);
+
+      const container = document.getElementById('impactModalContent');
+      container.innerHTML = alerts.map(alert => `
+        <div class="alert-item ${alert.criticality}">
+          <div class="alert-header">
+            <span class="alert-datetime">${formatDateTime(alert.datetime)}</span>
+            <span class="alert-criticality ${alert.criticality}">${alert.criticality}</span>
+          </div>
+          <div class="alert-signal">${alert.signal}${alert.extractedAmount ? ` <span style="font-family: 'IBM Plex Mono', monospace; font-weight: 600; color: ${isRecovery ? '#16A34A' : '#DC2626'};">${alert.extractedAmount}</span>` : ''}</div>
+          <div class="alert-rationale">${alert.rationale}</div>
+          <a href="${data.baseUrl}${alert.runId}" target="_blank" class="alert-link">${alert.runId}</a>
+        </div>
+      `).join('');
+
+      document.getElementById('impactModal').classList.add('open');
     }
 
     function closeModal(modalId) {
@@ -833,12 +1225,14 @@
 
     // Initialize
     document.getElementById('highRiskCard').addEventListener('click', openHighRiskModal);
+    document.getElementById('signalsCard').addEventListener('click', openSignalsModal);
 
     const stats = computeStats();
     renderDateRange();
     renderMetrics(stats);
     renderDailyChart(stats);
     renderAccordion(stats);
+    renderFinancialImpact();
   </script>
 </body>
 </html>
