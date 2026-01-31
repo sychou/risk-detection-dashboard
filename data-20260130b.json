@@ -1358,6 +1358,14 @@
       "criticality": "medium"
     },
     {
+      "datetime": "2026-01-27T07:51:00",
+      "runId": "01KFZVG83C3H6XJ2JSGAR942K4",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Attached letter states the law office represents Roberto Ramos for this loss and requests all communications be directed to them.",
+      "criticality": "medium"
+    },
+    {
       "datetime": "2026-01-27T08:17:00",
       "runId": "01KFZX005P7ZH33WGQQBRH6S5A",
       "category": "Multi-Claimant Exposure",
@@ -1942,12 +1950,36 @@
       "criticality": "medium"
     },
     {
+      "datetime": "2026-01-28T09:54:00",
+      "runId": "01KG2MZQY7TPS3AF9CV72QJ4QZ",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Law office states it has been retained to represent claimant Jessie Domenech for this auto accident, indicating initial attorney representation notice on the PIP claim.",
+      "criticality": "medium"
+    },
+    {
       "datetime": "2026-01-28T10:26:00",
       "runId": "01KG2PSCNBB6REGCVZEEJN63MF",
       "category": "Coverage Issues",
       "signal": "Policy Inception Proximity",
       "rationale": "Email shows date of loss 12/29/25 and policy effective date 12/15/25, indicating a loss occurring only two weeks after policy inception.",
       "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-28T10:38:00",
+      "runId": "01KG2QH0DFTPG88SZA2Q0GGDBV",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Email from law firm encloses PIP letter of representation for claimant Jessie Domenech, indicating first notice that claimant is represented by counsel on this claim.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-28T10:53:00",
+      "runId": "01KG2RAT1TR8PA1AJT2YEDKJ7W",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Attorney Stephanie Carter states her office has been retained to represent claimant Jessie Domenech regarding this auto accident, constituting first notice of attorney representation on the claim.",
+      "criticality": "medium"
     },
     {
       "datetime": "2026-01-28T10:54:00",
@@ -2062,6 +2094,14 @@
       "criticality": "low"
     },
     {
+      "datetime": "2026-01-28T11:59:00",
+      "runId": "01KG2W4R41PN2Y02QMGN55QPGV",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Law firm emails a new PIP claim with an attached letter of representation for client Jessie Domenech, constituting first notice of attorney involvement.",
+      "criticality": "medium"
+    },
+    {
       "datetime": "2026-01-28T12:39:00",
       "runId": "01KG2YCCCJAV9KPR6W5A3ZB0D6",
       "category": "Litigation & Legal",
@@ -2099,6 +2139,14 @@
       "category": "Claim Severity & Complexity",
       "signal": "Biopsychosocial Complexity",
       "rationale": "Application and intake describe chronic workplace stress, depression, insomnia, headaches, relationship strain, and sleeping-pill use, indicating psychosocial barriers to recovery and elevated risk of prolonged disability.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-28T13:20:00",
+      "runId": "01KG30RDVAHAT7R7ZTVERMBBSN",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Email provides the first attorney letter of representation for claimant Roberto Ramos from the Law Office of Raymond Sarraf.",
       "criticality": "medium"
     },
     {
@@ -2198,6 +2246,14 @@
       "criticality": "medium"
     },
     {
+      "datetime": "2026-01-28T14:53:00",
+      "runId": "01KG3635QZ5WDDT1ACF9JTQQBE",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Email from claimant's law office attaching a letter of representation gives first notice that Roberto Ramos is now represented by attorney Raymond Sarraf in this loss.",
+      "criticality": "medium"
+    },
+    {
       "datetime": "2026-01-28T15:04:00",
       "runId": "01KG36P6JAY44Z6FZ4BE60VN2N",
       "category": "Subrogation & Recovery",
@@ -2230,12 +2286,44 @@
       "criticality": "low"
     },
     {
+      "datetime": "2026-01-28T15:13:00",
+      "runId": "01KG378JZ22WAR66BTQP2P4HAH",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Email from Law Office of Raymond Sarraf attaches a letter of representation for claimant Roberto Ramos, providing first notice that he is represented by legal counsel.",
+      "criticality": "medium"
+    },
+    {
       "datetime": "2026-01-28T15:19:00",
       "runId": "01KG37KDS502TZCYT81Y9R86W5",
       "category": "Subrogation & Recovery",
       "signal": "Subrogation Indicators",
       "rationale": "Email states another vehicle crossed lanes and struck the insured's car, indicating a potentially at-fault third-party driver and subrogation recovery opportunity.",
       "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-28T15:22:00",
+      "runId": "01KG37QAZW0JZSTEGNCZRGZQF2",
+      "category": "Litigation Tactics",
+      "signal": "Punitive Damage Setup",
+      "rationale": "Petition includes an 'Exemplary Damages' section alleging willful and wanton conduct and conscious indifference, expressly requesting exemplary damages against the defendant.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-28T15:22:00",
+      "runId": "01KG37QAZW0JZSTEGNCZRGZQF2",
+      "category": "Multi-Claimant Exposure",
+      "signal": "Multi-Claimant Linkage",
+      "rationale": "Court petition names two plaintiffs, Cano and Avila, both injured in the same March 27, 2024 auto accident involving the same defendant and vehicle.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-28T15:22:00",
+      "runId": "01KG37QAZW0JZSTEGNCZRGZQF2",
+      "category": "Litigation Tactics",
+      "signal": "Judicial Hellhole / Venue",
+      "rationale": "Lawsuit filed in the 133rd Judicial District Court of Harris County, Texas, a recognized plaintiff-friendly venue with explicit venue allegations in the petition and notice.",
+      "criticality": "high"
     },
     {
       "datetime": "2026-01-28T15:26:00",
@@ -2366,6 +2454,38 @@
       "criticality": "low"
     },
     {
+      "datetime": "2026-01-29T07:08:00",
+      "runId": "01KG4XVJH55BXHBFA3254BY6HE",
+      "category": "Coverage Issues",
+      "signal": "Policy Inception Proximity",
+      "rationale": "Loss occurred 14 days after policy FIR1122896 inception (12/15/25 effective date, 12/29/25 date of loss), indicating a policy inception proximity loss exposure.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-29T07:08:00",
+      "runId": "01KG4XTSQKK43BPZ9ZEXGBX5MB",
+      "category": "Litigation Tactics",
+      "signal": "Punitive Damage Setup",
+      "rationale": "Petition includes an 'Exemplary Damages' section alleging willful and wanton conduct and expressly seeking exemplary damages against the insured's driver.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-29T07:08:00",
+      "runId": "01KG4XTSQKK43BPZ9ZEXGBX5MB",
+      "category": "Multi-Claimant Exposure",
+      "signal": "Multi-Claimant Linkage",
+      "rationale": "Lawsuit names two plaintiffs, Cano and Avila, both injured in the same March 27, 2024 auto accident involving the insured driver.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-29T07:08:00",
+      "runId": "01KG4XTSQKK43BPZ9ZEXGBX5MB",
+      "category": "Litigation Tactics",
+      "signal": "Judicial Hellhole / Venue",
+      "rationale": "Suit is filed in the 133rd Judicial District Court of Harris County, Texas, an explicitly identified venue for this auto liability claim.",
+      "criticality": "high"
+    },
+    {
       "datetime": "2026-01-29T07:13:00",
       "runId": "01KG4Y52XCXVEY5WJ4MK91YJM0",
       "category": "Subrogation & Recovery",
@@ -2422,6 +2542,14 @@
       "criticality": "low"
     },
     {
+      "datetime": "2026-01-29T10:21:00",
+      "runId": "01KG58JQM7H2EFB4EW40PSV4JP",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Plaintiff firm Isaacs & Isaacs sends a letter advising they represent claimant Thomas J. Fuller for this auto accident and directs all future correspondence through their office.",
+      "criticality": "medium"
+    },
+    {
       "datetime": "2026-01-29T10:50:00",
       "runId": "01KG5AH2629S1HMTHTMZ9JE3T5",
       "category": "Subrogation & Recovery",
@@ -2454,6 +2582,38 @@
       "criticality": "high"
     },
     {
+      "datetime": "2026-01-29T11:43:00",
+      "runId": "01KG5DKGWQ3EF9K8X8TGB8SKDG",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Demand letters show Engel Law and Rowley Law representing stockholders Masri and Grant, providing first notice that these claimants are represented by counsel.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-29T11:43:00",
+      "runId": "01KG5DKGWQ3EF9K8X8TGB8SKDG",
+      "category": "Multi-Claimant Exposure",
+      "signal": "Multi-Claimant Linkage",
+      "rationale": "Email forwards two stockholder demand letters from Carter Grant and James Masri, both challenging the same Confluent–IBM merger transaction as a common event.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-29T11:51:00",
+      "runId": "01KG5E2JAWRP4JCDZPWC90AKK0",
+      "category": "Coverage Issues",
+      "signal": "Policy Inception Proximity",
+      "rationale": "Loss occurred 12/29/25 under policy FIR1122896 effective 12/15/25–12/15/26, indicating a wind tower loss only two weeks after policy inception.",
+      "criticality": "low"
+    },
+    {
+      "datetime": "2026-01-29T11:51:00",
+      "runId": "01KG5E2JAWRP4JCDZPWC90AKK0",
+      "category": "Coverage Issues",
+      "signal": "Out-of-Territory Loss",
+      "rationale": "Claim reports wind damage at Palmer, Alaska location not listed on policy FIR1122896; internal emails state Alaska is not shown on the policy or SOV.",
+      "criticality": "medium"
+    },
+    {
       "datetime": "2026-01-29T11:52:00",
       "runId": "01KG5E3RFTKS1ADA1ZMKPRK0YD",
       "category": "Claim Severity & Complexity",
@@ -2478,6 +2638,22 @@
       "criticality": "medium"
     },
     {
+      "datetime": "2026-01-29T12:07:00",
+      "runId": "01KG5EXES9BY2WECTMFCSJA180",
+      "category": "Litigation & Legal",
+      "signal": "Attorney Representation",
+      "rationale": "Attachments are stockholder demand letters from Engel Law PLLC and Rowley Law PLLC stating they write on behalf of Carter Grant and James Masri, indicating first notice of representation.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-29T12:07:00",
+      "runId": "01KG5EXES9BY2WECTMFCSJA180",
+      "category": "Multi-Claimant Exposure",
+      "signal": "Multi-Claimant Linkage",
+      "rationale": "The correspondence and attached demand letters involve two stockholders, Carter Grant and James Masri, both challenging the same Confluent–IBM merger proxy disclosures, indicating multiple claimants from one transaction.",
+      "criticality": "medium"
+    },
+    {
       "datetime": "2026-01-29T13:42:00",
       "runId": "01KG5MCEAZ0F3X6M315R72913Y",
       "category": "Litigation & Legal",
@@ -2492,6 +2668,30 @@
       "signal": "Multi-Claimant Linkage",
       "rationale": "The representation letter identifies multiple clients injured in the same January 25, 2026 automobile accident under claim 1748434.",
       "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-29T13:57:00",
+      "runId": "01KG5N7F99TE3NAXJDSXYYBM5B",
+      "category": "Claim Severity & Complexity",
+      "signal": "Critical Severity Event",
+      "rationale": "Email reports planned escalation to DOT and FMCSA for review of insured's operations, creating regulatory scrutiny and reputational exposure.",
+      "criticality": "high"
+    },
+    {
+      "datetime": "2026-01-29T13:57:00",
+      "runId": "01KG5N7F99TE3NAXJDSXYYBM5B",
+      "category": "Professional Liability",
+      "signal": "Professional Liability: E&O",
+      "rationale": "Correspondence alleges the motor carrier lacks adequate internal controls and oversight, allowing employees to misuse operating authority and insurance for fraudulent freight bookings.",
+      "criticality": "medium"
+    },
+    {
+      "datetime": "2026-01-29T13:57:00",
+      "runId": "01KG5N7F99TE3NAXJDSXYYBM5B",
+      "category": "Litigation Tactics",
+      "signal": "Punitive Damage Setup",
+      "rationale": "Email accuses insured's staff and leadership of a coordinated, intentional cargo theft attempt and hijacking of freight, alleging knowing, fraudulent misconduct beyond ordinary negligence.",
+      "criticality": "high"
     },
     {
       "datetime": "2026-01-29T15:26:00",
